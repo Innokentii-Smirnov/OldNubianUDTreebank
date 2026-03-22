@@ -9,33 +9,33 @@ a	_	_		ADP	a
 a	_	Mood=Sub		PART	a
 abba	_	_	for	SCONJ	abba
 aga	ag-	VerbForm=Conv	sit	VERB	aga
-aggelosnȧ	aggelos	Case=Gen|Number=Sing	angel	NOUN	aggelosnȧ
+aggelos-nȧ	aggelos	Case=Gen|Number=Sing	angel	NOUN	aggelosnȧ
 aggelosu	aggelos	Case=Loc|Number=Sing	angel	NOUN	aggelosu
-agoppil	agopp(i)	Case=Dat|Number=Sing	корабельщик, кормчий	NOUN	agoppil
-agora	agor-	VerbForm=Conv	забывать	VERB	agora
-agra	ag-	Aspect=Imp|VerbForm=Conv	sit	VERB	agra
-akil	ak-	Tense=Pres|VerbForm=Part	sit	VERB	akil
+agopp-il	agopp(i)	Case=Dat|Number=Sing	корабельщик, кормчий	NOUN	agoppil
+agor-a	agor-	VerbForm=Conv	забывать	VERB	agora
+ag-r-a	ag-	Aspect=Imp|VerbForm=Conv	sit	VERB	agra
+ak-il	ak-	Tense=Pres|VerbForm=Part	sit	VERB	akil
 ale	_	_	verily	ADV	ale
-alliluïaka	allēluia	Case=Acc|Number=Sing	alleluia	NOUN	alliluïaka
+alliluïa-ka	allēluia	Case=Acc|Number=Sing	alleluia	NOUN	alliluïaka
 allēluïa	allēluia	Case=Nom|Number=Sing	alleluia	NOUN	allēluïa
-amadīǧarasin	ama-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past		VERB	amadīǧarasin
-amanka	aman	Case=Acc|Number=Sing	вода	NOUN	amanka
+amadīǧara-s-in	ama-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past		VERB	amadīǧarasin
+aman-ka	aman	Case=Acc|Number=Sing	вода	NOUN	amanka
 amin	_	_	Amen	ADV	amin
 amin	_	_	аминь	INTJ	amin
 amsu	ams	Case=Loc|Definite=Def|Number=Plur	?	NOUN	amsu
 an	ay	Case=Gen|Number=Sing|Person=1|PronType=Prs	я	PRON	an
-anke	ank-	Mood=Imp|Number=Sing|Person=2	remember	VERB	anke
-ankiminna	ank-	_	вспоминать	VERB	ankiminna
+ank-e	ank-	Mood=Imp|Number=Sing|Person=2	remember	VERB	anke
+ank-imin-na	ank-	_	вспоминать	VERB	ankiminna
 anni	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	мой	DET	anni
-an̂araṅa	an̂araṅ-	VerbForm=Conv	оживать	VERB	an̂araṅa
-an̂en	an̂e	Case=Gen|Number=Sing	жизнь	NOUN	an̂en
-an̂ǧika	an̂ǧi	Case=Acc|Number=Sing	life; also Saviour (?)	NOUN	an̂ǧika
-an̂ǧin	an̂ǧi	Case=Gen|Number=Sing	life	NOUN	an̂ǧin
+an̂araṅ-a	an̂araṅ-	VerbForm=Conv	оживать	VERB	an̂araṅa
+an̂e-n	an̂e	Case=Gen|Number=Sing	жизнь	NOUN	an̂en
+an̂ǧi-ka	an̂ǧi	Case=Acc|Number=Sing	life; also Saviour (?)	NOUN	an̂ǧika
+an̂ǧi-n	an̂ǧi	Case=Gen|Number=Sing	life	NOUN	an̂ǧin
 an̂i	an̂i-	Tense=Pres|VerbForm=Part	live	VERB	an̂i
-an̂inno	an̂e	Case=Loc|Definite=Def|Number=Sing	life	NOUN	an̂inno
-apoggil	agopp(i)	Case=Dat|Definite=Def|Number=Sing	корабельщик, кормчий	NOUN	apoggil
-apoggil	agopp(i)	Case=Nom|Definite=Def|Number=Sing	корабельщик, кормчий	NOUN	apoggil
-apoggin	agopp(i)	Case=Gen|Number=Sing	корабельщик, кормчий	NOUN	apoggin
+an̂i-n-no	an̂e	Case=Loc|Definite=Def|Number=Sing	life	NOUN	an̂inno
+apoggi-l	agopp(i)	Case=Dat|Definite=Def|Number=Sing	корабельщик, кормчий	NOUN	apoggil
+apoggi-l	agopp(i)	Case=Nom|Definite=Def|Number=Sing	корабельщик, кормчий	NOUN	apoggil
+apoggi-n	agopp(i)	Case=Gen|Number=Sing	корабельщик, кормчий	NOUN	apoggin
 appa	_	_	for	SCONJ	appa
 armiskire	arm-	Case=Loc|Number=Sing	?	NOUN	armiskire
 arrinnagra	arrinnagir-	VerbForm=Conv	потрясать / целиться	VERB	arrinnagra
@@ -44,110 +44,110 @@ artosi	artos	Case=Abs|Number=Sing	bread (of Sacrament)	NOUN	artosi
 asin	as	Case=Gen|Number=Sing	трюм	NOUN	asin
 as-ka	as	Case=Acc|Number=Sing	дочь	NOUN	aska
 aw	aw(i)	Case=Acc|Number=Sing	лодка, корабль	NOUN	aw
-awarre	aw-	Number=Sing|Person=1|Tense=Fut	делать	VERB	awarre
-awarrinna	aw-	Number=Sing|Person=2|Tense=Fut	делать	VERB	awarrinna
+aw-arr-e	aw-	Number=Sing|Person=1|Tense=Fut	делать	VERB	awarre
+aw-arr-inna	aw-	Number=Sing|Person=2|Tense=Fut	делать	VERB	awarrinna
 aw-ǧil-gu-ka	aw-	Case=Acc|Number=Plur|VerbForm=Part	делать	VERB	awǧilguka
 awi-k	aw(i)	Case=Acc|Number=Sing	лодка, корабль	NOUN	awik
 awir	awir-	Case=Loc|Number=Sing	крыло	NOUN	awir
-awlose	awlos-	Mood=Imp|Number=Sing|Person=2	спасать	VERB	awlose
+awlos-e	awlos-	Mood=Imp|Number=Sing|Person=2	спасать	VERB	awlose
 awol	aw-	Tense=Pqp|VerbForm=Part	do, make	VERB	awol
 awsa	aw-	Case=Abs|Number=Sing|Tense=Past|VerbForm=Part	делать	VERB	awsa
 awtakaraȧ	aw-	Aspect=Imp|VerbForm=Conv|Voice=Pass	do, make; passive become, happen	VERB	awtakaraȧ
-awtakkon	aw-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes|Voice=Pass	do, make	VERB	awtakkon
+aw-tak-ko-n	aw-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes|Voice=Pass	do, make	VERB	awtakkon
 aw-tak-o-n	aw-	Number=Plur|Person=3|Subordinative=Yes|Tense=Pqp	делать; пасс. случаться, происходить	VERB	awtakon
-awuǧana	awu-	Mood=Imp|Number=Plur|Number[obj]=Plur|Person=2	do, make	VERB	awuǧana
-awuǧuka	awu-	Case=Acc|Number=Sing|Number[obj]=Plur|VerbForm=Part	do, make	VERB	awuǧuka
-awulgul	awu-	Definite=Def|Number=Plur|VerbForm=Part	do, make	VERB	awulgul
-awėsi	aw-	Case=Loc|Number=Sing|Person=1|Subordinative=Yes|Tense=Past	делать	VERB	awėsi
+awu-ǧ-ana	awu-	Mood=Imp|Number=Plur|Number[obj]=Plur|Person=2	do, make	VERB	awuǧana
+awu-ǧu-ka	awu-	Case=Acc|Number=Sing|Number[obj]=Plur|VerbForm=Part	do, make	VERB	awuǧuka
+awu-l-gu-l	awu-	Definite=Def|Number=Plur|VerbForm=Part	do, make	VERB	awulgul
+awė-s-i	aw-	Case=Loc|Number=Sing|Person=1|Subordinative=Yes|Tense=Past	делать	VERB	awėsi
 awȧ	aw-	VerbForm=Conv	do, make	VERB	awȧ
 awȧ	aw-	VerbForm=Conv	делать	VERB	awȧ
 ay	ay	Case=Nom|Number=Sing|Person=1|PronType=Prs	я	PRON	ay
-aydal	ay	Case=Com|Number=Sing|Person=1|PronType=Prs	я	PRON	aydal
-aygil	ay	Case=Dat|Number=Sing|Person=1|PronType=Prs	я	PRON	aygil
-ayik'	ay	Case=Acc|Number=Sing|Person=1|PronType=Prs	я	PRON	ayik'
-ayka	ay	Case=Acc|Number=Sing|Person=1|PronType=Prs	я	PRON	ayka
+ay-dal	ay	Case=Com|Number=Sing|Person=1|PronType=Prs	я	PRON	aydal
+ay-gil	ay	Case=Dat|Number=Sing|Person=1|PronType=Prs	я	PRON	aygil
+ayi-k'	ay	Case=Acc|Number=Sing|Person=1|PronType=Prs	я	PRON	ayik'
+ay-ka	ay	Case=Acc|Number=Sing|Person=1|PronType=Prs	я	PRON	ayka
 ay-lla	ay	Case=Ine|Definite=Def|Number=Sing	сердце, душа	NOUN	aylla
 aï	aī	Case=Nom|Number=Sing	heart	NOUN	aï
 aï	aī	Case=Nom|Number=Sing	heart?	NOUN	aï
-aïka	ai	Case=Acc|Number=Sing|Person=1|PronType=Prs	I	PRON	aïka
+aï-ka	ai	Case=Acc|Number=Sing|Person=1|PronType=Prs	I	PRON	aïka
 aēttakatame	aēttak-	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	беспокоиться, тревожиться	VERB	aēttakatame
-aīldo	aī	Case=Sup|Number=Sing	heart	NOUN	aīldo
-aīlka	aī	Case=Acc|Definite=Def|Number=Sing	heart	NOUN	aīlka
-aīlla	aī	Case=Ine|Definite=Def|Number=Sing	heart	NOUN	aīlla
-aīllo	aī	Case=Loc|Definite=Def|Number=Sing	heart	NOUN	aīllo
+aī-l-do	aī	Case=Sup|Number=Sing	heart	NOUN	aīldo
+aī-l-ka	aī	Case=Acc|Definite=Def|Number=Sing	heart	NOUN	aīlka
+aī-l-la	aī	Case=Ine|Definite=Def|Number=Sing	heart	NOUN	aīlla
+aī-l-lo	aī	Case=Loc|Definite=Def|Number=Sing	heart	NOUN	aīllo
 dal	_	_		ADP	dal
 dallo	dallo	Case=Nom|Number=Sing	?	NOUN	dallo
-dalloka	dallo	Case=Acc|Number=Sing	?	NOUN	dalloka
-darpneka	darpne	Case=Acc|Number=Sing	жертвоприношение	NOUN	darpneka
+dallo-ka	dallo	Case=Acc|Number=Sing	?	NOUN	dalloka
+darpne-ka	darpne	Case=Acc|Number=Sing	жертвоприношение	NOUN	darpneka
 dawi	dawi	_	большой, великий	ADJ	dawi
 dawē	dawī	_	great	ADJ	dawē
-dawīna	daw-	Number=Sing|Person=2|Tense=Pres	be with	VERB	dawīna
+dawī-na	daw-	Number=Sing|Person=2|Tense=Pres	be with	VERB	dawīna
 de	_	_		CCONJ	de
 de	_	_	and	CCONJ	de
 de	_	_	и	CCONJ	de
 de	_	_	и	SCONJ	de
 de	_	_	и, но	SCONJ	de
 de-kel	_	_	и	CCONJ	de-kel
-degerio	deger	Case=Loc|Number=Sing	община	NOUN	degerio
-deggin	degg	Case=Gen|Number=Sing	?	NOUN	deggin
-denǧikan	den-	Mood=Cnd|Number=Sing|Number[obj]=Plur|Person=3|Subordinative=Yes	give (to me or us)	VERB	denǧikan
-denǧiska	den-	Case=Acc|Number=Sing|Number[obj]=Plur|Tense=Past|VerbForm=Part	давать мне, нам	VERB	denǧiska
-denkon	den-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	давать мне, нам	VERB	denkon
+deger-io	deger	Case=Loc|Number=Sing	община	NOUN	degerio
+degg-in	degg	Case=Gen|Number=Sing	?	NOUN	deggin
+den-ǧi-ka-n	den-	Mood=Cnd|Number=Sing|Number[obj]=Plur|Person=3|Subordinative=Yes	give (to me or us)	VERB	denǧikan
+den-ǧi-s-ka	den-	Case=Acc|Number=Sing|Number[obj]=Plur|Tense=Past|VerbForm=Part	давать мне, нам	VERB	denǧiska
+den-ko-n	den-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	давать мне, нам	VERB	denkon
 dessi	dessi	_	green, blue (M. K. D.)	ADJ	dessi
 die	diy	_	многий, многочисленный; много	ADJ	die
 dien	die	Case=Gen|Number=Sing	смерть	NOUN	dien
 dine	den-	Mood=Imp|Number=Sing|Person=2	давать мне, нам	VERB	dine
-dippiddo	dipp(i)	Case=Sup|Definite=Def|Number=Sing	город, селение	NOUN	dippiddo
-dippila	dipp(i)	Case=Ine|Number=Sing	город, селение	NOUN	dippila
+dippi-d-do	dipp(i)	Case=Sup|Definite=Def|Number=Sing	город, селение	NOUN	dippiddo
+dippi-la	dipp(i)	Case=Ine|Number=Sing	город, селение	NOUN	dippila
 dippin	dipp(i)	Case=Gen|Number=Sing	город, селение	NOUN	dippin
 dippu	dipp(i)	Case=Ine|Number=Sing	город, селение	NOUN	dippu
 dippu	dipp(i)	Case=Sup|Number=Sing	город, селение	NOUN	dippu
-ditrapka	ditrap	Case=Acc|Number=Sing	курица	NOUN	ditrapka
+ditrap-ka	ditrap	Case=Acc|Number=Sing	курица	NOUN	ditrapka
 diy	_	_	многий, многочисленный; много	ADJ	diy
 diy	_	_	многий, многочисленный; много	DET	diy
 do	_	_		ADP	do
-doka	dok-	VerbForm=Conv	сидеть верхом, ездить верхом	VERB	doka
-dolla	doll-	VerbForm=Conv	wish	VERB	dolla
-dollen	doll-	Subordinative=Yes|VerbForm=Conv	wish	VERB	dollen
-dollina	doll-	Number=Sing|Person=2|Tense=Pres	хотеть	VERB	dollina
-duam	du-	Mood=Imp|Number=Plur|Person=1	seek	VERB	duam
-due	du-	Mood=Imp|Number=Sing|Person=2	be, remain	VERB	due
-dulla	dul-	VerbForm=Conv	be, remain	VERB	dulla
-dullaṅarra	dullaṅa-	Tense=Fut|VerbForm=Conv	become	VERB	dullaṅarra
-dum'eta	dum'it-	VerbForm=Conv	брать	VERB	dum'eta
-dum'ita	dum'it-	VerbForm=Conv	брать	VERB	dum'ita
+dok-a	dok-	VerbForm=Conv	сидеть верхом, ездить верхом	VERB	doka
+doll-a	doll-	VerbForm=Conv	wish	VERB	dolla
+doll-en	doll-	Subordinative=Yes|VerbForm=Conv	wish	VERB	dollen
+dolli-na	doll-	Number=Sing|Person=2|Tense=Pres	хотеть	VERB	dollina
+du-am	du-	Mood=Imp|Number=Plur|Person=1	seek	VERB	duam
+du-e	du-	Mood=Imp|Number=Sing|Person=2	be, remain	VERB	due
+dull-a	dul-	VerbForm=Conv	be, remain	VERB	dulla
+dullaṅa-rr-a	dullaṅa-	Tense=Fut|VerbForm=Conv	become	VERB	dullaṅarra
+dum'et-a	dum'it-	VerbForm=Conv	брать	VERB	dum'eta
+dum'it-a	dum'it-	VerbForm=Conv	брать	VERB	dum'ita
 dumak	dumal	_	вдруг	ADV	dumak
 dumal	_	_	вдруг	ADV	dumal
-dumma	dumm-	VerbForm=Conv	take	VERB	dumma
-dumma	dumm-	VerbForm=Conv	брать, хватать	VERB	dumma
+dumm-a	dumm-	VerbForm=Conv	take	VERB	dumma
+dumm-a	dumm-	VerbForm=Conv	брать, хватать	VERB	dumma
 dummiǧa	dumm-	Number[obj]=Plur|VerbForm=Conv	брать, хватать	VERB	dummiǧa
 dumėta	dum'it-	VerbForm=Conv	брать	VERB	dumėta
 dutrap'	dutrap	Case=Nom|Number=Sing	курица	NOUN	dutrap'
 dutrapi-gu-la	dutrap	Case=Ine|Definite=Def|Number=Plur	курица	NOUN	dutrapigula
 dutrapi-gu-lo	dutrap	Case=Loc|Definite=Def|Number=Plur	курица	NOUN	dutrapigulo
-dutrapigulo	dutrap	Case=Loc|Number=Plur	курица	NOUN	dutrapigulo
-dutrapka	dutrap	Case=Acc|Number=Sing	курица	NOUN	dutrapka
-duttulo	dutt	Case=Loc|Number=Sing	each (M.)	PRON	duttulo
+dutrapi-gu-lo	dutrap	Case=Loc|Number=Plur	курица	NOUN	dutrapigulo
+dutrap-ka	dutrap	Case=Acc|Number=Sing	курица	NOUN	dutrapka
+duttu-lo	dutt	Case=Loc|Number=Sing	each (M.)	PRON	duttulo
 du-ȧr-a	du-	Aspect=Imp|VerbForm=Conv	быть, пребывать	VERB	duȧra
-duȧrisana	du-	Aspect=Imp|Number=Plur|Person=3|Tense=Past	быть, пребывать	VERB	duȧrisana
-dīarka	dīar	Case=Acc|Number=Sing	death	NOUN	dīarka
+du-ȧr-is-ana	du-	Aspect=Imp|Number=Plur|Person=3|Tense=Past	быть, пребывать	VERB	duȧrisana
+dīar-ka	dīar	Case=Acc|Number=Sing	death	NOUN	dīarka
 dīol	dīol	_	dead	NOUN	dīol
-dīėguka	dīė	Number=Plur|Case=Acc	many	NOUN	dīėguka
-dīṅara	dīṅar-	VerbForm=Conv	fight, vanquish (?)	VERB	dīṅara
+dīė-gu-ka	dīė	Number=Plur|Case=Acc	many	NOUN	dīėguka
+dīṅar-a	dīṅar-	VerbForm=Conv	fight, vanquish (?)	VERB	dīṅara
 dōn	_	Case=Del	from, of place	ADP	dōn
-eddal	er	Case=Ins|Number=Plur|Person=1|PronType=Prs	we	PRON	eddal
-eddal	ir	Case=Com|Number=Sing|Person=2|PronType=Prs	ты	PRON	eddal
-ekka	er	Case=Acc|Number=Plur|Person=1|PronType=Prs	мы	PRON	ekka
-ekkin	ekki	Case=Gen|Number=Sing	presentation	NOUN	ekkin
-ekīreran	ek-	Aspect=Imp|Number=Plur|Number[obj]=Sing|Person=3|Subordinative=Yes	?	VERB	ekīreran
+ed-dal	er	Case=Ins|Number=Plur|Person=1|PronType=Prs	we	PRON	eddal
+ed-dal	ir	Case=Com|Number=Sing|Person=2|PronType=Prs	ты	PRON	eddal
+ek-ka	er	Case=Acc|Number=Plur|Person=1|PronType=Prs	мы	PRON	ekka
+ekki-n	ekki	Case=Gen|Number=Sing	presentation	NOUN	ekkin
+ek-īrera-n	ek-	Aspect=Imp|Number=Plur|Number[obj]=Sing|Person=3|Subordinative=Yes	?	VERB	ekīreran
 el'	_	_	сейчас	ADV	el'
 elle	elle	Case=Loc|Number=Sing	time	NOUN	elle
 elle	elle	Case=Nom|Number=Sing	time	NOUN	elle
-ellen	elle	Case=Gen|Number=Sing	time (?)	NOUN	ellen
-ellengulo	ėlle	Case=Loc|Number=Plur	время	NOUN	ellengulo
+elle-n	elle	Case=Gen|Number=Sing	time (?)	NOUN	ellen
+ellen-gu-lo	ėlle	Case=Loc|Number=Plur	время	NOUN	ellengulo
 ellinosi	ellinosi	Case=Nom|Number=Sing	язычник	NOUN	ellinosi
-elmendinna	el-	Number=Sing|Person=3|Polarity=Neg|Tense=Fut	find	VERB	elmendinna
-emmanuēla	emmanuēl	Case=Abs|Number=Sing	Emmanuel	NOUN	emmanuēla
+el-men-d-inna	el-	Number=Sing|Person=3|Polarity=Neg|Tense=Fut	find	VERB	elmendinna
+emmanuēl-a	emmanuēl	Case=Abs|Number=Sing	Emmanuel	NOUN	emmanuēla
 en'it-a	enit-	VerbForm=Conv	поднимать	VERB	en'ita
 ena	_	_	?	X	ena
 ende	_	_	без (того, чтобы)	CCONJ	ende
@@ -404,20 +404,20 @@ kumpu	kumpu	Case=Acc|Number=Sing	яйцо	NOUN	kumpu
 kumpu	kumpu	Case=Nom|Number=Sing	яйцо	NOUN	kumpu
 kumpu-k'	kumpu	Case=Acc|Number=Sing	яйцо	NOUN	kumpuk'
 kumpu-ka	kumpu	Case=Acc|Number=Sing	яйцо	NOUN	kumpuka
-kumpul	kumpu	Case=Nom|Definite=Def|Number=Sing	яйцо	NOUN	kumpul
+kumpu-l	kumpu	Case=Nom|Definite=Def|Number=Sing	яйцо	NOUN	kumpul
 kumpu-n	kumpu	Case=Gen|Number=Sing	яйцо	NOUN	kumpun
 kura	kur-	Subordinative=Yes|VerbForm=Conv	be willing, be glad	VERB	kura
 kural	kur-	VerbForm=Part	be willing, be glad	VERB	kural
 kurran	kur-	Aspect=Imp|Subordinative=Yes|VerbForm=Conv	be willing, be glad	VERB	kurran
 kutta	kutt-	VerbForm=Conv	встать	VERB	kutta
-kyriaken	kyriake	Case=Gen|Number=Sing		NOUN	kyriaken
-kyriaken	kyriake	Case=Gen|Number=Sing	воскресенье	NOUN	kyriaken
-kyriaken	kyriȧke	Case=Gen|Number=Sing	Sunday	NOUN	kyriaken
+kyriake-n	kyriake	Case=Gen|Number=Sing		NOUN	kyriaken
+kyriake-n	kyriake	Case=Gen|Number=Sing	воскресенье	NOUN	kyriaken
+kyriake-n	kyriȧke	Case=Gen|Number=Sing	Sunday	NOUN	kyriaken
 kī	ki-	VerbForm=Conv	come	VERB	kī
-kīa	ki-	VerbForm=Conv	come	VERB	kīa
-kīka	kī	Case=Acc|Number=Sing	vow	NOUN	kīka
-kīmenen	ki-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	come	VERB	kīmenen
-kīpran	kīp-	Aspect=Imp|Number=Plur|Person=3|Subordinative=Yes	eat	VERB	kīpran
+kī-a	ki-	VerbForm=Conv	come	VERB	kīa
+kī-ka	kī	Case=Acc|Number=Sing	vow	NOUN	kīka
+kī-men-en	ki-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	come	VERB	kīmenen
+kīp-r-an	kīp-	Aspect=Imp|Number=Plur|Person=3|Subordinative=Yes	eat	VERB	kīpran
 l	_	PronType=Art		DET	l
 l	_	_		DET	l
 la	_	_		ADP	la
@@ -443,22 +443,22 @@ lō	_	_		PART	lō
 ma	_	Mood=Sub	пусть	PART	ma
 ma	_	_		PART	ma
 madǧakaė	madǧa	_	?	ADJ	madǧakaė
-magirkon	mag-	Aspect=Imp|Mood=Cnd|Number=Sing|Person=2	печалиться, горевать, страдать	VERB	magirkon
-magren	mag-	Aspect=Imp|Number=Sing|Person=2|Subordinative=Yes|Tense=Pres	печалиться, горевать, страдать	VERB	magren
+mag-ir-ko-n	mag-	Aspect=Imp|Mood=Cnd|Number=Sing|Person=2	печалиться, горевать, страдать	VERB	magirkon
+mag-r-en	mag-	Aspect=Imp|Number=Sing|Person=2|Subordinative=Yes|Tense=Pres	печалиться, горевать, страдать	VERB	magren
 makan	_	_	?	ADV	makan
 malle	_	_	all (M.)	DET	malle
 man	_	_	that	DET	man
 man	_	_	тот, та, то	DET	man
 man	man	_	тот, та, то	DET	man
-manin	man	Case=Gen|Number=Sing|PronType=Dem	that	PRON	manin
-manka	man	Case=Acc|PronType=Dem	that	PRON	manka
-manno	man	Case=Loc|Number=Sing|PronType=Dem	тот, та, то	PRON	manno
+man-in	man	Case=Gen|Number=Sing|PronType=Dem	that	PRON	manin
+man-ka	man	Case=Acc|PronType=Dem	that	PRON	manka
+man-no	man	Case=Loc|Number=Sing|PronType=Dem	тот, та, то	PRON	manno
 man̂il	man̂	Case=Nom|Definite=Def|Number=Sing	глаз	NOUN	man̂il
 mareoti-n	mareoti	Case=Gen|Number=Sing	Мареотис	NOUN	mareotin
-mareȯtiȯ	mareȯti	Case=Loc|Number=Sing	Мареотис	NOUN	mareȯtiȯ
+mareȯti-ȯ	mareȯti	Case=Loc|Number=Sing	Мареотис	NOUN	mareȯtiȯ
 maria	maria	Case=Abs|Number=Sing	Мария	NOUN	maria
 maria	maria	_	Мария	NOUN	maria
-marian	maria	Case=Gen|Number=Sing	Мария	NOUN	marian
+maria-n	maria	Case=Gen|Number=Sing	Мария	NOUN	marian
 marimath	_	_		X	marimath
 martarkikon	martarkikon	Case=Nom|Number=Sing	witness	NOUN	martarkikon
 martyrosu	martyrosi	Case=Gen|Number=Sing	мученик	NOUN	martyrosu
