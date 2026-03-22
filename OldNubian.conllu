@@ -19,7 +19,7 @@
 # text = ontakraguė-ke
 # translation = Возлюбленные!
 1-2	ontakraguė-ke	_	_	_	_	_	_	_	_
-1	ontakraguė	on-	VERB	_	Aspect=Imp|Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	Gloss=любить|MSeg=ontakraguė
+1	ontakraguė	on-	VERB	_	Aspect=Imp|Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	Gloss=любить|MSeg=on-tak-ra-gu-ė
 2	ke	_	PART	_	_	1	advmod	_	MSeg=ke
 
 # sent_id = 2
@@ -1032,7 +1032,7 @@
 1	tan	tar	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nmod	_	Gloss=он, она, оно|MSeg=tan
 2	taṅiska	taṅis	NOUN	_	Case=Acc|Number=Sing	4	obj	_	Gloss=имя|MSeg=taṅiska
 3	on	_	CCONJ	_	_	4	cc	_	Gloss=и, а|MSeg=on
-4	okisna	ȯk-	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=называть, звать|MSeg=okisna
+4	okisna	ȯk-	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=называть, звать|MSeg=ok-is-na
 5	minaȧ	mina	NOUN	_	Case=Abs|Number=Sing	4	iobj	_	Gloss=Мина|MSeg=minaȧ
 6	ṅissna	ṅiss(i)	NOUN	_	Case=Gen|Number=Sing	8	nmod:agent	_	Gloss=святой|MSeg=ṅissna
 7	tadgil	tar	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	8	iobj	_	Gloss=он, она, оно|MSeg=tadgil
@@ -1216,7 +1216,7 @@
 # sent_id = 70
 # text = ontakraguė ke wel-tril kika pesen in kore ṅissu trapissildo pil ka artosa ǧolam orpa ǧolam ȧ papi de on ṅal de on sewartu ṅissi de kel lo ṅisselo pala mē ekkin ǧello on elle ki lo
 # translation = Beloved: when a certain man has spoken a vow, (namely) this Holy Feast which remains on the table: it is simply bread and simply wine and comes out from the church by the Father and the Son and the Holy Ghost in the time of presentation and the arrival of the moment.
-1	ontakraguė	on-	VERB	_	Aspect=Imp|Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	13	vocative	_	Gloss=love|MSeg=ontakraguė
+1	ontakraguė	on-	VERB	_	Aspect=Imp|Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	13	vocative	_	Gloss=love|MSeg=on-tak-ra-gu-ė
 2	ke	_	PART	_	_	1	advmod	_	MSeg=ke
 3-4	wel-tril	_	_	_	_	_	_	_	_
 3	wel	_	DET	_	PronType=Ind	4	det	_	Gloss=one|MSeg=wel
@@ -1473,7 +1473,7 @@
 2	keta	ket	NOUN	_	Case=Abs|Number=Sing	8	obj	_	Gloss=?|MSeg=keta
 3	malle	_	DET	_	_	2	det	_	Gloss=all (M.)|MSeg=malle
 4	on	_	CCONJ	_	_	8	cc	_	Gloss=and|MSeg=on
-5	ontakraguė	on-	VERB	_	Aspect=Imp|Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	8	vocative	_	Gloss=love|MSeg=ontakraguė
+5	ontakraguė	on-	VERB	_	Aspect=Imp|Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	8	vocative	_	Gloss=love|MSeg=on-tak-ra-gu-ė
 6	ke	_	PART	_	_	5	advmod	_	MSeg=ke
 7	muntlo	munt	NOUN	_	Case=Loc|Number=Sing	8	obl	_	Gloss=?|MSeg=muntlo
 8	paǧana	paǧ-	VERB	_	Mood=Imp|Number=Plur|Person=2	0	root	_	Gloss=ascertain, enquire precisely (?)|MSeg=paǧana
@@ -1911,7 +1911,7 @@
 3	ïīudaiȯsrī	iudaios	NOUN	_	Animacy=Anim|Case=Acc|Number=Plur	10	obj	_	Gloss=Jews|MSeg=ïīudaiȯsrī
 4	an̂ǧika	an̂ǧi	NOUN	_	Case=Acc|Number=Sing	7	obj	_	Gloss=life; also Saviour (?)|MSeg=an̂ǧi-ka
 5	staurosildo	stauros	NOUN	_	Case=Sup|Definite=Def|Number=Sing	6	obl	_	Gloss=cross|MSeg=staurosildo
-6	ollīn	oll-	VERB	_	Subordinative=Yes|VerbForm=Conv	7	advcl	_	Gloss=hang|MSeg=ollīn
+6	ollīn	oll-	VERB	_	Subordinative=Yes|VerbForm=Conv	7	advcl	_	Gloss=hang|MSeg=oll-īn
 7	ǧīṅīdol	ǧīṅ-	VERB	_	Tense=Pqp|VerbForm=Part	3	acl	_	Gloss=mock (M.)|MSeg=ǧīṅīdol
 8	gu	_	PART	_	_	3	number	_	MSeg=gu
 9	ka	_	ADP	_	_	3	case	_	MSeg=ka

@@ -533,9 +533,9 @@ ogǧil	og(i)ǧ	Case=Acc|Definite=Def|Number=Sing	мужчина, муж	NOUN	o
 ogǧil	og(i)ǧ	Case=Nom|Definite=Def|Number=Sing	мужчина, муж	NOUN	ogǧil
 ogiǧka	og(i)ǧ	Case=Acc|Number=Sing	мужчина, муж	NOUN	ogiǧka
 okarrana	ok-	Number=Plur|Person=3|Tense=Fut	call, summon, name	VERB	okarrana
-okisna	ȯk-	Number=Sing|Person=3|Tense=Past	называть, звать	VERB	okisna
+ok-is-na	ȯk-	Number=Sing|Person=3|Tense=Past	называть, звать	VERB	okisna
 okkanē	ok-	Case=Acc|Number=Sing|VerbForm=Vnoun	call, summon, name	VERB	okkanē
-ollīn	oll-	Subordinative=Yes|VerbForm=Conv	hang	VERB	ollīn
+oll-īn	oll-	Subordinative=Yes|VerbForm=Conv	hang	VERB	ollīn
 on	_	_		CCONJ	on
 on	_	_	and	CCONJ	on
 on	_	_	и, а	CCONJ	on
@@ -543,8 +543,8 @@ on	_	_		SCONJ	on
 on	_	_	и	SCONJ	on
 on	_	_	и, а	SCONJ	on
 on	on-	_	to love	VERB	on
-ontakraguė	on-	Aspect=Imp|Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	love	VERB	ontakraguė
-ontakraguė	on-	Aspect=Imp|Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	любить	VERB	ontakraguė
+on-tak-ra-gu-ė	on-	Aspect=Imp|Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	love	VERB	ontakraguė
+on-tak-ra-gu-ė	on-	Aspect=Imp|Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	любить	VERB	ontakraguė
 oro	_	_	with, through	ADP	oro
 orpa	orpa	Case=Abs|Number=Sing	wine	NOUN	orpa
 orpa	orpa	Case=Acc|Number=Sing	wine	NOUN	orpa
