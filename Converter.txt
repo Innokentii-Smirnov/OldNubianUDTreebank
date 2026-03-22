@@ -1,0 +1,53 @@
+Case
+	Nom
+	Acc
+	Gen
+	Dat
+	Sup
+	Ine
+	Loc
+	Com
+	Abs
+Number
+	Sing	SG
+	Plur	PL
+Number[obj]
+Definite
+	Def
+Person
+	1
+	2
+	3
+	2,3		2/3
+Subordinative
+	Yes		SUB
+Tense
+	Pres	PRS
+	Past	PST
+	Pqp		PLUPRF
+	Fut
+Mood
+	Sub		SBJV
+	Cnd
+	Imp
+	Int
+Aspect
+	Imp		IPFV
+VerbForm
+	Part	PTCP
+	Conv	CVB
+	Sup
+PronType
+	Prs		PRO
+	Tot		QUAN
+	Dem
+	Int
+	Ind		INDF
+	Rel
+Polarity
+	Neg
+Poss
+	Yes		POSS
+Voice
+	Pass
+	
