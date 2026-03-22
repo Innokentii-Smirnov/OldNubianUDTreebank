@@ -334,7 +334,7 @@
 3	ṅissu	ṅiss	NOUN	_	_	4	appos	_	Gloss=святой|MSeg=ṅissu
 4	minan	mina	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	Gloss=св. Мина|MSeg=minan
 5-6	kissegille-lo	_	_	_	_	_	_	_	_
-5	kissegille	kisse	NOUN	_	Case=Dat|Number=Sing	7	obl	_	Gloss=|MSeg=kissegille
+5	kissegille	kisse	NOUN	_	Case=Dat|Number=Sing	7	obl	_	Gloss=|MSeg=kisse-gille
 6	lo	_	PART	_	_	5	advmod	_	Gloss=|MSeg=lo
 7	ǧure	ǧu-	VERB	_	Number=Sing|Person=1|Tense=Fut	2	ccomp	_	Gloss=идти; ехать|MSeg=ǧure
 
@@ -680,7 +680,7 @@
 5	ṅissu	ṅiss(i)	ADJ	_	_	4	amod	_	Gloss=святой|MSeg=ṅissu
 6	maria	maria	NOUN	_	_	4	appos	_	Gloss=Мария|MSeg=maria
 7	n	_	ADP	_	_	4	case	_	MSeg=n
-8	kissel	kisse	NOUN	_	Case=Nom|Definite=Def|Number=Sing	10	nsubj	_	Gloss=церковь|MSeg=kissel
+8	kissel	kisse	NOUN	_	Case=Nom|Definite=Def|Number=Sing	10	nsubj	_	Gloss=церковь|MSeg=kisse-l
 9	lo	_	PART	_	_	8	advmod	_	MSeg=lo
 10	ṅonǧara	ṅonǧ-	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Gloss=стоять|MSeg=ṅonǧara
 
@@ -1070,7 +1070,7 @@
 9-11	ṅiss-u-mina-kisselo	_	_	_	_	_	_	_	_
 9	ṅissu	ṅiss(i)	NOUN	_	_	11	compound	_	Gloss=святой|MSeg=ṅissu
 10	mina	mina	NOUN	_	_	9	appos	_	Gloss=Мина|MSeg=mina
-11	kisselo	kisse	NOUN	_	Case=Loc|Number=Sing	13	obl	_	Gloss=церковь|MSeg=kisselo
+11	kisselo	kisse	NOUN	_	Case=Loc|Number=Sing	13	obl	_	Gloss=церковь|MSeg=kisse-lo
 12-13	ǧora-kisna	_	_	_	_	_	_	_	_
 12	ǧora	ǧo-	VERB	_	Aspect=Imp|VerbForm=Conv	13	advcl	_	Gloss=идти; ехать|MSeg=ǧora
 13	kisna	ki-	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=приходить|MSeg=ki-s-na
@@ -1155,7 +1155,7 @@
 1-4	ṅiss-u-mina-kissena-yon	_	_	_	_	_	_	_	_
 1	ṅissu	ṅiss(i)	NOUN	_	_	3	compound	_	Gloss=святой|MSeg=ṅissu
 2	mina	mina	NOUN	_	_	1	appos	_	Gloss=Мина|MSeg=mina
-3	kissena	kisse	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	Gloss=церковь|MSeg=kissena
+3	kissena	kisse	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	Gloss=церковь|MSeg=kisse-na
 4	lon	_	CCONJ	_	_	7	cc	_	Gloss=а, и, но|MSeg=lon
 5-6	deger'inin	_	_	_	_	_	_	_	_
 5	degerio	deger	NOUN	_	Case=Loc|Number=Sing	6	obl	_	Gloss=община|MSeg=degerio
@@ -1163,7 +1163,7 @@
 7	duȧrisana	du-	VERB	_	Aspect=Imp|Number=Plur|Person=3|Tense=Past	0	root	_	Gloss=быть, пребывать|MSeg=duȧrisana
 8	ten	ter	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	9	nmod	_	Gloss=они|MSeg=ten
 9	darpneka	darpne	NOUN	_	Case=Acc|Number=Sing	12	obj	_	Gloss=жертвоприношение|MSeg=darpneka
-10	kissegille	kisse	NOUN	_	Case=Dat|Number=Sing	12	iobj	_	Gloss=церковь|MSeg=kissegille
+10	kissegille	kisse	NOUN	_	Case=Dat|Number=Sing	12	iobj	_	Gloss=церковь|MSeg=kisse-gille
 11-12	kaka-ǧoǧokil	_	_	_	_	_	_	_	_
 11	kaka	kak-	VERB	_	VerbForm=Conv	12	advcl	_	Gloss=[приносить]|MSeg=kaka
 12	ǧoǧokil	ǧoǧok-	VERB	_	Tense=Pres|VerbForm=Part	7	advcl	_	Gloss=постоянно приносить (?)|MSeg=ǧoǧokil
@@ -1263,7 +1263,7 @@
 3	it	it	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	Gloss=person|MSeg=it
 4	wel	_	DET	_	_	3	det	_	Gloss=one|MSeg=wel
 5	proskokka	prosko	NOUN	_	Case=Acc|Definite=Def|Number=Sing	7	obj	_	Gloss=offering|MSeg=proskokka
-6	kissela	kisse	NOUN	_	Case=Ine|Number=Sing	7	obl	_	Gloss=church|MSeg=kissela
+6	kissela	kisse	NOUN	_	Case=Ine|Number=Sing	7	obl	_	Gloss=church|MSeg=kisse-la
 7	kendukken	kenduk-	VERB	_	Subordinative=Yes|VerbForm=Conv	16	advcl	_	Gloss=bring, offer|MSeg=kendukken
 8	orpa	orpa	NOUN	_	Case=Abs|Number=Sing	7	advcl	_	Gloss=wine|MSeg=orpa
 9	enkan	en-	AUX	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	8	cop	_	Gloss=be|MSeg=enkan
@@ -1328,11 +1328,11 @@
 5	kīka	kī	NOUN	_	Case=Acc|Number=Sing	6	obj	_	Gloss=vow|MSeg=kīka
 6	pesen	pes-	VERB	_	VerbForm=Conv|Subordinative=Yes	15	advcl	_	Gloss=say|MSeg=pesen
 7	proskol	prosko	NOUN	_	Case=Nom|Definite=Def|Number=Sing	4	appos	_	Gloss=offering|MSeg=proskol
-8	kissello	kisse	NOUN	_	Case=Loc|Definite=Def|Number=Sing	9	obl	_	Gloss=church|MSeg=kissello
+8	kissello	kisse	NOUN	_	Case=Loc|Definite=Def|Number=Sing	9	obl	_	Gloss=church|MSeg=kisse-l-lo
 9	kenǧran	ken-	VERB	_	Aspect=Imp|Number=Plur|Number[obj]=Plur|Person=3|Subordinative=Yes|Tense=Pres	7	acl:relcl	_	Gloss=carry, place|MSeg=kenǧran
 10	gu	_	PART	_	_	7	number	_	MSeg=gu
 11	ka	_	ADP	_	_	7	case	_	MSeg=ka
-12	kissen	kisse	NOUN	_	Case=Gen|Number=Sing	13	nmod	_	Gloss=church|MSeg=kissen
+12	kissen	kisse	NOUN	_	Case=Gen|Number=Sing	13	nmod	_	Gloss=church|MSeg=kisse-n
 13	tun̂il	tot	NOUN	_	Case=Nom|Definite=Def|Number=Plur	15	nsubj	_	Gloss=child|MSeg=tun̂il
 14	lo	_	PART	_	_	13	advmod	_	MSeg=lo
 15	kapsǧraa	kap-	VERB	_	Aspect=Imp|Number[obj]=Plur|VerbForm=Conv	0	root	_	Gloss=eat|MSeg=kapsǧraa
@@ -1347,7 +1347,7 @@
 24	l	_	DET	_	PronType=Art	22	det	_	Gloss=|MSeg=l
 25	de	_	CCONJ	_	_	22	cc	_	MSeg=de
 26	kello	_	CCONJ	_	_	25	flat	_	MSeg=kello
-27	kisselo	kisse	NOUN	_	Case=Loc|Number=Sing	28	obl	_	Gloss=church|MSeg=kisselo
+27	kisselo	kisse	NOUN	_	Case=Loc|Number=Sing	28	obl	_	Gloss=church|MSeg=kisse-lo
 28	pala	pal-	VERB	_	VerbForm=Conv	15	advcl	_	Gloss=come out|MSeg=pala
 29	mē	_	AUX	_	_	28	cop	_	Gloss=|MSeg=mē
 
@@ -1362,7 +1362,7 @@
 6	aīllo	aī	NOUN	_	Case=Loc|Definite=Def|Number=Sing	7	obl	_	Gloss=heart|MSeg=aīllo
 7	kelkinnanen	kelkinnan-	VERB	_	Subordinative=Yes|VerbForm=Conv	10	advcl	_	Gloss=?|MSeg=kelkinnanen
 8	proskokkon	prosko	NOUN	_	Case=Acc|Definite=Def|Number=Sing	10	obj	_	Gloss=oblation|MSeg=proskokkon
-9	kissela	kisse	NOUN	_	Case=Ine|Number=Sing	10	obl	_	Gloss=church|MSeg=kissela
+9	kissela	kisse	NOUN	_	Case=Ine|Number=Sing	10	obl	_	Gloss=church|MSeg=kisse-la
 10	kenduken	kenduk-	VERB	_	Subordinative=Yes|VerbForm=Conv	30	advcl	_	Gloss=bring, offer|MSeg=kenduken
 11	orpa	orpa	NOUN	_	Case=Acc|Number=Sing	10	advcl	_	Gloss=wine|MSeg=orpa
 12	enkan	en-	AUX	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	11	cop	_	Gloss=be|MSeg=enkan
@@ -1527,7 +1527,7 @@
 2	sin	_	SCONJ	_	_	15	mark	_	MSeg=sin
 3	laïkossu	laikos	NOUN	_	Case=Nom|Number=Sing	15	nsubj	_	Gloss=layman|MSeg=laïkossu
 4	wel	_	DET	_	PronType=Ind	3	det	_	Gloss=|MSeg=wel
-5	kissen	kisse	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	Gloss=Church|MSeg=kissen
+5	kissen	kisse	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	Gloss=Church|MSeg=kisse-n
 6	kapaka	kapa	NOUN	_	Case=Acc|Number=Sing	9	obj	_	Gloss=food|MSeg=kapaka
 7	weran	wer-	VERB	_	Subordinative=Yes|VerbForm=Conv	8	advcl	_	MSeg=weran
 8	gitta	gitt-	VERB	_	VerbForm=Conv	9	advcl	_	Gloss=?|MSeg=gitta
@@ -1638,7 +1638,7 @@
 4-5	menen-no	_	_	_	_	_	_	_	_
 4	menen	men-	AUX	_	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	3	cop	_	Gloss=not to be|MSeg=menen
 5	lo	_	PART	_	_	4	advmod	_	MSeg=lo
-6	kisselo	kisse	NOUN	_	Case=Loc|Number=Sing	8	obl	_	Gloss=church|MSeg=kisselo
+6	kisselo	kisse	NOUN	_	Case=Loc|Number=Sing	8	obl	_	Gloss=church|MSeg=kisse-lo
 7	ṅarro	_	ADP	_	_	6	case	_	Gloss=outside|MSeg=ṅarro
 8	due	du-	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	Gloss=be, remain|MSeg=due
 9	so	_	PART	_	Mood=Imp	8	advmod	_	MSeg=so
@@ -1671,7 +1671,7 @@
 1	koreka	kore-	NOUN	_	Case=Acc|Number=Sing	2	obj	_	Gloss=feast, sacrament|MSeg=koreka
 2	etten	et-	VERB	_	Subordinative=Yes|VerbForm=Conv	5	advcl	_	Gloss=take, receive|MSeg=etten
 3	lon	_	CCONJ	_	_	5	cc	_	Gloss=and|MSeg=lon
-4	kissela	kisse	NOUN	_	Case=Ine|Number=Sing	5	obl	_	Gloss=church|MSeg=kissela
+4	kissela	kisse	NOUN	_	Case=Ine|Number=Sing	5	obl	_	Gloss=church|MSeg=kisse-la
 5	due	du-	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	Gloss=be, remain|MSeg=due
 6	so	_	PART	_	Mood=Imp	5	advmod	_	MSeg=so
 7	moren	mor-	VERB	_	Case=Gen|Number=Sing|VerbForm=Vnoun	5	obl	_	Gloss=dismiss (?) or necessity (?)|MSeg=moren
@@ -1691,7 +1691,7 @@
 9	awtakaraȧ	aw-	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Pass	1	ccomp	_	Gloss=do, make; passive become, happen|MSeg=awtakaraȧ
 10	koreka	kore	NOUN	_	Case=Acc|Number=Sing	11	obj	_	Gloss=feast, sacrament|MSeg=koreka
 11	eta	et-	VERB	_	VerbForm=Conv	15	advcl	_	Gloss=take, receive|MSeg=eta
-12	kisseka	kisse	NOUN	_	Case=Acc|Number=Sing	15	obj	_	Gloss=church|MSeg=kisseka
+12	kisseka	kisse	NOUN	_	Case=Acc|Number=Sing	15	obj	_	Gloss=church|MSeg=kisse-ka
 13	morimīnil	mor-	VERB	_	Polarity=Neg|VerbForm=Part	15	advcl	_	Gloss=dismiss (?)|MSeg=morimīnil
 14	pala	pal-	VERB	_	VerbForm=Conv	15	advcl	_	Gloss=come out|MSeg=pala
 15	ǧōrosin	ǧōr-	VERB	_	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	1	parataxis	_	Gloss=depart|MSeg=ǧōrosin
@@ -1713,7 +1713,7 @@
 2	sin	_	SCONJ	_	_	7	mark	_	MSeg=sin
 3	īr	īr	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Gloss=thou|MSeg=īr
 4	on	_	SCONJ	_	_	7	cc	_	Gloss=|MSeg=on
-5	kissel	kisse	NOUN	_	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	Gloss=church|MSeg=kissel
+5	kissel	kisse	NOUN	_	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	Gloss=church|MSeg=kisse-l
 6	morimīnil	mor-	VERB	_	Polarity=Neg|VerbForm=Part	7	advcl	_	Gloss=dismiss (?)|MSeg=morimīnil
 7	patta	patt-	VERB	_	VerbForm=Conv	0	root	_	Gloss=pray (???)|MSeg=patta
 8	mē	_	AUX	_	_	7	cop	_	MSeg=mē
@@ -1749,7 +1749,7 @@
 2	dīėguka	dīė	NOUN	_	Number=Plur|Case=Acc	1	obj	_	Gloss=many|MSeg=dīėguka
 3	korek	kore	NOUN	_	Case=Acc|Number=Sing	4	obj	_	Gloss=feast, sacrament|MSeg=korek
 4	eten	et-	VERB	_	Subordinative=Yes|VerbForm=Conv	7	advcl	_	Gloss=take, receive|MSeg=eten
-5	kissel	kisse	NOUN	_	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	Gloss=church|MSeg=kissel
+5	kissel	kisse	NOUN	_	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	Gloss=church|MSeg=kisse-l
 6	gallīminen	gall-	VERB	_	Subordinative=Yes|Polarity=Neg|VerbForm=Conv	7	advcl	_	Gloss=open|MSeg=gallīminen
 7	kīpran	kīp-	VERB	_	Aspect=Imp|Number=Plur|Person=3|Subordinative=Yes	1	xcomp	_	Gloss=eat|MSeg=kīpran
 8	wīa	_	INTJ	_	_	1	parataxis	_	Gloss=woe!|MSeg=wīa
@@ -1778,7 +1778,7 @@
 3-4	wel-tril	_	_	_	_	_	_	_	_
 3	wel	_	DET	_	PronType=Ind	4	det	_	Gloss=one|MSeg=wel
 4	tril	tir-	VERB	_	Case=Nom|Number=Sing|VerbForm=Part	14	nsubj	_	Gloss=give (to you or them)|MSeg=tril
-5	kissel	kisse	NOUN	_	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	Gloss=church|MSeg=kissel
+5	kissel	kisse	NOUN	_	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	Gloss=church|MSeg=kisse-l
 6	gallīminein	gall-	VERB	_	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	7	advcl	_	Gloss=open|MSeg=gallīminein
 7	kapen	kap-	VERB	_	Subordinative=Yes|VerbForm=Conv	14	advcl	_	Gloss=eat|MSeg=kapen
 8	armiskire	arm-	NOUN	_	Case=Loc|Number=Sing	14	obl	_	Gloss=?|MSeg=armiskire
@@ -1872,7 +1872,7 @@
 3	ītu	īt	NOUN	_	Case=Sup|Number=Sing	1	obl	_	Gloss=person|MSeg=ītu
 4	koren	kore	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	Gloss=feast, sacrament|MSeg=koren
 5	taratīlo	taratī	NOUN	_	Case=Loc|Number=Sing	7	obl	_	Gloss=exit, end (?)|MSeg=taratīlo
-6	kissela	kisse	NOUN	_	Case=Ine	7	obl:loc	_	Gloss=church|MSeg=kissela
+6	kissela	kisse	NOUN	_	Case=Ine	7	obl:loc	_	Gloss=church|MSeg=kisse-la
 7	pesil	pes-	VERB	_	Tense=Pres|VerbForm=Part	3	acl	_	Gloss=say|MSeg=pesil
 8	do	_	ADP	_	_	3	case	_	MSeg=do
 
@@ -1881,7 +1881,7 @@
 # translation = For he that speaketh in the church at the time (?) of the sacrament is negligent (?) more than (?) all the negligent (?) ones.
 1	koren	kore	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	Gloss=feast, sacrament|MSeg=koren
 2	taratīlo	taratī	NOUN	_	Case=Loc|Number=Sing	4	obl	_	Gloss=exit, end (?)|MSeg=taratīlo
-3	kissela	kisse	NOUN	_	Case=Ine	4	obl:loc	_	Gloss=church|MSeg=kissela
+3	kissela	kisse	NOUN	_	Case=Ine	4	obl:loc	_	Gloss=church|MSeg=kisse-la
 4	pesil	pes-	VERB	_	Tense=Pres|VerbForm=Part	11	nsubj	_	Gloss=say|MSeg=pesil
 5	appa	_	SCONJ	_	_	11	mark	_	Gloss=for|MSeg=appa
 6	ȧkossa	akoss	ADJ	_	Case=Loc|Number=Plur	11	obl:cmpr	_	Gloss=wicked (?)|MSeg=ȧkossa
@@ -1896,7 +1896,7 @@
 # text = ītu kissela pesil appa tillil ukkatta sin
 # translation = For the man that speaketh in the church is the enemy of God.
 1	ītu	īt	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	Gloss=person|MSeg=ītu
-2	kissela	kisse	NOUN	_	Case=Ine|Number=Sing	3	obl:loc	_	Gloss=church|MSeg=kissela
+2	kissela	kisse	NOUN	_	Case=Ine|Number=Sing	3	obl:loc	_	Gloss=church|MSeg=kisse-la
 3	pesil	pes-	VERB	_	Tense=Pres|VerbForm=Part	1	acl	_	Gloss=say|MSeg=pesil
 4	appa	_	SCONJ	_	_	6	mark	_	Gloss=for|MSeg=appa
 5	tillil	till	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	CorrectForm=tillin (?)|Gloss=God|MSeg=tillil
@@ -1945,7 +1945,7 @@
 # text = uru kissela pesilgul lon tawka miššan no īs matarkikon ulginna so
 # translation = And you who speak in the church at all times, behold (), hearken ye to the warning (?).
 1	uru	ur	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	vocative	_	Gloss=you|MSeg=uru
-2	kissela	kisse	NOUN	_	Case=Ine|Number=Sing	3	obl:loc	_	Gloss=church|MSeg=kissela
+2	kissela	kisse	NOUN	_	Case=Ine|Number=Sing	3	obl:loc	_	Gloss=church|MSeg=kisse-la
 3	pesilgul	pes-	VERB	_	Case=Nom|Definite=Def|Number=Plur|VerbForm=Part	1	advcl	_	Gloss=say|MSeg=pesilgul
 4	lon	_	CCONJ	_	_	1	cc	_	Gloss=and|MSeg=lon
 5	tawka	_	NOUN	_	Case=Loc|Number=Sing	3	obl	_	Gloss=time|MSeg=tawka
@@ -1963,7 +1963,7 @@
 2	sin	_	SCONJ	_	_	6	mark	_	MSeg=sin
 3	wel	wel	PRON	_	Case=Nom|Number=Sing|PronType=Ind	6	nsubj	_	Gloss=one|MSeg=wel
 4	proskoka	prosko	NOUN	_	Case=Acc|Number=Sing	6	obj	_	Gloss=offering (?)|MSeg=proskoka
-5	kissela	kisse	NOUN	_	Case=Ine|Number=Sing	6	obl	_	Gloss=church|MSeg=kissela
+5	kissela	kisse	NOUN	_	Case=Ine|Number=Sing	6	obl	_	Gloss=church|MSeg=kisse-la
 6-7	kendukkikan-no	_	_	_	_	_	_	_	_
 6	kendukkikan	kenduk-	VERB	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	15	advcl	_	Gloss=bring, offer|MSeg=kendukkikan
 7	lo	_	PART	_	Mood=Cnd	6	advmod	_	MSeg=lo

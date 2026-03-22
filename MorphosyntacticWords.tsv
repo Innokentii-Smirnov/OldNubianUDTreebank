@@ -357,20 +357,20 @@ kiskillo	_	_	until	ADP	kiskillo
 ki-s-na	ki-	Number=Sing|Person=3|Tense=Past	приходить	VERB	kisna
 kisse	kisse	Case=Dat|Number=Sing	церковь	NOUN	kisse
 kisse	kisse	Case=Ine|Number=Sing	церковь	NOUN	kisse
-kissegille	kisse	Case=Dat|Number=Sing		NOUN	kissegille
-kissegille	kisse	Case=Dat|Number=Sing	церковь	NOUN	kissegille
-kisseka	kisse	Case=Acc|Number=Sing	church	NOUN	kisseka
-kissel	kisse	Case=Nom|Definite=Def|Number=Sing	church	NOUN	kissel
-kissel	kisse	Case=Nom|Definite=Def|Number=Sing	церковь	NOUN	kissel
-kissela	kisse	Case=Ine	church	NOUN	kissela
-kissela	kisse	Case=Ine|Number=Sing	church	NOUN	kissela
+kisse-gille	kisse	Case=Dat|Number=Sing		NOUN	kissegille
+kisse-gille	kisse	Case=Dat|Number=Sing	церковь	NOUN	kissegille
+kisse-ka	kisse	Case=Acc|Number=Sing	church	NOUN	kisseka
+kisse-l	kisse	Case=Nom|Definite=Def|Number=Sing	church	NOUN	kissel
+kisse-l	kisse	Case=Nom|Definite=Def|Number=Sing	церковь	NOUN	kissel
+kisse-la	kisse	Case=Ine	church	NOUN	kissela
+kisse-la	kisse	Case=Ine|Number=Sing	church	NOUN	kissela
 kisse-la	kisse	Case=Ine|Number=Sing	церковь	NOUN	kissela
-kissello	kisse	Case=Loc|Definite=Def|Number=Sing	church	NOUN	kissello
-kisselo	kisse	Case=Loc|Number=Sing	church	NOUN	kisselo
-kisselo	kisse	Case=Loc|Number=Sing	церковь	NOUN	kisselo
-kissen	kisse	Case=Gen|Number=Sing	Church	NOUN	kissen
-kissen	kisse	Case=Gen|Number=Sing	church	NOUN	kissen
-kissena	kisse	Case=Gen|Number=Sing	церковь	NOUN	kissena
+kisse-l-lo	kisse	Case=Loc|Definite=Def|Number=Sing	church	NOUN	kissello
+kisse-lo	kisse	Case=Loc|Number=Sing	church	NOUN	kisselo
+kisse-lo	kisse	Case=Loc|Number=Sing	церковь	NOUN	kisselo
+kisse-n	kisse	Case=Gen|Number=Sing	Church	NOUN	kissen
+kisse-n	kisse	Case=Gen|Number=Sing	church	NOUN	kissen
+kisse-na	kisse	Case=Gen|Number=Sing	церковь	NOUN	kissena
 kissitaken	kiss-	Subordinative=Yes|VerbForm=Conv|Voice=Pass	explain, loosen	VERB	kissitaken
 kiyskillo	kiskillo	_	до	ADP	kiyskillo
 kiȧ	ki-	VerbForm=Conv	приходить	VERB	kiȧ
