@@ -1,1543 +1,993 @@
 MSeg	lemma	feats	gloss	upos	form
-ṅokkor-a	ṅokkor	Case=Abs|Number=Sing	чудо	NOUN	ṅokkora
-khristosi-n	khristosi	Case=Gen|Number=Sing	Христос	NOUN	khristosin
-martyrosu	martyrosi	Case=Gen|Number=Sing	мученик	NOUN	martyrosu
-ṅissu	ṅiss(i)	_	святой	ADJ	ṅissu
-mina	mina	_	Мина	NOUN	mina
-na	_	_		ADP	na
-awsa	aw-	Case=Abs|Number=Sing|Tense=Past|VerbForm=Part	делать	VERB	awsa
-lo	_	_		PART	lo
-tilli-n	till(i)	Case=Gen|Number=Sing	бог	NOUN	tillin
-tokinnawė-lo	tokinnawė	Case=Loc|Number=Sing	мир, милость	NOUN	tokinnawėlo
-amin	_	_	аминь	INTJ	amin
-ontakraguė	on-	Aspect=Imp|Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	любить	VERB	ontakraguė
-ke	_	_		PART	ke
-ittu	itt	Case=Nom|Number=Sing	женщина	NOUN	ittu
-wel	wel	_	один; некий	DET	wel
-lo	_	_		PART	lo
-dippu	dipp(i)	Case=Ine|Number=Sing	город, селение	NOUN	dippu
-wel	wel	_	один; некий	DET	wel
-la	_	_	город, селение	ADP	la
-du-ȧr-a	du-	Aspect=Imp|VerbForm=Conv	быть, пребывать	VERB	duȧra
-ȧlexandre-n	_	Case=Gen|Number=Sing	Александрия	NOUN	ȧlexandren
-šik-gu-la	šik	Case=Ine|Number=Plur	округ, область, окрестность	NOUN	šikgula
-tar	tar	Case=Nom|Number=Sing|PronType=Prs	он, она, оно	PRON	tar
-on	_	_	и, а	CCONJ	on
-mira	mira	_	неплодный, не рожающий	ADJ	mira
-ȧg-en	ag-	Subordinative=Yes|VerbForm=Conv	сидеть; долго быть, пребывать	VERB	ȧgen
-de	_	_	и	CCONJ	de
-unn-ara-men-na	unn-, unnu-	Number=Sing|Person=3|Polarity=Neg|Tense=Past	рожать	VERB	unnaramenna
-lo	_	_		PART	lo
-ṅa-ka	ṅa	Case=Acc|Number=Sing	сын	NOUN	ṅaka
-ende	_	_	ни	CCONJ	ende
-as-ka	as	Case=Acc|Number=Sing	дочь	NOUN	aska
-ende	_	_	ни	CCONJ	ende
-in̂ittu	in̂itti	_	бренный, преходящий (?)	ADJ	in̂ittu
-ṅukt	ṅukt(i)	Case=Acc|Number=Sing	богатство	NOUN	ṅukt
-lo	_	_		PART	lo
-diy	_	_	многий, многочисленный; много	ADJ	diy
-ka	_	_		ADP	ka
-on	_	_	и, а	CCONJ	on
-koȧ	ko-	VerbForm=Conv	иметь, обладать	VERB	koȧ
-lo	_	_		PART	lo
-en-o-na	en-	Number=Sing|Person=3|Tense=Pqp	быть	VERB	enona
-ṡewatt-ka	sewatti	Case=Acc|Number=Sing	наследник	NOUN	ṡewattka
-on	_	_	и, а	CCONJ	on
-kon-men-na	ko-	Number=Sing|Person=3|Polarity=Neg|Tense=Past	иметь, обладать	VERB	konmenna
-lo	_	_		PART	lo
-in	in	_	этот	DET	in
-ṅey-n	ṅey	Case=Gen|Number=Sing	вещь, дело	NOUN	ṅeyn
-ǧuriȧ	_	_	из-за; потому что	ADP	ǧuriȧ
-iȧ	iȧ-	VerbForm=Conv	знать	VERB	iȧ
-lon	_	_	а, и, но	CCONJ	lon
-ta-n	tar	Case=Gen|Number=Sing|PronType=Prs	он, она, оно	PRON	tan
-ay-lla	ay	Case=Ine|Definite=Def|Number=Sing	сердце, душа	NOUN	aylla
-maïk-ar-is-na	maïk-	Aspect=Imp|Number=Sing|Person=3|Tense=Past	стыдиться	VERB	maïkarisna
-ta-n	tar	Case=Gen|Number=Sing|PronType=Prs	он, она, оно	PRON	tan
-ṅog-la	ṅoog	Case=Ine|Number=Sing	дом	NOUN	ṅogla
-du-ȧr-a	du-	Aspect=Imp|VerbForm=Conv	быть, пребывать	VERB	duȧra
-miššan-gu	miššan	Case=Nom|Number=Plur|PronType=Tot	весь, всякий	PRON	miššangu
-ketalle	_	_	тоже, также	PART	ketalle
-yon	lon	_	а, и, но	CCONJ	yon
-mira-gu-ė	_	Case=Abs|Number=Plur		ADJ	miraguė
-lo	_	_		PART	lo
-is-sa-na	in-	Number=Plur|Person=3|Tense=Past	быть	VERB	issana
-medǧunintay-gu-l	medǧunin-taa	Case=Nom|Definite=Def|Number=Plur	рабыня, служанка	NOUN	medǧunintaygul
-tuy-gu-l	tuy	Case=Nom|Definite=Def|Number=Plur	корова	NOUN	tuygul
-dutrapi-gu-lo	dutrap	Case=Loc|Definite=Def|Number=Plur	курица	NOUN	dutrapigulo
-kiyskillo	kiskillo	_	до	ADP	kiyskillo
-ukru-gu-lo	uk(u)r	Case=Loc|Number=Plur	день	NOUN	ukrugulo
-wel-lo	wel	Case=Loc|PronType=Ind	один; некий	DET	wello
-yon	lon	_	а, и, но	CCONJ	yon
-man	man	_	тот, та, то	DET	man
-itti-l	itt	Case=Nom|Definite=Def|Number=Sing	женщина	NOUN	ittil
-khristianosi-gu-n	khristianosi	Case=Gen|Number=Plur	христианин, -ка	NOUN	khristianosigun
-iliw-gu-l	iliw	Case=Nom|Definite=Def|Number=Plur	женщины (или: пастыри)	NOUN	iliwgul
-pes-ra-n	pes-	Aspect=Imp|Number=Plur|Person=3|Tense=Pres|Subordinative=Yes	говорить	VERB	pesran
-ulg-ra	ulg(i)r-	Aspect=Imp|VerbForm=Conv	слышать	VERB	ulgra
-toyka-gu-ė	toyk	Case=Abs|Number=Plur	сила	NOUN	toykaguė
-sin	_	_	ибо, ведь	SCONJ	sin
-ṅissu	ṅiss(i)	_	святой	ADJ	ṅissu
-mina-na	mina	Case=Gen|Number=Sing	Мина	NOUN	minana
-mareoti-n	mareoti	Case=Gen|Number=Sing	Мареотис	NOUN	mareotin
-kisse-la	kisse	Case=Ine|Number=Sing	церковь	NOUN	kissela
-aw-ǧil-gu-ka	aw-	Case=Acc|Number=Plur|VerbForm=Part	делать	VERB	awǧilguka
-tar-iȧ	tar	Case=Ine|Number=Sing|PronType=Prs	он, она, оно	PRON	tariȧ
-pes-s-na	pes-	Number=Sing|Person=3|Tense=Past	говорить	VERB	pessna
-ȧle	_	_	воистину	ADV	ȧle
-sin	_	_	ибо, ведь	SCONJ	sin
-ṅissu	ṅiss(i)	_	святой	ADJ	ṅissu
-mina-n	mina	Case=Gen|Number=Sing	Мина	NOUN	minan
-till-i-l	till(i)	Case=Nom|Definite=Def|Number=Sing	бог	NOUN	tillil
-an	ay	Case=Gen|Number=Sing|Person=1|PronType=Prs	я	PRON	an
-dutrapi-gu-la	dutrap	Case=Ine|Definite=Def|Number=Plur	курица	NOUN	dutrapigula
-wek-ka	wel	Case=Acc	один; некий	NUM	wekka
-unn-e	unn-, unnu-	Mood=Imp|Number=Sing|Person=2	рожать	VERB	unne
-so	_	Mood=Imp		PART	so
-il-enko-n	il-	Mood=Cnd|Number=Sing|Person=3	говорить (?)	VERB	ilenkon
-lo	_	Mood=Cnd		PART	lo
-ȧy	ay	Case=Nom|Number=Sing|Person=1|PronType=Prs	я	PRON	ȧy
-on	_	_	и, а	CCONJ	on
-kumpu	kumpu	Case=Acc|Number=Sing	яйцо	NOUN	kumpu
-tuskante-lo	tuskante	Case=Loc|Number=Sing	начало	NOUN	tuskantelo
-unnu-si-n	unn-, unnu-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	рожать	VERB	unnusin
-ka	_	_		ADP	ka
-lo	_	_		PART	lo
-ta-n	tar	Case=Gen|Number=Sing|PronType=Prs	он, она, оно	PRON	tan
-kisse-la	kisse	Case=Ine|Number=Sing	церковь	NOUN	kissela
-utudd-r-e	utud-	Number=Sing|Person=1|Tense=Fut	жертвовать, дарить	VERB	utuddre
-ukur'	uk(u)r	Case=Nom|Number=Plur	день	NOUN	ukur'
-die	diy	_	многий, многочисленный; много	ADJ	die
-lo	_	_		PART	lo
-aw-tak-o-n	aw-	Number=Plur|Person=3|Subordinative=Yes|Tense=Pqp	делать; пасс. случаться, происходить	VERB	awtakon
-non	lon	_	а, и, но	CCONJ	non
-dutrapi-gu-la	dutrap	Case=Ine|Definite=Def|Number=Plur	курица	NOUN	dutrapigula
-wel	wel	Case=Nom|Number=Sing|PronType=Ind	один; некий	PRON	wel
-ǧuntuṅ-a	ǧuntuṅ-	VerbForm=Conv	зачать, забеременеть	VERB	ǧuntuṅa
-kumpu-n	kumpu	Case=Gen|Number=Sing	яйцо	NOUN	kumpun
-kak-il	kak	Case=Acc|Definite=Def|Number=Sing	приплод, плод	NOUN	kakil
-wek	wel	_	один; некий	NUM	wek
-ka	_	_		ADP	ka
-unnu-s-na	unn-, unnu-	Number=Sing|Person=3|Tense=Past	рожать	VERB	unnusna
-man	man	_	тот, та, то	DET	man
-itti-l	itt	Case=Nom|Definite=Def|Number=Sing	женщина	NOUN	ittil
-lon	lon	_	а, и, но	CCONJ	lon
-kumpu-k'	kumpu	Case=Acc|Number=Sing	яйцо	NOUN	kumpuk'
-en'it-a	enit-	VerbForm=Conv	поднимать	VERB	en'ita
-ȧman-do'	aman	Case=Sup|Number=Sing	вода, Нил	NOUN	ȧmando'
-sukk-a	sukk-	VerbForm=Conv	выходить	VERB	sukka
-ki-s-na	ki-	Number=Sing|Person=3|Tense=Past	приходить	VERB	kisna
-medǧun-tal'	medǧuntaa	Case=Com|Definite=Def|Number=Sing	рабыня, служанка	NOUN	medǧuntal'
-wel	wel	_	один; некий	DET	wel
-dal	_	_		ADP	dal
-awi-k	aw(i)	Case=Acc|Number=Sing	лодка, корабль	NOUN	awik
-ėl-a	ėl-	VerbForm=Conv	находить	VERB	ėla
-man	man	_	тот, та, то	DET	man
-kumpu-ka	kumpu	Case=Acc|Number=Sing	яйцо	NOUN	kumpuka
-ṅissu	ṅiss(i)	_	святой	ADJ	ṅissu
-mina-n	mina	Case=Gen|Number=Sing	Мина	NOUN	minan
-kisse	kisse	Case=Dat|Number=Sing	церковь	NOUN	kisse
-marėot-io	mareoti	Case=Loc|Number=Sing	Мареотис	NOUN	marėotio
-ṅonǧ-illa	ṅonǧ-	VerbForm=Part	стоять	VERB	ṅonǧilla
-gil	_	_		ADP	gil
-it-eniȧ	it-	VerbForm=Sup	брать, принимать	VERB	iteniȧ
-aw	aw(i)	Case=Acc|Number=Sing	лодка, корабль	NOUN	aw
-lo	_	_		PART	lo
-philoxeniti-gil	philoxeniti	Case=Dat|Number=Sing	Филоксенита	NOUN	philoxenitigil
-ǧo-dra	ǧu-	Aspect=Imp|Tense=Fut|VerbForm=Conv	идти; ехать	VERB	ǧodra
-meddaṅ-o-l	meddaṅ	Tense=Pqp|VerbForm=Part	готовиться	VERB	meddaṅol
-wek	wel	_	один; некий	DET	wek
-ka	_	_		ADP	ka
-on	_	_	и, а	CCONJ	on
-ėl-a	ėl-	VerbForm=Conv	находить	VERB	ėla
-pes-s-na	pes-	Number=Sing|Person=3|Tense=Past	говорить	VERB	pessna
-itti-l	itt	Case=Nom|Definite=Def|Number=Sing	женщина	NOUN	ittil
-ȧgoppigille	agopp(i)	Case=Dat|Number=Sing	корабельщик, кормчий	NOUN	ȧgoppigille
-pisseso	piss-	Mood=Imp|Number=Sing|Person=2	радоваться	VERB	pisseso
-papo	pap	Case=Abs|Number=Sing	отец	NOUN	papo
-ȧgoppa	agopp(i)	Case=Abs|Number=Sing	корабельщик, кормчий	NOUN	ȧgoppa
-tar	tar	Case=Nom|Number=Sing|PronType=Prs	он, она, оно	PRON	tar
-on	_	_	и, а	CCONJ	on
-pes-s-na	pes-	Number=Sing|Person=3|Tense=Past	говорить	VERB	pessna
-ik	ir	Case=Nom|Number=Sing|Person=2|PronType=Prs	ты	PRON	ik
-ketal	_	_	тоже, также	PART	ketal
-pisseso	piss-	Mood=Imp|Number=Sing|Person=2	радоваться	VERB	pisseso
-itti-l	itt	Case=Nom|Definite=Def|Number=Sing	женщина	NOUN	ittil
-lon	lon	_	а, и, но	CCONJ	lon
-pes-s-na	pes-	Number=Sing|Person=3|Tense=Past	говорить	VERB	pessna
-ȧle	_	_	воистину	ADV	ȧle
-sin	_	_	ибо, ведь	SCONJ	sin
-in	in	_	этот	PRON	in
-no	lo	_		PART	no
-tukren	tukr-	Subordinative=Yes|VerbForm=Conv	готовиться (?), выходить (?)	VERB	tukren
-isgil	_	PronType=Int	куда	ADV	isgil
-ǧodin	ǧu-	Aspect=Imp|Number=Sing|Person=2,3|Subordinative=Yes|Tense=Fut	идти; ехать	VERB	ǧodin
-apoggil	agopp(i)	Case=Dat|Definite=Def|Number=Sing	корабельщик, кормчий	NOUN	apoggil
-pesara	pes-	Aspect=Imp|VerbForm=Conv	говорить	VERB	pesara
-ȧle	_	_	воистину	ADV	ȧle
-sin	_	_	ибо, ведь	SCONJ	sin
-ṅodil	ṅod	Case=Nom|Definite=Def|Number=Sing	господин, господь	NOUN	ṅodil
-ȧika	ay	Case=Acc|Number=Sing|Person=1|PronType=Prs	я	PRON	ȧika
-mudwukon	mudu-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	охранять, сопутствовать; позволять	VERB	mudwukon
-lo	_	Mood=Cnd		PART	lo
-philoxenitigille	philoxeniti	Case=Dat|Number=Sing	Филоксенита	NOUN	philoxenitigille
-lo	_	_		PART	lo
-ǧure	ǧu-	Number=Sing|Person=1|Tense=Fut	идти; ехать	VERB	ǧure
-itti-l	itt	Case=Nom|Definite=Def|Number=Sing	женщина	NOUN	ittil
-lon	lon	_	а, и, но	CCONJ	lon
-pes-s-na	pes-	Number=Sing|Person=3|Tense=Past	говорить	VERB	pessna
-magren	mag-	Aspect=Imp|Number=Sing|Person=2|Subordinative=Yes|Tense=Pres	печалиться, горевать, страдать	VERB	magren
-lon	_	_	а, и, но	PART	lon
-aydal	ay	Case=Com|Number=Sing|Person=1|PronType=Prs	я	PRON	aydal
-untik'	unt(i)	Case=Acc|Number=Sing	любовь, милость	NOUN	untik'
-awȧ	aw-	VerbForm=Conv	делать	VERB	awȧ
-philoxenitigille	philoxeniti	Case=Dat|Number=Sing	Филоксенита	NOUN	philoxenitigille
-ayik'	ay	Case=Acc|Number=Sing|Person=1|PronType=Prs	я	PRON	ayik'
-eddal	ir	Case=Com|Number=Sing|Person=2|PronType=Prs	ты	PRON	eddal
-koǧue	koǧu-	Mood=Imp|Number=Sing|Person=2	забирать с собой	VERB	koǧue
-so	_	Mood=Imp		PART	so
-agoppil	agopp(i)	Case=Dat|Number=Sing	корабельщик, кормчий	NOUN	agoppil
-pesara	pes-	Aspect=Imp|VerbForm=Conv	говорить	VERB	pesara
-manno	man	Case=Loc|Number=Sing|PronType=Dem	тот, та, то	PRON	manno
-minka	min	Case=Acc|Number=Sing|PronType=Int	что	PRON	minka
-dollina	doll-	Number=Sing|Person=2|Tense=Pres	хотеть	VERB	dollina
-i	_	Mood=Int		PART	i
-itti-l	itt	Case=Nom|Definite=Def|Number=Sing	женщина	NOUN	ittil
-pesara	pes-	Aspect=Imp|VerbForm=Conv	говорить	VERB	pesara
-ṅissu	ṅiss	_	святой	NOUN	ṅissu
-minan	mina	Case=Gen|Number=Sing	св. Мина	NOUN	minan
-kissegille	kisse	Case=Dat|Number=Sing		NOUN	kissegille
-lo	_	_		PART	lo
-ǧure	ǧu-	Number=Sing|Person=1|Tense=Fut	идти; ехать	VERB	ǧure
-ȧpoggil	agopp(i)	Case=Dat|Number=Sing	корабельщик, кормчий	NOUN	ȧpoggil
-lon	lon	_	а, и, но	CCONJ	lon
-pes-s-na	pes-	Number=Sing|Person=3|Tense=Past	говорить	VERB	pessna
-ir	ir	Case=Nom|Number=Sing|Person=2|PronType=Prs	ты	PRON	ir
-de	_	_	и, но	SCONJ	de
-ellinosi	ellinosi	Case=Nom|Number=Sing	язычник	NOUN	ellinosi
-inil	in-	VerbForm=Part	быть	VERB	inil
-le	_	_		PART	le
-kisse-la	kisse	Case=Ine|Number=Sing	церковь	NOUN	kissela
-mink	min	Case=Acc|Number=Sing|PronType=Dem	что	PRON	mink
-awarrinna	aw-	Number=Sing|Person=2|Tense=Fut	делать	VERB	awarrinna
-itti-l	itt	Case=Nom|Definite=Def|Number=Sing	женщина	NOUN	ittil
-pesara	pes-	Aspect=Imp|VerbForm=Conv	говорить	VERB	pesara
-in	in	_	этот	DET	in
-kumpu-ka	kumpu	Case=Acc|Number=Sing	яйцо	NOUN	kumpuka
-lo	_	_		PART	lo
-man	man	_	тот, та, то	DET	man
-kisse-la	kisse	Case=Ine|Number=Sing	церковь	NOUN	kissela
-kenduk'arril	kenduk-	Tense=Fut|VerbForm=Part	приносить, относить, жертвовать	VERB	kenduk'arril
-le	_	_		PART	le
-ṅissi	ṅiss(i)	_	святой	NOUN	ṅissi
-minan	mina	Case=Gen|Number=Sing	св. Мина	NOUN	minan
-till-i-l	till(i)	Case=Nom|Definite=Def|Number=Sing	бог	NOUN	tillil
-itkin	itki	Case=Gen|Number=Sing	зачатие	NOUN	itkin
-koǧirka	koǧir	Case=Abs|Number=Sing	плодородие	NOUN	koǧirka
-ayka	ay	Case=Acc|Number=Sing|Person=1|PronType=Prs	я	PRON	ayka
-denkon	den-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	давать мне, нам	VERB	denkon
-lo	_	Mood=Cnd		PART	lo
-ȧ	_	Mood=Sub		PART	ȧ
-ȧle	_	_	воистину	ADV	ȧle
-sin	_	_	ибо, ведь	SCONJ	sin
-unnre	unn-, unnu-	Number=Sing|Person=1|Tense=Pres	рожать	VERB	unnre
-ėnen	en-	Subordinative=Yes|VerbForm=Conv	быть	VERB	ėnen
-lon	_	_	а, и, но	CCONJ	lon
-khristianosaṅadimme	khristianosaṅ-	Mood=Sub|Number=Sing|Person=1|Tense=Fut	становиться, быть христианином	VERB	khristianosaṅadimme
-apoggil	agopp(i)	Case=Dat|Definite=Def|Number=Sing	корабельщик, кормчий	NOUN	apoggil
-pesara	pes-	Aspect=Imp|VerbForm=Conv	говорить	VERB	pesara
-itta	itt	Case=Abs|Number=Sing	женщина	NOUN	itta
-ir	ir	Number=Sing|Person=1|PronType=Prs	ты	PRON	ir
-de	_	_	и	SCONJ	de
-aēttakatame	aēttak-	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	беспокоиться, тревожиться	VERB	aēttakatame
-magirkon	mag-	Aspect=Imp|Mood=Cnd|Number=Sing|Person=2	печалиться, горевать, страдать	VERB	magirkon
-ende	_	_	без (того, чтобы)	CCONJ	ende
-in	_	_	этот	DET	in
-kumpu-ka	kumpu	Case=Acc|Number=Sing	яйцо	NOUN	kumpuka
-on	_	_	и	SCONJ	on
-ayka	ay	Case=Acc|Number=Sing|Person=1|PronType=Prs	я	PRON	ayka
-dine	den-	Mood=Imp|Number=Sing|Person=2	давать мне, нам	VERB	dine
-so	_	Mood=Imp		PART	so
-ay	ay	Case=Nom|Number=Sing|Person=1|PronType=Prs	я	PRON	ay
-sin	_	_	ибо, ведь	SCONJ	sin
-penutuddre	penutir-	Number=Sing|Person=1|Tense=Fut	относить, отвозить	VERB	penutuddre
-sin	_	_	ибо, ведь	SCONJ	sin
-ir	ir	Case=Nom|Number=Sing|Person=2|PronType=Prs	ты	PRON	ir
-on	_	_	и, а	SCONJ	on
-in	ir	Case=Gen|Number=Sing|Person=2|PronType=Prs	ты	PRON	in
-ṅooggille	ṅoog	Case=Dat|Number=Sing	дом	NOUN	ṅooggille
-gipirte	gipirt-	Mood=Imp|Number=Sing|Person=2	возвращаться	VERB	gipirte
-so	_	Mood=Imp		PART	so
-in	ir	Case=Gen|Number=Sing|Person=2|PronType=Prs	ты	PRON	in
-ogǧil	og(i)ǧ	Case=Nom|Definite=Def|Number=Sing	мужчина, муж	NOUN	ogǧil
-ṅegimenkon	ṅeg-	Mood=Cnd|Number=Sing|Person=3|Polarity=Neg	бояться, пугаться	VERB	ṅegimenkon
-lo	_	Mood=Cnd		PART	lo
-ȧ	_	Mood=Sub		PART	ȧ
-itti-l	itt	Case=Nom|Definite=Def|Number=Sing	женщина	NOUN	ittil
-on	_	_	и, а	SCONJ	on
-pistewȧ	pistew-	VerbForm=Conv	верить	VERB	pistewȧ
-kumpu-ka	kumpu	Case=Acc|Number=Sing	яйцо	NOUN	kumpuka
-tan'	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan'
-ila'	i	Case=Ine|Number=Sing	рука	NOUN	ila'
-utratirsna	utrat(i)r-	Number=Sing|Person=3|Tense=Past	класть	VERB	utratirsna
-tar	tar	Case=Nom|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tar
-on	_	_	и, а	SCONJ	on
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan
-ṅooggille	ṅoog	Case=Dat|Number=Sing	дом	NOUN	ṅooggille
-gipirtisna	gipirt-	Mood=Imp|Number=Sing|Person=2	возвращаться	VERB	gipirtisna
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan
-medǧuntaaddal	medǧuntaa	Case=Com|Number=Sing	рабыня, служанка	NOUN	medǧuntaaddal
-apoggil	agopp(i)	Case=Nom|Definite=Def|Number=Sing	корабельщик, кормчий	NOUN	apoggil
-lon	_	_	а, и, но	SCONJ	lon
-kumpu-ka	kumpu	Case=Acc|Number=Sing	яйцо	NOUN	kumpuka
-dum'ita	dum'it-	VerbForm=Conv	брать	VERB	dum'ita
-asin	as	Case=Gen|Number=Sing	трюм	NOUN	asin
-tula	_	_	внутри	ADP	tula
-kena	ken-	VerbForm=Conv	нести, приносить	VERB	kena
-kappa	kappa	Case=Ine|Number=Sing	пища, еда, провиант	NOUN	kappa
-sewė	sew(i)	_	другой, прочий	DET	sewė
-la	_	_		ADP	la
-uskursna	usk(u)r-	Number=Sing|Person=3|Tense=Past	класть	VERB	uskursna
-philoxenitiȯ	philoxeniti	Case=Loc|Number=Sing	Филоксенита	NOUN	philoxenitiȯ
-kien	kie	Case=Gen|Number=Sing	приход	NOUN	kien
-pawka	_	_	до, пока не	ADP	pawka
-ukri	uk(u)r	Case=Nom|Definite=Def|Number=Plur	день	NOUN	ukri
-diy	_	_	многий, многочисленный; много	DET	diy
-gul	_	_		PART	gul
-ṅoka	ṅok-	VerbForm=Conv	проходить	VERB	ṅoka
-ǧoruan	ǧu-	Number=Plur|Person=3|Subordinative=Yes|Tense=Pres	идти; ехать	VERB	ǧoruan
-lon	_	_	а, и, но	SCONJ	lon
-philoxenitin	philoxeniti	Case=Gen|Number=Sing	Филоксенита	NOUN	philoxenitin
-gaaddo	gaar	Case=Sup|Number=Sing	сторона, берег	NOUN	gaaddo
-ki-s-na	ki-	Number=Sing|Person=3|Tense=Past	приходить	VERB	kisna
-ogǧil	og(i)ǧ	Case=Nom|Definite=Def|Number=Sing	мужчина, муж	NOUN	ogǧil
-lon	_	_	а, и, но	SCONJ	lon
-kumpu-ka	kumpu	Case=Acc|Number=Sing	яйцо	NOUN	kumpuka
-agora	agor-	VerbForm=Conv	забывать	VERB	agora
-isu	is	PronType=Rel	что	PRON	isu
-irkane	irkane	_	начало; рождение, рождество	NOUN	irkane
-widilla	widillo	_	снова (?)	ADV	widilla
-gille	_	_		ADP	gille
-gipirtisna	gipirt-	Number=Sing|Person=3|Tense=Past	возвращаться	VERB	gipirtisna
-ukrigullo	uk(u)r	Case=Loc|Number=Plur	день	NOUN	ukrigullo
-wel-lo	wel	Case=Loc|PronType=Ind	один; некий	DET	wello
-yon	_	_		SCONJ	yon
-ȧpoggil	agopp(i)	Case=Nom|Definite=Def|Number=Sing	корабельщик, кормчий	NOUN	ȧpoggil
-man	man	_	тот, та, то	DET	man
-kumpu-ka	kumpu	Case=Acc|Number=Sing	яйцо	NOUN	kumpuka
-ȧwn'	aw(i)	Case=Gen|Number=Sing	лодка, корабль	NOUN	ȧwn'
-ȧsin	as	Case=Gen|Number=Sing	трюм	NOUN	ȧsin
-tula	_	_	внутри	ADP	tula
-kappa	kappa	Case=Ine	пища, еда, провиант	NOUN	kappa
-sewė	sew(i)	_	другой, прочий	DET	sewė
-la	_	_		ADP	la
-piyn	pi-	VerbForm=Part	быть, находиться	VERB	piyn
-ṅalen	ṅal-	Subordinative=Yes|VerbForm=Conv	видеть	VERB	ṅalen
-in'	in	_	этот	DET	in'
-tan'	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan'
-uskra	usk(u)r-	VerbForm=Conv	класть	VERB	uskra
-ȧgorisska	agor-	Case=Acc|Number=Sing|Tense=Past|VerbForm=Part	забывать	VERB	ȧgorisska
-pes-s-na	pes-	Number=Sing|Person=3|Tense=Past	говорить	VERB	pessna
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan
-ṅalgille	ṅa	Case=Dat|Definite=Def|Number=Sing	сын	NOUN	ṅalgille
-ė	_	_	эй! о! (междометие при обращении)	INTJ	ė
-tota	tot	Case=Abs|Number=Sing	сын, дитя	NOUN	tota
-in	in	_	этот	DET	in
-kumpul	kumpu	Case=Nom|Definite=Def|Number=Sing	яйцо	NOUN	kumpul
-islo	_	_	где	ADV	islo
-issna	is-	Number=Sing|Person=3|Tense=Past	рождать	VERB	issna
-ha	_	_		PART	ha
-tar	tar	Case=Nom|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tar
-on	_	_	и, а	SCONJ	on
-pes-s-na	pes-	Number=Sing|Person=3|Tense=Past	говорить	VERB	pessna
-papo	pap	Case=Abs|Number=Sing	отец	NOUN	papo
-iru	ir	Case=Nom|Number=Sing|Person=2|PronType=Prs	ты	PRON	iru
-inka	in	Case=Acc|PronType=Dem	это	PRON	inka
-ankiminna	ank-	_	вспоминать	VERB	ankiminna
-i'	_	Mood=Int		PART	i'
-ittu	itt	Case=Gen|Number=Sing	женщина	NOUN	ittu
-wen	wel	_	один; некий	DET	wen
-na	_	_		ADP	na
-ekka	er	Case=Acc|Number=Plur|Person=1|PronType=Prs	мы	PRON	ekka
-denǧiska	den-	Case=Acc|Number=Sing|Number[obj]=Plur|Tense=Past|VerbForm=Part	давать мне, нам	VERB	denǧiska
-ṅissu	ṅiss	Case=Gen|Number=Sing	святой	NOUN	ṅissu
-minan	mina	_	Мина	NOUN	minan
-kisse-la	kisse	Case=Ine|Number=Sing	церковь	NOUN	kissela
-tiǧǧana	tir-	Number=Plur|Person=3|Tense=Pres	давать	VERB	tiǧǧana
-so	_	Mood=Imp		PART	so
-a	_	Mood=Sub		PART	a
-papil	pap	Case=Nom|Definite=Def|Number=Sing	отец	NOUN	papil
-lon	_	_	а, и, но	CCONJ	lon
-pes-s-na	pes-	Number=Sing|Person=3|Tense=Past	говорить	VERB	pessna
-totigille	tot	Case=Dat|Number=Sing	сын, дитя	NOUN	totigille
-ė	_	_	эй! о!	INTJ	ė
-ȧlelo	ale	Case=Loc|Number=Sing	истина, правда	NOUN	ȧlelo
-tak'	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tak'
-aygil	ay	Case=Dat|Number=Sing|Person=1|PronType=Prs	я	PRON	aygil
-tok'-arre	tokk-	Mood=Imp|Number=Sing|Person=2|Tense=Fut	варить	VERB	tok'-arre
-so	_	Mood=Imp		PART	so
-kapkoï	kap-	Mood=Cnd|Number=Sing|Person=1|Subordinative=Yes	есть	VERB	kapkoï
-lo	_	Mood=Cnd		PART	lo
-a	_	Mood=Sub		PART	a
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan
-ṅal	ṅa	Case=Nom|Definite=Def|Number=Sing	сын	NOUN	ṅal
-lon	_	_	а, и, но	CCONJ	lon
-tokka	tokk-	VerbForm=Conv	варить	VERB	tokka
-takka	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	takka
-kentron	kent(i)r-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	приносить	VERB	kentron
-kapa	kap-	VerbForm=Conv	есть	VERB	kapa
-itirsna	it-	Number=Sing|Number[obj]=Sing|Person=3|Tense=Past	брать, принимать	VERB	itirsna
-suȧy	suȧy	Case=Gen|Number=Sing	месяц, начало месяца	NOUN	suȧy
-tusko	tusko	_	три	NUM	tusko
-n	_	_		ADP	n
-ukrigul	uk(u)r	Case=Nom|Definite=Def|Number=Plur	день	NOUN	ukrigul
-ṅoka	ṅok-	VerbForm=Conv	проходить	VERB	ṅoka
-ǧoruan	ǧu-	Number=Plur|Person=3|Subordinative=Yes|Tense=Pres	идти; ехать	VERB	ǧoruan
-lon	_	_	а, и, но	CCONJ	lon
-dippu	dipp(i)	Case=Sup|Number=Sing	город, селение	NOUN	dippu
-wed	wel	_	один; некий	DET	wed
-do	_	_		ADP	do
-kisana	ki-	Number=Plur|Person=3|Tense=Past	приходить	VERB	kisana
-ȧwkka	aw(i)	Case=Acc|Number=Sing	лодка, корабль	NOUN	ȧwkka
-on	_	_	и, а	CCONJ	on
-man	man	_	тот, та, то	DET	man
-dippin	dipp(i)	Case=Gen|Number=Sing	город, селение	NOUN	dippin
-gaddo	gaar	Case=Sup|Number=Sing	сторона, берег	NOUN	gaddo
-kenȯossana	kenȯos-	Number=Plur|Person=3|Tense=Past	выносить	VERB	kenȯossana
-kyriaken	kyriake	Case=Gen|Number=Sing	воскресенье	NOUN	kyriaken
-ukur'	uk(u)r	Case=Nom|Number=Sing	день	NOUN	ukur'
-inin	in-	VerbForm=Conv	быть	VERB	inin
-lon	_	_	а, и, но	CCONJ	lon
-ȧpoggil	agopp(i)	Case=Nom|Definite=Def|Number=Sing	корабельщик, кормчий	NOUN	ȧpoggil
-dippiddo	dipp(i)	Case=Sup|Definite=Def|Number=Sing	город, селение	NOUN	dippiddo
-keda	ked-	VerbForm=Conv	подниматься	VERB	keda
-ki-s-na	ki-	Number=Sing|Person=3|Tense=Past	приходить	VERB	kisna
-korek'	kore	Case=Acc|Number=Sing	причастие	NOUN	korek'
-itni	it-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pres	брать, принимать	VERB	itni
-ȧ	_	Mood=Sub		PART	ȧ
-man	man	_	тот, та, то	DET	man
-dippila	dipp(i)	Case=Ine|Number=Sing	город, селение	NOUN	dippila
-lon	_	_	а, и, но	CCONJ	lon
-parthenosu	parthenosi	Case=Gen|Number=Sing	дева	NOUN	parthenosu
-ṅissu	ṅiss(i)	_	святой	ADJ	ṅissu
-maria	maria	_	Мария	NOUN	maria
-n	_	_		ADP	n
-kissel	kisse	Case=Nom|Definite=Def|Number=Sing	церковь	NOUN	kissel
-lo	_	_		PART	lo
-ṅonǧara	ṅonǧ-	Aspect=Imp|VerbForm=Conv	стоять	VERB	ṅonǧara
-tariȧ	tar	Case=Ine|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tariȧ
-lon	_	_	а, и, но	CCONJ	lon
-tora	torra-	VerbForm=Conv	приходить	VERB	tora
-ki-s-na	ki-	Number=Sing|Person=3|Tense=Past	приходить	VERB	kisna
-korek'	kore	Case=Acc|Number=Sing	причастие	NOUN	korek'
-itni	it-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pres	брать, принимать	VERB	itni
-ȧ	_	Mood=Sub		PART	ȧ
-trisȧgion	_	Case=Nom|Number=Sing	трисвятая молитва	NOUN	trisȧgion
-kiesin	ki-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	приходить	VERB	kiesin
-no	_	_		ADP	no
-kono	_	_	после	ADP	kono
-lon	_	_	а, и, но	CCONJ	lon
-kipta	kipt(i)	Case=Abs|Number=Sing	народ, люди	NOUN	kipta
-miššan	miššan	PronType=Tot	весь, всякий	DET	miššan
-lon	_	_	а, и, но	CCONJ	lon
-kaskaseldo	kaskase	Case=Sup|Definite=Def|Number=Sing	кропильница	NOUN	kaskaseldo
-timmisana	timm-	Number=Plur|Person=3|Tense=Past	собираться	VERB	timmisana
-ȧgiȯsin	ȧgiȯs	Case=Gen|Number=Sing	святой	NOUN	ȧgiȯsin
-amanka	aman	Case=Acc|Number=Sing	вода	NOUN	amanka
-paynu	pay-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pres	писать	VERB	paynu
-ȧ	_	Mood=Sub		PART	ȧ
-apoggin	agopp(i)	Case=Gen|Number=Sing	корабельщик, кормчий	NOUN	apoggin
-man̂il	man̂	Case=Nom|Definite=Def|Number=Sing	глаз	NOUN	man̂il
-lon	_	_	а, и, но	CCONJ	lon
-gallitakon	gall-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	открывать	VERB	gallitakon
-ṅissu	ṅiss(i)	Case=Acc	святой	NOUN	ṅissu
-mina	mina	_	Мина	NOUN	mina
-ka	_	_		ADP	ka
-pilaallo	pilaal	Case=Loc|Number=Sing	сияние (?); явь (?)	NOUN	pilaallo
-ṅilsna	ṅil-	Number=Sing|Person=3|Tense=Past	видеть	VERB	ṅilsna
-murtu	murt(i)	Case=Acc|Number=Sing	лошадь	NOUN	murtu
-ṅulu	ṅulu	_	белый	NOUN	ṅulu
-ka'	_	_		ADP	ka'
-doka	dok-	VerbForm=Conv	сидеть верхом, ездить верхом	VERB	doka
-kin	ki-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pres	приходить	VERB	kin
-takka	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	takka
-on	_	_	и, а	CCONJ	on
-tudin	tud(i)	Case=Gen|Number=Sing	воин / огонь	NOUN	tudin
-šak	ša	Case=Acc|Number=Sing	копье	NOUN	šak
-arrinnagra	arrinnagir-	VerbForm=Conv	потрясать / целиться	VERB	arrinnagra
-tar	tar	Case=Nom|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tar
-on	_	_	и, а	CCONJ	on
-ṅalen	ṅal-	Subordinative=Yes|VerbForm=Conv	видеть	VERB	ṅalen
-tillika	till(i)	Case=Acc|Number=Sing	бог	NOUN	tillika
-unnol	unnu-	Tense=Pqp|VerbForm=Part	рождать	VERB	unnol
-marian	maria	Case=Gen|Number=Sing	Мария	NOUN	marian
-igongille	igon	Case=Dat|Number=Sing	образ, икона	NOUN	igongille
-gudala	gudal-	VerbForm=Conv	бояться, страшиться	VERB	gudala
-kiȧ	ki-	VerbForm=Conv	приходить	VERB	kiȧ
-wuȧ	wu-	VerbForm=Conv	кричать, вопить	VERB	wuȧ
-pes-s-na	pes-	Number=Sing|Person=3|Tense=Past	говорить	VERB	pessna
-iriȯ	ir	Case=Loc|Number=Sing|Person=2|PronType=Prs	ты	PRON	iriȯ
-ma	_	Mood=Sub	пусть	PART	ma
-lo	_	_		PART	lo
-tillik	till(i)	Case=Acc|Number=Sing	бог	NOUN	tillik
-unnara	unnu-	Aspect=Imp|Case=Abs|Number=Sing|VerbForm=Part	рождать	VERB	unnara
-maria	maria	Case=Abs|Number=Sing	Мария	NOUN	maria
-ayka	ay	Case=Acc|Number=Sing|Person=1|PronType=Prs	я	PRON	ayka
-awlose	awlos-	Mood=Imp|Number=Sing|Person=2	спасать	VERB	awlose
-ṅapeka	ṅape	Case=Acc|Number=Sing	грех	NOUN	ṅapeka
-awėsi	aw-	Case=Loc|Number=Sing|Person=1|Subordinative=Yes|Tense=Past	делать	VERB	awėsi
-lo	_	_		ADP	lo
-ǧun	_	_	из-за; так как	ADP	ǧun
-ṅissu	ṅiss(i)	Case=Nom|Number=Sing	святой	NOUN	ṅissu
-mina	mina	_	Мина	NOUN	mina
-lon	_	_	а, и, но	CCONJ	lon
-widillo	_	_	снова (?)	ADV	widillo
-ṅonǧa	ṅonǧ-	VerbForm=Conv	стоять	VERB	ṅonǧa
-pes-s-na	pes-	Number=Sing|Person=3|Tense=Past	говорить	VERB	pessna
-tadgille	tar	Case=Dat|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tadgille
-minka	min	Case=Acc|PronType=Int	что	PRON	minka
-iddal	ir	Case=Com|Number=Sing|Person=2|PronType=Prs	ты	PRON	iddal
-awarre	aw-	Number=Sing|Person=1|Tense=Fut	делать	VERB	awarre
-ėlin	el	Case=Gen|Number=Sing	сейчас	NOUN	ėlin
-ukurro	uk(u)r	Case=Loc|Number=Sing	день	NOUN	ukurro
-ṅodu	ṅod	Case=Loc|Number=Sing	господин, господь	NOUN	ṅodu
-anni	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	мой	DET	anni
-lo	_	_		ADP	lo
-sin	_	_	ибо, ведь	ADP	sin
-ma	_	_		PART	ma
-lo	_	_		PART	lo
-torrasi	torra-	Number=Sing|Person=1|Subordinative=Yes|Tense=Past	приходить	VERB	torrasi
-ṅissil	ṅiss(i)	Case=Nom|Definite=Def|Number=Sing	святой	NOUN	ṅissil
-lon	_	_	а, и, но	CCONJ	lon
-man	_	_	тот, та, то	DET	man
-ogiǧka	og(i)ǧ	Case=Acc|Number=Sing	мужчина, муж	NOUN	ogiǧka
-dumma	dumm-	VerbForm=Conv	брать, хватать	VERB	dumma
-tak	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tak
-urildo	ur	Case=Sup|Definite=Def|Number=Sing	голова	NOUN	urildo
-ǧagṅon	ǧagṅ-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	наступать, попирать	VERB	ǧagṅon
-kumpu	kumpu	Case=Nom|Number=Sing	яйцо	NOUN	kumpu
-in	_	_	этот	DET	in
-tan'na	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan'na
-kipsil	kap-	Tense=Past|VerbForm=Part	есть	VERB	kipsil
-dumal	_	_	вдруг	ADV	dumal
-dutrap'	dutrap	Case=Nom|Number=Sing	курица	NOUN	dutrap'
-an̂araṅa	an̂araṅ-	VerbForm=Conv	оживать	VERB	an̂araṅa
-tanna	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tanna
-tawȯ	_	_	под	ADP	tawȯ
-ketal	_	_	тоже, также	PART	ketal
-sukk-a	sukk-	VerbForm=Conv	выходить	VERB	sukka
-pala	pal-	VerbForm=Conv	выходить	VERB	pala
-kutta	kutt-	VerbForm=Conv	встать	VERB	kutta
-ṅonǧa	ṅonǧ-	VerbForm=Conv	стоять	VERB	ṅonǧa
-tuskono	_	_	сразу	ADV	tuskono
-ǧawisna	ǧaw-	Number=Sing|Person=3|Tense=Past	кричать (?)	VERB	ǧawisna
-ṅissu	ṅiss(i)	Case=Nom|Number=Sing	святой	NOUN	ṅissu
-mina	mina	_	Мина	NOUN	mina
-lon	_	_	а, и, но	CCONJ	lon
-murtiddo	murt(i)	Case=Sup|Definite=Def|Number=Sing	лошадь	NOUN	murtiddo
-ȧkil	ag-	Tense=Pres|VerbForm=Part	сидеть	VERB	ȧkil
-dutrapka	dutrap	Case=Acc|Number=Sing	курица	NOUN	dutrapka
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs		PRON	tan
-awir	awir-	Case=Loc|Number=Sing	крыло	NOUN	awir
-wel	_	_	один; некий	DET	wel
-lo	_	_		ADP	lo
-dumma	dumm-	VerbForm=Conv	брать, хватать	VERB	dumma
-taka	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	taka
-enėta	enit-	VerbForm=Conv	поднимать	VERB	enėta
-pes-s-na	pes-	Number=Sing|Person=3|Tense=Past	говорить	VERB	pessna
-indo	in	Case=Sup|PronType=Dem	это	PRON	indo
-ǧuse	ǧu-	Number=Sing|Person=1|Tense=Past	идти; ехать	VERB	ǧuse
-inka	in	Case=Acc|PronType=Dem	это	PRON	inka
-lo	_	_		PART	lo
-isse	is-	Number=Sing|Person=1|Tense=Past	рождать (?)	VERB	isse
-ṅissu	ṅiss(i)	Case=Nom|Number=Sing	святой	NOUN	ṅissu
-mina	mina	_	Мина	NOUN	mina
-lon	_	_	а, и, но	CCONJ	lon
-man	_	_	тот, та, то	DET	man
-ittin	itt	Case=Gen|Number=Sing	женщина	NOUN	ittin
-ṅoglo	ṅoog	Case=Loc|Number=Sing	дом	NOUN	ṅoglo
-ǧora	ǧo-	Aspect=Imp|VerbForm=Conv	идти; ехать	VERB	ǧora
-kiȧ	ki-	VerbForm=Conv	приходить	VERB	kiȧ
-šaakka	šaa	Case=Acc|Number=Sing	дверь	NOUN	šaakka
-kimmȧ'	kimm-	VerbForm=Conv	стучать	VERB	kimmȧ'
-ȯȯkirsna	ȯȯk-	Number=Sing|Number[obj]=Sing|Person=3|Tense=Past	звать	VERB	ȯȯkirsna
-man	_	_	тот, та, то	DET	man
-itti-l	itt	Case=Nom|Definite=Def|Number=Sing	женщина	NOUN	ittil
-lon	_	_	а, и, но	CCONJ	lon
-midil	mid-	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part	бежать, бегать	VERB	midil
-ki'	ki-	VerbForm=Conv	приходить	VERB	ki'
-šaakka	šaa	Case=Acc|Number=Sing	дверь	NOUN	šaakka
-gallisna	gall-	Number=Sing|Person=3|Tense=Past	открывать	VERB	gallisna
-ṅissil	ṅiss(i)	Case=Nom|Definite=Def|Number=Sing	святой	NOUN	ṅissil
-lon	_	_	а, и, но	CCONJ	lon
-pes-s-na	pes-	Number=Sing|Person=3|Tense=Past	говорить	VERB	pessna
-tadgille	tar	Case=Dat|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tadgille
-itta	itt	Case=Abs|Number=Sing	женщина	NOUN	itta
-in	_	_	этот	DET	in
-ditrapka	ditrap	Case=Acc|Number=Sing	курица	NOUN	ditrapka
-dum'eta	dum'it-	VerbForm=Conv	брать	VERB	dum'eta
-in	ir	Case=Gen|Number=Sing|Person=2|PronType=Prs	ты	PRON	in
-dutrapigulo	dutrap	Case=Loc|Number=Plur	курица	NOUN	dutrapigulo
-pelire	pelir-	Mood=Imp|Number=Sing|Person=2	помещать, сажать, класть	VERB	pelire
-so	_	Mood=Imp		PART	so
-ikka	ir	Case=Acc|Number=Sing|Person=2|PronType=Prs	ты	PRON	ikka
-unnatikkoan	unnat(i)r-	Mood=Cnd|Number=Plur|Person=3|Subordinative=Yes	заставлять рожать	VERB	unnatikkoan
-lo	_	Mood=Cnd		PART	lo
-ȧ	_	Mood=Sub		PART	ȧ
-ir	ir	Case=Nom|Number=Sing|Person=2|PronType=Prs	ты	PRON	ir
-ketalle	_	_	тоже, также	PART	ketalle
-lon	_	_	а, и, но	CCONJ	lon
-ė	_	_	эй! о!	INTJ	ė
-itta	itt	Case=Abs|Number=Sing	женщина	NOUN	itta
-ṅak	ṅa	Case=Acc|Number=Sing	сын	NOUN	ṅak
-unnarrasi	unn-	Aspect=Imp|Tense=Past|VerbForm=Part	рожать	VERB	unnarrasi
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan
-taṅiska	taṅis	Case=Acc|Number=Sing	имя	NOUN	taṅiska
-minaȧ	_	Case=Abs|Number=Sing	Мина	NOUN	minaȧ
-ȯke	ȯk-	Mood=Imp|Number=Sing|Person=2	называть, звать	VERB	ȯke
-so	_	Mood=Imp		PART	so
-in	ir	Case=Gen|Number=Sing|Person=2|PronType=Prs	ты	PRON	in
-medǧunintay-gu-l	medǧunin-taa	Case=Nom|Definite=Def|Number=Plur	рабыня, служанка	NOUN	medǧunintaygul
-ketal	_	_	тоже, также	PART	ketal
-kello	_	_	как, подобно	ADV	kello
-unnadimmana	unnu-	Mood=Sub|Number=Plur|Person=3|Tense=Fut	рожать	VERB	unnadimmana
-on	_	_	и, а	CCONJ	on
-in	ir	Case=Gen|Number=Sing|Person=2|PronType=Prs	ты	PRON	in
-tuygul	tuygu	Case=Nom|Definite=Def|Number=Plur	коровы	NOUN	tuygul
-ir	ir	Case=Nom|Number=Sing|Person=2|PronType=Prs	ты	PRON	ir
-on	_	_	и, а	CCONJ	on
-ė	_	_		INTJ	ė
-itta	itt	Case=Abs|Number=Sing	женщина	NOUN	itta
-pistittik	pistitt(i)	Case=Acc|Number=Sing	крещение	NOUN	pistittik
-ite	it-	Mood=Imp|Number=Sing|Person=2	брать, принимать	VERB	ite
-so	_	_		PART	so
-in	ir	Case=Gen|Number=Sing|Person=2|PronType=Prs	ты	PRON	in
-ṅapegun	ṅape	Case=Gen|Number=Plur	грех	NOUN	ṅapegun
-tokderragille	tokderra	Case=Dat|Number=Sing	искупление	NOUN	tokderragille
-inka	in	Case=Acc|PronType=Dem	это	PRON	inka
-pesa	pes-	VerbForm=Conv	говорить	VERB	pesa
-toka	tok-	VerbForm=Conv	прекратить (?)	VERB	toka
-lon	_	_	а, и, но	CCONJ	lon
-dumal	_	_	вдруг	ADV	dumal
-kono	_	_	после	ADP	kono
-ṅissil	ṅiss(i)	Case=Nom|Definite=Def|Number=Sing	святой	NOUN	ṅissil
-miwtakra	miw-	Aspect=Imp|VerbForm=Conv	исчезать (?)	VERB	miwtakra
-ṅissna	ṅil-	Number=Sing|Person=3|Tense=Past	видеть	VERB	ṅissna
-itti-l	itt	Case=Nom|Definite=Def|Number=Sing	женщина	NOUN	ittil
-lon	_	_	а, и, но	CCONJ	lon
-dutrapka	dutrap	Case=Acc|Number=Sing	курица	NOUN	dutrapka
-dumėta	dum'it-	VerbForm=Conv	брать	VERB	dumėta
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan
-dutrapi-gu-lo	dutrap	Case=Loc|Definite=Def|Number=Plur	курица	NOUN	dutrapigulo
-peliron	pelir-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	помещать, сажать, класть	VERB	peliron
-dumak	dumal	_	вдруг	ADV	dumak
-kono	_	_	после	ADP	kono
-kello	_	_	как, подобно	ADV	kello
-unnisana	unn-	Number=Plur|Person=3|Tense=Past	рожать	VERB	unnisana
-medǧunintay-gu-l	medǧunin-taa	Case=Nom|Definite=Def|Number=Plur	рабыня, служанка	NOUN	medǧunintaygul
-on	_	_	и, а	CCONJ	on
-tuygul	tuygu	Case=Nom|Definite=Def|Number=Plur	коровы	NOUN	tuygul
-taru	tar	Case=Nom|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	taru
-itti-l	itt	Case=Nom|Definite=Def|Number=Sing	женщина	NOUN	ittil
-ketalle	_	_	тоже, также	ADV	ketalle
-lon	_	_	а, и, но	CCONJ	lon
-ǧuntuṅ-a	ǧuntuṅ-	VerbForm=Conv	зачать, забеременеть	VERB	ǧuntuṅa
-ṅan	ṅa	Case=Gen|Number=Sing	сын	NOUN	ṅan
-kakikka	kak	Case=Acc|Definite=Def|Number=Sing	приплод, плод	NOUN	kakikka
-unnusna	unnu-	Number=Sing|Person=3|Tense=Past	рожать	VERB	unnusna
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan
-taṅiska	taṅis	Case=Acc|Number=Sing	имя	NOUN	taṅiska
-on	_	_	и, а	CCONJ	on
-okisna	ȯk-	Number=Sing|Person=3|Tense=Past	называть, звать	VERB	okisna
-minaȧ	mina	Case=Abs|Number=Sing	Мина	NOUN	minaȧ
-ṅissna	ṅiss(i)	Case=Gen|Number=Sing	святой	NOUN	ṅissna
-tadgil	tar	Case=Dat|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tadgil
-pesesin	pes-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	говорить	VERB	pesesin
-kello	_	_	как, подобно	SCONJ	kello
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan
-medǧunintayguk	medǧunin-taa	Case=Nom|Number=Plur	служанка, рабыня	NOUN	medǧunintayguk
-ketalle	_	_	тоже, также	ADV	ketalle
-lon	_	_	а, и, но	CCONJ	lon
-ǧuntuṅa'	ǧuntuṅ-	VerbForm=Conv	зачать, забеременеть	VERB	ǧuntuṅa'
-kello	_	_	как, подобно	ADV	kello
-unnusana	unnu-	Number=Sing|Person=3|Tense=Past	рожать	VERB	unnusana
-ṅakka	ṅa	Case=Acc|Number=Sing	сын	NOUN	ṅakka
-as-ka	as	Case=Acc|Number=Sing	дочь	NOUN	aska
-man	_	_	тот, та, то	DET	man
-itti-l	itt	Case=Nom|Definite=Def|Number=Sing	женщина	NOUN	ittil
-lon	_	_	а, и, но	CCONJ	lon
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan
-kokkanen	kokkane	Case=Gen|Number=Sing	слабость	NOUN	kokkanen
-urkrigul	uk(u)r	Case=Nom|Definite=Def|Number=Plur	день	NOUN	urkrigul
-kiriṅuan	kiriṅ-	Number=Plur|Person=3|Subordinative=Yes|Tense=Pqp	проходить	VERB	kiriṅuan
-ṅi	_	_	когда	SCONJ	ṅi
-ṅissu	ṅiss(i)	_	святой	NOUN	ṅissu
-mina	mina	_	Мина	NOUN	mina
-kisselo	kisse	Case=Loc|Number=Sing	церковь	NOUN	kisselo
-ǧora	ǧo-	Aspect=Imp|VerbForm=Conv	идти; ехать	VERB	ǧora
-ki-s-na	ki-	Number=Sing|Person=3|Tense=Past	приходить	VERB	kisna
-mareȯtiȯ	mareȯti	Case=Loc|Number=Sing	Мареотис	NOUN	mareȯtiȯ
-kisse	kisse	Case=Ine|Number=Sing	церковь	NOUN	kisse
-ṅiss	ṅiss(i)	_	святой	ADJ	ṅiss
-la	_	_		ADP	la
-kien	ki-	Subordinative=Yes|VerbForm=Conv	проходить	VERB	kien
-lon	_	_	а, и, но	CCONJ	lon
-sortok'	sorto	Case=Acc|Number=Sing	священник	NOUN	sortok'
-iskelisna	iskel-	Number=Sing|Person=3|Tense=Past	просить	VERB	iskelisna
-tekka	ter	Case=Acc|Number=Plur|Person=3|PronType=Prs	они	PRON	tekka
-pistakkon	pistar-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	крестить	VERB	pistakkon
-lo	_	Mood=Cnd		PART	lo
-ȧ	_	Mood=Sub		PART	ȧ
-sortol	sorto	Case=Nom|Definite=Def|Number=Sing	священник	NOUN	sortol
-lon	_	_	а, и, но	CCONJ	lon
-dummiǧa	dumm-	Number[obj]=Plur|VerbForm=Conv	брать, хватать	VERB	dummiǧa
-teddo	ter	Case=Sup|Number=Plur|Person=3|PronType=Prs		PRON	teddo
-silela	silel-	VerbForm=Conv	молиться	VERB	silela
-tar	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs		PRON	tar
-de	_	_	и	CCONJ	de
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan
-ogǧil	og(i)ǧ	Case=Acc|Definite=Def|Number=Sing	мужчина, муж	NOUN	ogǧil
-de	_	_	и	CCONJ	de
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan
-ṅal	ṅa	Case=Acc|Definite=Def|Number=Sing	сын	NOUN	ṅal
-de	_	_	и	CCONJ	de
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan
-medǧuningul	medǧun	Case=Acc|Definite=Def|Number=Plur	раб, слуга	NOUN	medǧuningul
-de-kel	_	_	и	CCONJ	de-kel
-ka	_	_		ADP	ka
-pistarisna	pistar-	Number=Sing|Person=3|Tense=Past	крестить	VERB	pistarisna
-papil	pap	Case=Gen|Definite=Def|Number=Sing	отец	NOUN	papil
-de	_	_	и	CCONJ	de
-oṅ	_	_	и, а	CCONJ	oṅ
-ṅal	ṅa	Case=Gen|Definite=Def|Number=Sing	сын	NOUN	ṅal
-de	_	_	и	CCONJ	de
-on	_	_	и, а	CCONJ	on
-sewartu	sewart(i)	Case=Gen|Definite=Def|Number=Sing	дух	NOUN	sewartu
-ṅissil	ṅiss(i)	_	святой	ADJ	ṅissil
-de-kel	_	_	и	CCONJ	de-kel
-n	_	_		ADP	n
-taṅslo	taṅs	Case=Loc|Number=Sing	имя	NOUN	taṅslo
-ko	_	_	по, согласно, в соответствии с	ADP	ko
-ikarigra	_	_	так, таким образом; итак	ADV	ikarigra
-lon	_	_	а, и, но	CCONJ	lon
-khristianosa	khristianosi	Case=Abs|Number=Sing	христианин, христианка	NOUN	khristianosa
-kelkinnan	kelkinn-	Number=Plur|Person=3|Subordinative=Yes|Tense=Pres	[обратиться?]	VERB	kelkinnan
-inin	in-	Subordinative=Yes|VerbForm=Conv	быть	VERB	inin
-duȧrisana	du-	Aspect=Imp|Number=Plur|Person=3|Tense=Past	быть, пребывать	VERB	duȧrisana
-ten	ter	Case=Gen|Number=Plur|Person=3|PronType=Prs	они	PRON	ten
-an̂en	an̂e	Case=Gen|Number=Sing	жизнь	NOUN	an̂en
-ukra	uk(u)r	_	день	NOUN	ukra
-miššan	miššan	_	весь, всякий	DET	miššan
-lo	_	_		ADP	lo
-ṅissu	ṅiss(i)	_	святой	NOUN	ṅissu
-mina	mina	_	Мина	NOUN	mina
-kissena	kisse	Case=Gen|Number=Sing	церковь	NOUN	kissena
-lon	_	_	а, и, но	CCONJ	lon
-degerio	deger	Case=Loc|Number=Sing	община	NOUN	degerio
-inin	in-	Subordinative=Yes|VerbForm=Conv	быть	VERB	inin
-duȧrisana	du-	Aspect=Imp|Number=Plur|Person=3|Tense=Past	быть, пребывать	VERB	duȧrisana
-ten	ter	Case=Gen|Number=Plur|Person=3|PronType=Prs	они	PRON	ten
-darpneka	darpne	Case=Acc|Number=Sing	жертвоприношение	NOUN	darpneka
-kissegille	kisse	Case=Dat|Number=Sing	церковь	NOUN	kissegille
-kaka	kak-	VerbForm=Conv	[приносить]	VERB	kaka
-ǧoǧokil	ǧoǧok-	Tense=Pres|VerbForm=Part	постоянно приносить (?)	VERB	ǧoǧokil
-ten	ter	Case=Gen|Number=Plur|Person=3|PronType=Prs	они	PRON	ten
-dien	die	Case=Gen|Number=Sing	смерть	NOUN	dien
-pawuka	_	_	до, пока не	ADP	pawuka
-ǧimmilgul	ǧimmil	Case=Nom|Definite=Def|Number=Plur|PronType=Tot	всякий, каждый	PRON	ǧimmilgul
-lon	_	_	а, и, но	CCONJ	lon
-in	_	_	этот	DET	in
-ṅokkor	ṅokkor	Case=Acc|Definite=Def|Number=Sing	чудо	NOUN	ṅokkor
-dawi	dawi	_	большой, великий	ADJ	dawi
-l	_	PronType=Art		DET	l
-ka	_	_		ADP	ka
-ṅalu	ṅal-	_	видеть	VERB	ṅalu
-ulgren	ulg(i)r-	Subordinative=Yes|VerbForm=Conv	слышать	VERB	ulgren
-tillika	till(i)	Case=Acc|Number=Sing	бог	NOUN	tillika
-ṅoktirsana	ṅokt(i)r-	Number=Plur|Person=3|Tense=Past	почитать, славить	VERB	ṅoktirsana
-ȯn	_	_	и, а	CCONJ	ȯn
-ṅissu	ṅiss(i)	_	святой	NOUN	ṅissu
-mina	mina	_	Мина	NOUN	mina
-ka	_	_		ADP	ka
-tanna	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tanna
-sin	_	_	ибо, ведь	SCONJ	sin
-ṅokil	ṅook	Case=Nom|Definite=Def|Number=Sing	слава, честь	NOUN	ṅokil
-on	_	_	и, а	CCONJ	on
-toėkil	toyk	Case=Nom|Definite=Def|Number=Sing	сила	NOUN	toėkil
-el'	_	_	сейчас	ADV	el'
-ȯn	_	_	и, а	CCONJ	ȯn
-tawka	tawk(i)	_	время	NOUN	tawka
-miššan	_	PronType=Tot	весь, всякий	DET	miššan
-lo	_	_		ADP	lo
-ǧelguna	ǧel	Case=Gen|Number=Plur	время (век?)	NOUN	ǧelguna
-ellengulo	ėlle	Case=Loc|Number=Plur	время	NOUN	ellengulo
-kieskillo	_	_	до	ADP	kieskillo
-ȧmin	_	_	аминь	INTJ	ȧmin
-ontakraguė	on-	Aspect=Imp|Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	love	VERB	ontakraguė
-ke	_	_		PART	ke
-wel	_	PronType=Ind	one	DET	wel
-tril	tir-	Case=Nom|Number=Sing|VerbForm=Part	give (to you or them)	VERB	tril
-kika	ki	Case=Acc|Number=Sing	vow	NOUN	kika
-pesen	pes-	Subordinative=Yes|VerbForm=Part	say	VERB	pesen
-in	in	_	this	DET	in
-kore	kore	Case=Acc|Number=Sing	feast, sacrament	NOUN	kore
-ṅissu	ṅiss	_	holy	ADJ	ṅissu
-trapissildo	trapis	Case=Sup|Definite=Def|Number=Sing	table	NOUN	trapissildo
-pil	pi-	Tense=Pres|VerbForm=Part	be	VERB	pil
-ka	_	_		ADP	ka
-artosa	artos	Case=Abs|Number=Sing	bread (of Sacrament)	NOUN	artosa
-ǧolam	ǧolam	_	pure/simply	ADJ	ǧolam
-orpa	orpa	Case=Abs|Number=Sing	wine	NOUN	orpa
-ǧolam	ǧolam	_	pure/simply	ADJ	ǧolam
-ȧ	_	_		ADP	ȧ
-papi	_	Case=Loc|Number=Sing	father	NOUN	papi
-de	_	_		CCONJ	de
-on	_	_		CCONJ	on
-ṅal	ṅa	Case=Loc|Definite=Def|Number=Sing	son	NOUN	ṅal
-de	_	_		CCONJ	de
-on	_	_		CCONJ	on
-sewartu	sewart	Case=Loc|Number=Sing	spirit	NOUN	sewartu
-ṅissi	ṅiss	_	holy	ADJ	ṅissi
-de	_	_		CCONJ	de
-kel	_	_		CCONJ	kel
-lo	_	_		ADP	lo
-ṅisselo	kisse	Case=Loc|Number=Sing	church	NOUN	ṅisselo
-pala	pal-	VerbForm=Conv	come out	VERB	pala
-mē	_	_		AUX	mē
-ekkin	ekki	Case=Gen|Number=Sing	presentation	NOUN	ekkin
-ǧello	ǧeel	Case=Loc|Number=Sing	age, time	NOUN	ǧello
-on	_	_		CCONJ	on
-elle	elle	Case=Loc|Number=Sing	time	NOUN	elle
-ki	ki-	Tense=Pres|VerbForm=Part	come	VERB	ki
-lo	_	_		ADP	lo
-ale	_	_	verily	ADV	ale
-sin	_	_		SCONJ	sin
-it	it	Case=Nom|Number=Sing	person	NOUN	it
-wel	_	_	one	DET	wel
-proskokka	prosko	Case=Acc|Definite=Def|Number=Sing	offering	NOUN	proskokka
-kissela	kisse	Case=Ine|Number=Sing	church	NOUN	kissela
-kendukken	kenduk-	Subordinative=Yes|VerbForm=Conv	bring, offer	VERB	kendukken
-orpa	orpa	Case=Abs|Number=Sing	wine	NOUN	orpa
-enkan	en-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	be	AUX	enkan
-īlle	īlle	Case=Abs|Number=Sing	wheat	NOUN	īlle
-enkan	en-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	be	AUX	enkan
-iėreȯsil	iėreȯs	Case=Nom|Definite=Def|Number=Sing	priest	NOUN	iėreȯsil
-lon	_	_	and, but	CCONJ	lon
-wekka	wel	Case=Acc|Number=Sing|PronType=Dem	one	PRON	wekka
-wīska	wīsk	Case=Acc|Number=Sing	change, exchange	NOUN	wīska
-tirmenkan	tir-	Mood=Cnd|Number=Sing|Person=3|Polarity=Neg|Subordinative=Yes	give	VERB	tirmenkan
-no	_	Mood=Cnd		PART	no
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tan
-aīlla	aī	Case=Ine|Definite=Def|Number=Sing	heart	NOUN	aīlla
-pesen	pes-	Subordinative=Yes|VerbForm=Conv	say	VERB	pesen
-iėreȯsilo	iėreȯs	Case=Loc|Number=Sing	priest	NOUN	iėreȯsilo
-tǧo	_	_	from, at	ADP	tǧo
-kimmissom	kīp-	Mood=Sub|Number=Sing|Person=1|Polarity=Neg|Tense=Past	eat	VERB	kimmissom
-ṅimissom	ṅī-	Mood=Sub|Number=Sing|Person=1|Polarity=Neg|Tense=Past	drink	VERB	ṅimissom
-a	_	Mood=Sub		PART	a
-harmildon	harm	Case=Del|Definite=Def|Number=Sing	heaven	NOUN	harmildon
-ïerusalimīa	ïerusalim	Case=Ine|Number=Sing	Jerusalem	PROPN	ïerusalimīa
-ǧanka	ǧan	Case=Acc|Number=Sing	share (?)	NOUN	ǧanka
-kumminna	kun-	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	have	VERB	kumminna
-lo	_	_		PART	lo
-tillil	till	Case=Nom|Definite=Def|Number=Sing	God	NOUN	tillil
-lon	_	_		CCONJ	lon
-an̂ǧin	an̂ǧi	Case=Gen|Number=Sing	life	NOUN	an̂ǧin
-koīrra	koīrr-	Case=Abs|Number=Sing	possessor (???)	NOUN	koīrra
-lo	_	_		PART	lo
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tan
-pikitka	pikit	Case=Acc|Number=Sing	light	NOUN	pikitka
-kasso	_	_	?	X	kasso
-sanna	_	Number=Sing|Person=3|Tense=Pres	bless (?)	VERB	sanna
-skitīdon	īskit	Case=Del|Number=Sing	earth	NOUN	skitīdon
-(igun)ika	_	Case=Acc		ADP	(igun)ika
-dolla	doll-	VerbForm=Conv	wish	VERB	dolla
-harmildon	harm	Case=Del|Number=Sing	heaven	NOUN	harmildon
-ika	_	Case=Acc		ADP	ika
-monesin	mon-	Number=Sing|Person=3|Tense=Past|Subordinative=Yes	hate, reject	VERB	monesin
-leǧun	_	_	because	SCONJ	leǧun
-īn	_	_	that	DET	īn
-tillina	till	Number=Sing|Case=Gen	God	NOUN	tillina
-genkitague	genkit	Case=Abs|Number=Plur	peace (M.)	NOUN	genkitague
-sin	_	_		SCONJ	sin
-meddil	med-	VerbForm=Part	be full	VERB	meddil
-gaǧis	gaǧ-	Tense=Past|VerbForm=Part	read (?)	VERB	gaǧis
-ka	_	Case=Acc		ADP	ka
-ale	_	_	verily	ADV	ale
-sin	_	_		SCONJ	sin
-we	_	PronType=Ind	one	DET	we
-tril	tir-	Case=Nom|Number=Sing|VerbForm=Part	give (to you or them)	VERB	tril
-kīka	kī	Case=Acc|Number=Sing	vow	NOUN	kīka
-pesen	pes-	VerbForm=Conv|Subordinative=Yes	say	VERB	pesen
-proskol	prosko	Case=Nom|Definite=Def|Number=Sing	offering	NOUN	proskol
-kissello	kisse	Case=Loc|Definite=Def|Number=Sing	church	NOUN	kissello
-kenǧran	ken-	Aspect=Imp|Number=Plur|Number[obj]=Plur|Person=3|Subordinative=Yes|Tense=Pres	carry, place	VERB	kenǧran
-gu	_	_		PART	gu
-ka	_	_		ADP	ka
-kissen	kisse	Case=Gen|Number=Sing	church	NOUN	kissen
-tun̂il	tot	Case=Nom|Definite=Def|Number=Plur	child	NOUN	tun̂il
-lo	_	_		PART	lo
-kapsǧraa	kap-	Aspect=Imp|Number[obj]=Plur|VerbForm=Conv	eat	VERB	kapsǧraa
-papil	pap	Case=Nom|Definite=Def|Number=Sing	father	NOUN	papil
-de	_	_		CCONJ	de
-on	_	_		CCONJ	on
-ṅad	ṅa	Case=Nom|Definite=Def|Number=Sing	son	NOUN	ṅad
-de	_	_		CCONJ	de
-on	_	_		CCONJ	on
-sewartu	sewart	Case=Nom|Definite=Def|Number=Sing	ghost	NOUN	sewartu
-ṅissi	ṅiss	_	holy	ADJ	ṅissi
-l	_	PronType=Art		DET	l
-de	_	_		CCONJ	de
-kello	_	_		CCONJ	kello
-kisselo	kisse	Case=Loc|Number=Sing	church	NOUN	kisselo
-pala	pal-	VerbForm=Conv	come out	VERB	pala
-mē	_	_		AUX	mē
-ale	_	_	verily	ADV	ale
-sin	_	_		SCONJ	sin
-itu	it	Case=Nom|Number=Sing	man	NOUN	itu
-wel	_	_	one	DET	wel
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tan
-aīllo	aī	Case=Loc|Definite=Def|Number=Sing	heart	NOUN	aīllo
-kelkinnanen	kelkinnan-	Subordinative=Yes|VerbForm=Conv	?	VERB	kelkinnanen
-proskokkon	prosko	Case=Acc|Definite=Def|Number=Sing	oblation	NOUN	proskokkon
-kissela	kisse	Case=Ine|Number=Sing	church	NOUN	kissela
-kenduken	kenduk-	Subordinative=Yes|VerbForm=Conv	bring, offer	VERB	kenduken
-orpa	orpa	Case=Acc|Number=Sing	wine	NOUN	orpa
-enkan	en-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	be	AUX	enkan
-īlle	īlle	Case=Acc|Number=Sing	wheat	NOUN	īlle
-enkan	en-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	be	AUX	enkan
-parren	parre	Case=Gen|Number=Sing	durra	NOUN	parren
-koǧra	koǧir	Case=Acc|Number=Sing	seed	NOUN	koǧra
-enkan	en-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	be	AUX	enkan
-pirgne	pirgne	Case=Loc|Number=Sing	herbs	NOUN	pirgne
-dessi	dessi	_	green, blue (M. K. D.)	ADJ	dessi
-lo	_	_		ADP	lo
-kiskillo	_	_	until	ADP	kiskillo
-ka	_	_		ADP	ka
-taru	tar	Case=Nom|Number=Sing|Person=3|PronType=Prs	he	PRON	taru
-ṅodil	ṅod	Case=Nom|Definite=Def|Number=Sing	Lord	NOUN	ṅodil
-lon	_	_		CCONJ	lon
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tan
-aīllo	aī	Case=Loc|Definite=Def|Number=Sing	heart	NOUN	aīllo
-kura	kur-	Subordinative=Yes|VerbForm=Conv	be willing, be glad	VERB	kura
-lo	_	_		PART	lo
-etanna	et-	Number=Sing|Person=3|Tense=Fut	take, receive	VERB	etanna
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tan
-aggelosu	aggelos	Case=Loc|Number=Sing	angel	NOUN	aggelosu
-ṅissi	ṅiss	_	holy	ADJ	ṅissi
-lo	_	_		ADP	lo
-oro	_	_	with, through	ADP	oro
-mna	_	Mood=Int	Lat. nonn	PART	mna
-ulgrimena	ulgir-	Polarity=Neg|VerbForm=Conv	hear	VERB	ulgrimena
-ke	_	Person=2|Number=Plur		PART	ke
-partakokka	par-	Case=Acc|Definite=Def|Number=Sing|VerbForm=Vnoun	write	VERB	partakokka
-tillika	till	Case=Acc|Number=Sing	God	NOUN	tillika
-[*****]titta	_	_	?	VERB	[*****]titta
-mēȧ	_	_		AUX	mēȧ
-kural	kur-	VerbForm=Part	be willing, be glad	VERB	kural
-tiǧǧika	tir-	Case=Acc|Number=Sing|Number[obj]=Plur|VerbForm=Part	give	VERB	tiǧǧika
-sin	_	_		SCONJ	sin
-tillil	till	Case=Nom|Definite=Def|Number=Sing	God	NOUN	tillil
-unnasin	unna-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	love	VERB	unnasin
-īta	īt	Case=Abs|Number=Sing	person	NOUN	īta
-miššana	miššan	Case=Abs	all, every	DET	miššana
-sin	_	_		SCONJ	sin
-tillil	till	Case=Nom|Definite=Def	God	NOUN	tillil
-taṅsildo	taṅis	Case=Sup|Definite=Def	name	NOUN	taṅsildo
-awulgul	awu-	Definite=Def|Number=Plur|VerbForm=Part	do, make	VERB	awulgul
-aï	aī	Case=Nom|Number=Sing	heart?	NOUN	aï
-wilen	wil-	Subordinative=Yes|VerbForm=Conv	?	VERB	wilen
-tillil	till	Case=Nom|Definite=Def	God	NOUN	tillil
-ȯro	_	_	with, through	ADP	ȯro
-welka	wel	Case=Acc|Number=Sing|PronType=Dem	one	PRON	welka
-elmendinna	el-	Number=Sing|Person=3|Polarity=Neg|Tense=Fut	find	VERB	elmendinna
-lo	_	_		PART	lo
-ėl	_	_	now	ADV	ėl
-on	_	_	and	CCONJ	on
-makan	_	_	?	ADV	makan
-ė	_	_	O	INTJ	ė
-īta	īt	Case=Abs|Number=Sing	mad	NOUN	īta
-tillin	till	Case=Gen|Number=Sing	God	NOUN	tillin
-taṅsildo	taṅis	Case=Sup|Number=Sing	name	NOUN	taṅsildo
-awuǧuka	awu-	Case=Acc|Number=Sing|Number[obj]=Plur|VerbForm=Part	do, make	VERB	awuǧuka
-kurran	kur-	Aspect=Imp|Subordinative=Yes|VerbForm=Conv	be willing, be glad	VERB	kurran
-lo	_	_		PART	lo
-awuǧana	awu-	Mood=Imp|Number=Plur|Number[obj]=Plur|Person=2	do, make	VERB	awuǧana
-so	_	Mood=Imp		PART	so
-wel	_	PronType=Dem|Case=Nom	one	PRON	wel
-lon	_	_	and	CCONJ	lon
-partakisna	par-	Number=Sing|Person=3|Tense=Past|Voice=Pass	write	VERB	partakisna
-eï	_	Case=Nom|Number=Plur	man (?)	NOUN	eï
-man	_	_	that	DET	man
-...lo	?	Case=Loc|Number=Sing	?	NOUN	...lo
-dulla	dul-	VerbForm=Conv	be, remain	VERB	dulla
-ṅadilgul	ṅad-	Case=Nom|Definite=Def|Number=Plur|VerbForm=Part	fall (M.)	VERB	ṅadilgul
-mīǧragu	mīǧr	Case=Nom|Number=Plur	covetous (?)	ADJ	mīǧragu
-endimmana	īn-	Mood=Sub|Number=Plur|Person=3|Tense=Fut	to be	VERB	endimmana
-iskoēt	īskoēt	Case=Nom|Number=Sing	?	NOUN	iskoēt
-kin̂	_	_	without	ADP	kin̂
-endimna	īn-	Mood=Sub|Number=Sing|Person=3|Tense=Fut	to be	VERB	endimna
-kontonta	_	Case=Abs|Number=Sing	?	ADJ	kontonta
-endimmana	īn-	Mood=Sub|Number=Plur|Person=3|Tense=Fut	to be	VERB	endimmana
-īt	īt	_	person	NOUN	īt
-mona	mon-	Case=Abs|Number=Sing|VerbForm=Part	hate, reject	VERB	mona
-endimmana	īn-	Mood=Sub|Number=Plur|Person=3|Tense=Fut	to be	VERB	endimmana
-madǧakaė	madǧa	_	?	ADJ	madǧakaė
-endimmana	īn-	Mood=Sub|Number=Plur|Person=3|Tense=Fut	to be	VERB	endimmana
-ïereȯsinka	iereȯsin	Case=Acc|Number=Sing	priesthood	NOUN	ïereȯsinka
-miǧr	miǧr	_	covetous	ADJ	miǧr
-endimmana	īn-	Mood=Sub|Number=Plur|Person=3|Tense=Fut	to be	VERB	endimmana
-īn	_	_	this	DET	īn
-keta	ket	Case=Abs|Number=Sing	?	NOUN	keta
-malle	_	_	all (M.)	DET	malle
-on	_	_	and	CCONJ	on
-ontakraguė	on-	Aspect=Imp|Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	love	VERB	ontakraguė
-ke	_	_		PART	ke
-muntlo	munt	Case=Loc|Number=Sing	?	NOUN	muntlo
-paǧana	paǧ-	Mood=Imp|Number=Plur|Person=2	ascertain, enquire precisely (?)	VERB	paǧana
-so	_	Mood=Imp		PART	so
-untika	unti	Case=Acc|Number=Sing	love	NOUN	untika
-konam	kon-	Mood=Imp|Number=Plur|Person=1	have	VERB	konam
-sō	_	Mood=Imp		PART	sō
-tōkonnaweka	tōkonnawe	Case=Acc|Number=Sing	peace	NOUN	tōkonnaweka
-duam	du-	Mood=Imp|Number=Plur|Person=1	seek	VERB	duam
-sō	_	Mood=Imp		PART	sō
-tikkin	tik-	Subordinative=Yes|VerbForm=Conv	sit	VERB	tikkin
-non	_	_	and	CCONJ	non
-miǧirklo	miǧirk	Case=Loc|Number=Sing	desire	NOUN	miǧirklo
-paǧana	paǧ-	Mood=Imp|Number=Plur|Person=2	ascertain, enquire precisely (?)	VERB	paǧana
-sō	_	Mood=Imp		PART	sō
-miǧirkil	miǧirk	Case=Nom|Definite=Def|Number=Sing	desire	NOUN	miǧirkil
-dīarka	dīar	Case=Acc|Number=Sing	death	NOUN	dīarka
-ṅegra	ṅeg-	Case=Abs|Number=Sing|Aspect=Imp|VerbForm=Part	be troubled, fear	VERB	ṅegra
-ėnen	īn-	Subordinative=Yes|VerbForm=Conv	be	VERB	ėnen
-leǧun	_	_	because	SCONJ	leǧun
-ṅes	ṅes	Case=Nom|Number=Sing	pause, weariness	NOUN	ṅes
-kin̂n̂	_	_	without	ADP	kin̂n̂
-agra	ag-	Aspect=Imp|VerbForm=Conv	sit	VERB	agra
-tillika	till	Case=Acc|Number=Sing	God	NOUN	tillika
-senam	sen-	Mood=Imp|Number=Plur|Person=1	pray	VERB	senam
-sō	_	Mood=Imp		PART	sō
-ėn	er	Case=Gen|Number=Plur|PronType=Prs	we	PRON	ėn
-ṅapegun	ṅape	Case=Gen|Number=Plur	sin	NOUN	ṅapegun
-tokderka	tokder	Case=Acc|Number=Sing	remission, repentance	NOUN	tokderka
-denǧikan	den-	Mood=Cnd|Number=Sing|Number[obj]=Plur|Person=3|Subordinative=Yes	give (to me or us)	VERB	denǧikan
-no	_	Mood=Cnd		PART	no
-ȧ	_	Mood=Sub		PART	ȧ
-īs	_	_	behold	INTJ	īs
-martarkikon	martarkikon	Case=Nom|Number=Sing	witness	NOUN	martarkikon
-ulginna	ulgir-	Mood=Imp|Number=Plur|Person=2	hear	VERB	ulginna
-so	_	Mood=Imp		PART	so
-ȧle	_	_	verily	ADV	ȧle
-sin	_	_		SCONJ	sin
-laïkossu	laikos	Case=Nom|Number=Sing	layman	NOUN	laïkossu
-wel	_	PronType=Ind		DET	wel
-kissen	kisse	Case=Gen|Number=Sing	Church	NOUN	kissen
-kapaka	kapa	Case=Acc|Number=Sing	food	NOUN	kapaka
-weran	wer-	Subordinative=Yes|VerbForm=Conv		VERB	weran
-gitta	gitt-	VerbForm=Conv	?	VERB	gitta
-kapen	kap-	Subordinative=Yes|VerbForm=Conv	eat	VERB	kapen
-ïereȯska	iėreȯs	Case=Acc|Number=Sing	priest	NOUN	ïereȯska
-lo	_	_		PART	lo
-kolo	kol-	Tense=Pqp|VerbForm=Conv	?	VERB	kolo
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tan
-praǧǧaragra	praǧǧ-	Aspect=Imp|VerbForm=Conv	?	VERB	praǧǧaragra
-en̂n̂anna	en̂n̂a	Number=Sing|Person=3|Tense=Pres	?	VERB	en̂n̂anna
-ėl	_	_	now	ADV	ėl
-on	_	_	and	CCONJ	on
-makan	_	_	?	ADV	makan
-unna	unna-	VerbForm=Conv	love	VERB	unna
-aï	aī	Case=Nom|Number=Sing	heart	NOUN	aï
-īnna	īr	Case=Gen|Number=Sing|Person=3|PronType=Prs	thou	PRON	īnna
-gir	_	_	?	X	gir
-tidīkanelo	tid-	Case=Loc|Number=Sing|VerbForm=Vnoun	repay (?)	VERB	tidīkanelo
-paǧana	paǧ-	Mood=Imp|Number=Plur|Person=2	ascertain, enquire precisely (?)	VERB	paǧana
-sō	_	Mood=Imp		PART	sō
-unna	unna-	VerbForm=Conv	love	VERB	unna
-miǧirkīlo	miǧirk	Case=Loc|Number=Sing	desire (?)	NOUN	miǧirkīlo
-paǧana	paǧ-	Mood=Imp|Number=Plur|Person=2	ascertain, enquire precisely (?)	VERB	paǧana
-so	_	Mood=Imp		PART	so
-aga	ag-	VerbForm=Conv	sit	VERB	aga
-tikkīn	tik-	Subordinative=Yes|VerbForm=Conv	sit	VERB	tikkīn
-non	_	_		CCONJ	non
-kore	kore	_	feast, sacrament	NOUN	kore
-ṅapaṅa	ṅapa	_	far from?	X	ṅapaṅa
-due	du-	Mood=Imp|Number=Sing|Person=2	be, remain	VERB	due
-io	_	_		PART	io
-koraka	kora	Case=Acc|Number=Sing	?	NOUN	koraka
-eten	et-	Subordinative=Yes|VerbForm=Conv	take, receive	VERB	eten
-non	_	_	and	CCONJ	non
-īnna	īr	Case=Gen|Number=Sing|Person=3|PronType=Prs	thou	PRON	īnna
-ȧīl	aī	Case=Acc|Definite=Def|Number=Sing		NOUN	ȧīl
-de	_	_	and	CCONJ	de
-okkanē	ok-	Case=Acc|Number=Sing|VerbForm=Vnoun	call, summon, name	VERB	okkanē
-de	_	_	and	CCONJ	de
-kel	_	_		CCONJ	kel
-ka	_	_		ADP	ka
-kokīra	kokīr-	VerbForm=Conv	purify	VERB	kokīra
-koreka	kore	Case=Acc|Number=Sing	feast, sacrament	NOUN	koreka
-kīa	ki-	VerbForm=Conv	come	VERB	kīa
-īte	īt-	_	take, receive	VERB	īte
-so	_	_		PART	so
-ale	_	_	verily	ADV	ale
-sin	_	_		SCONJ	sin
-menen	men-	Subordinative=Yes|VerbForm=Conv	not to be	VERB	menen
-on	_	_	and	CCONJ	on
-tappatta	dappi-	Case=Abs|Number=Sing|VerbForm=Vnoun	be lost	VERB	tappatta
-mē	_	_		AUX	mē
-ale	_	_	verily	ADV	ale
-sin	_	_		SCONJ	sin
-ītī	īt	Case=Com|Definite=Def|Number=Sing	person	NOUN	ītī
-ēkkulli	_	_	?	NOUN	ēkkulli
-l	_	_		DET	l
-dal	_	_		ADP	dal
-genēn	gen-	Subordinative=Yes|VerbForm=Conv	be good (???)	VERB	genēn
-kīmenen	ki-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	come	VERB	kīmenen
-koreka	kore	Case=Acc|Number=Sing	feast, sacrament	NOUN	koreka
-ettata	et-	Case=Abs|Number=Sing|VerbForm=Vnoun	take, receive	VERB	ettata
-mē	_	_		AUX	mē
-ale	_	_	verily	ADV	ale
-sin	_	_		SCONJ	sin
-kore	kore	Case=Nom|Number=Sing	feast, sacrament	NOUN	kore
-īt	īt-	VerbForm=Inf	take, receive	VERB	īt
-dollen	doll-	Subordinative=Yes|VerbForm=Conv	wish	VERB	dollen
-non	_	_	and	CCONJ	non
-tuskantelo	tuskante	Case=Loc|Number=Sing	beginning	NOUN	tuskantelo
-ǧōra	ǧōr-	VerbForm=Conv	depart	VERB	ǧōra
-kī	ki-	VerbForm=Conv	come	VERB	kī
-genēn	gen-	Subordinative=Yes|VerbForm=Conv	be good (???)	VERB	genēn
-ke	ki-	Mood=Imp|Number=Sing|Person=2	come	VERB	ke
-so	_	Mood=Imp		PART	so
-ale	_	_	verily	ADV	ale
-sin	_	_		SCONJ	sin
-gegnī	_	_	in good will (???)	ADJ	gegnī
-menen	men-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	not to be	AUX	menen
-lo	_	_		PART	lo
-kisselo	kisse	Case=Loc|Number=Sing	church	NOUN	kisselo
-ṅarro	_	_	outside	ADP	ṅarro
-due	du-	Mood=Imp|Number=Sing|Person=2	be, remain	VERB	due
-so	_	Mood=Imp		PART	so
-mna	_	Mood=Int	Lat. nonne	PART	mna
-īru	īr	Case=Nom|Number=Sing|Person=2|PronType=Prs	thou	PRON	īru
-tillilo	till	Case=Loc|Number=Sing	God	NOUN	tillilo
-goīan	_	_	through	ADP	goīan
-dawīna	daw-	Number=Sing|Person=2|Tense=Pres	be with	VERB	dawīna
-ï	_	Mood=Int		PART	ï
-menen	men-	Subordinative=Yes|VerbForm=Conv	not to be	VERB	menen
-on	_	_	and	CCONJ	on
-īskaragra	īkar-	VerbForm=Conv	?	VERB	īskaragra
-tillin	till	Case=Gen|Number=Sing	God	NOUN	tillin
-teduguka	ted	Case=Acc|Number=Plur	law	NOUN	teduguka
-padīra	pad-	Aspect=Imp|VerbForm=Conv	?	VERB	padīra
-paddīna	padd-	Number=Sing|Person=2|Tense=Pres	?	VERB	paddīna
-ï	_	Mood=Int		PART	ï
-koreka	kore-	Case=Acc|Number=Sing	feast, sacrament	NOUN	koreka
-etten	et-	Subordinative=Yes|VerbForm=Conv	take, receive	VERB	etten
-lon	_	_	and	CCONJ	lon
-kissela	kisse	Case=Ine|Number=Sing	church	NOUN	kissela
-due	du-	Mood=Imp|Number=Sing|Person=2	be, remain	VERB	due
-so	_	Mood=Imp		PART	so
-moren	mor-	Case=Gen|Number=Sing|VerbForm=Vnoun	dismiss (?) or necessity (?)	VERB	moren
-pauka	_	_	until	ADP	pauka
-anke	ank-	Mood=Imp|Number=Sing|Person=2	remember	VERB	anke
-so	_	Mood=Imp		PART	so
-īïuda	īïuda	Case=Sup|Number=Sing	Judas	PROPN	īïuda
-sola	sol-	VerbForm=Conv	deceive, betray (?)	VERB	sola
-dumma	dumm-	VerbForm=Conv	take	VERB	dumma
-tiǧǧo	tir-	Number[obj]=Plur|Tense=Pqp|VerbForm=PART	give (to you or them)	VERB	tiǧǧo
-do	_	_		ADP	do
-min	_	Case=Nom|PronType=Int	what	PRON	min
-awtakaraȧ	aw-	Aspect=Imp|VerbForm=Conv|Voice=Pass	do, make; passive become, happen	VERB	awtakaraȧ
-koreka	kore	Case=Acc|Number=Sing	feast, sacrament	NOUN	koreka
-eta	et-	VerbForm=Conv	take, receive	VERB	eta
-kisseka	kisse	Case=Acc|Number=Sing	church	NOUN	kisseka
-morimīnil	mor-	Polarity=Neg|VerbForm=Part	dismiss (?)	VERB	morimīnil
-pala	pal-	VerbForm=Conv	come out	VERB	pala
-ǧōrosin	ǧōr-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	depart	VERB	ǧōrosin
-satanasil	satanas	Case=Nom|Definite=Def|Number=Sing	Satan	NOUN	satanasil
-lon	_	_	and	SCONJ	lon
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tan
-aīlla	aī	Case=Ine|Definite=Def|Number=Sing	heart	NOUN	aīlla
-kuǧǧra	kuǧǧ-	Aspect=Imp|VerbForm=Conv	enter, creep in (?)	VERB	kuǧǧra
-toron	tor-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	enter	VERB	toron
-amadīǧarasin	ama-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past		VERB	amadīǧarasin
-sola	sol-	VerbForm=Conv	deceive, betray (?)	VERB	sola
-dumma	dumm-	VerbForm=Conv	take	VERB	dumma
-tiǧǧinīa	tir-	Case=Ine|Number=Sing|Number[obj]=Plur|VerbForm=Vnoun	give (to you or them)	VERB	tiǧǧinīa
-ȧle	_	_	verily	ADV	ȧle
-sin	_	_		SCONJ	sin
-īr	īr	Case=Nom|Number=Sing|Person=2|PronType=Prs	thou	PRON	īr
-on	_	_		SCONJ	on
-kissel	kisse	Case=Nom|Definite=Def|Number=Sing	church	NOUN	kissel
-morimīnil	mor-	Polarity=Neg|VerbForm=Part	dismiss (?)	VERB	morimīnil
-patta	patt-	VerbForm=Conv	pray (???)	VERB	patta
-mē	_	_		AUX	mē
-manka	man	Case=Acc|PronType=Dem	that	PRON	manka
-sin	_	_		SCONJ	sin
-tillil	till	Case=Nom|Definite=Def|Number=Sing	God	NOUN	tillil
-ǧurigra	ǧurig-	Aspect=Imp|VerbForm=Conv	take as cause	VERB	ǧurigra
-īkka	īr	Case=Acc|Number=Sing|Person=2|PronType=Prs	thou	PRON	īkka
-paskarra	pask-	Tense=Fut|VerbForm=Conv	punish	VERB	paskarra
-sin	_	_		SCONJ	sin
-īn	_	PronType=Dem	this	DET	īn
-taratī	taratī	Case=Nom|Number=Sing	exit, end (?)	NOUN	taratī
-mekkīnni	mekki	Case=Gen|Number=Sing	scrap, small piece	NOUN	mekkīnni
-leǧun	_	_	on account of (???)	ADP	leǧun
-elle	elle	Case=Nom|Number=Sing	time	NOUN	elle
-īïudadal	īïuda	Case=Com|Number=Sing	Judas	PROPN	īïudadal
-middītakīnē	midd-	Voice=Pass	condemn	VERB	middītakīnē
-immīne	īn-	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	be	AUX	immīne
-so	_	Mood=Imp		PART	so
-ṅaliǧimme	ṅal-	Mood=Sub|Number=Sing|Number[obj]=Plur|Person=1	see	VERB	ṅaliǧimme
-dīėguka	dīė	Number=Plur|Case=Acc	many	NOUN	dīėguka
-korek	kore	Case=Acc|Number=Sing	feast, sacrament	NOUN	korek
-eten	et-	Subordinative=Yes|VerbForm=Conv	take, receive	VERB	eten
-kissel	kisse	Case=Nom|Definite=Def|Number=Sing	church	NOUN	kissel
-gallīminen	gall-	Subordinative=Yes|Polarity=Neg|VerbForm=Conv	open	VERB	gallīminen
-kīpran	kīp-	Aspect=Imp|Number=Plur|Person=3|Subordinative=Yes	eat	VERB	kīpran
-wīa	_	_	woe!	INTJ	wīa
-lo	_	_		PART	lo
-ten	ter	Case=Gen|Number=Plur|Person=3|PronType=Prs	they	PRON	ten
-aīldo	aī	Case=Sup|Number=Sing	heart	NOUN	aīldo
-ṅapen	ṅape	Case=Gen|Number=Sing	sin	NOUN	ṅapen
-tokīden	tok-	Case=Gen|Number=Sing|VerbForm=Vnoun	cease (?)	NOUN	tokīden
-wīsk	wīsk	Case=Acc|Number=Sing	change, exchange	NOUN	wīsk
-īt	īt-	VerbForm=Conv	take, receive	VERB	īt
-īnēn	īn-	Subordinative=Yes|VerbForm=Conv	be	AUX	īnēn
-ṅukitka	ṅukt	Case=Acc|Number=Sing	?	NOUN	ṅukitka
-ekīreran	ek-	Aspect=Imp|Number=Plur|Number[obj]=Sing|Person=3|Subordinative=Yes	?	VERB	ekīreran
-leǧun	_	_	because	ADP	leǧun
-ȧle	_	_	verily	ADV	ȧle
-sin	_	_		SCONJ	sin
-wel	_	PronType=Ind	one	DET	wel
-tril	tir-	Case=Nom|Number=Sing|VerbForm=Part	give (to you or them)	VERB	tril
-kissel	kisse	Case=Nom|Definite=Def|Number=Sing	church	NOUN	kissel
-gallīminein	gall-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	open	VERB	gallīminein
-kapen	kap-	Subordinative=Yes|VerbForm=Conv	eat	VERB	kapen
-armiskire	arm-	Case=Loc|Number=Sing	?	NOUN	armiskire
-dawē	dawī	_	great	ADJ	dawē
-l	_	_		DET	l
-lo	_	_		ADP	lo
-lo	_	_		PART	lo
-ǧur	ǧur	Case=Nom|Number=Sing	cause	NOUN	ǧur
-koȧ	ko-	VerbForm=Conv	have	VERB	koȧ
-lo	_	_		PART	lo
-ale	_	_	verily	ADV	ale
-sin	_	_		SCONJ	sin
-wel	_	PronType=Ind	one	DET	wel
-tdir	tir-	Case=Nom|Number=Sing|VerbForm=Part	give (to you or them)	VERB	tdir
-kapa	kap-	VerbForm=Conv	eat	VERB	kapa
-koreka	kore	Case=Acc|Number=Sing	feast, sacrament	NOUN	koreka
-eten	et-	Subordinative=Yes|VerbForm=Conv	take, receive	VERB	eten
-dīol	dīol	_	dead	NOUN	dīol
-kapildal	kap-	Case=Com|Number=Sing|VerbForm=Part	eat	VERB	kapildal
-lo	_	_		PART	lo
-pikitk	pikit	Case=Acc|Number=Sing	light	NOUN	pikitk
-unna	un-	Number=Sing|Person=3|Tense=Pres	love	VERB	unna
-wel	_	_	one	DET	wel
-tril	tir-	Case=Nom|Number=Sing|VerbForm=Part	give (to you or them)	VERB	tril
-ȧpostologin	_	Case=Acc|Number=Sing	epistle	NOUN	ȧpostologin
-de	_	_		CCONJ	de
-ewaggel	_	_	gospel	NOUN	ewaggel
-de	_	_		CCONJ	de
-kel	_	_		CCONJ	kel
-ka	_	_		ADP	ka
-ulgrimenil	ulg-	Case=Nom|Number=Sing|Number[obj]=Sing|Polarity=Neg|VerbForm=Part	hear	VERB	ulgrimenil
-koreka	kore	Case=Acc|Number=Sing	feast, sacrament	NOUN	koreka
-īten	īt-	Subordinative=Yes|VerbForm=Conv	take, receive	VERB	īten
-ītminna	īt-	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	take, receive	VERB	ītminna
-lo	_	_		ADV	lo
-wel	_	_	one	DET	wel
-tril	tir-	Case=Nom|Number=Sing|VerbForm=Part	give (to you or them)	VERB	tril
-alliluïaka	allēluia	Case=Acc|Number=Sing	alleluia	NOUN	alliluïaka
-psallilguldal	psall-	Case=Com|Definite=Def|Number=Plur|VerbForm=Part	chant	VERB	psallilguldal
-psalēmenen	psall-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	chant	VERB	psalēmenen
-tillu	till	Case=Acc|Number=Sing	God	NOUN	tillu
-takka	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	he	PRON	takka
-awol	aw-	Tense=Pqp|VerbForm=Part	do, make	VERB	awol
-ka	_	Case=Acc		ADP	ka
-ȧīra	aīr-	Aspect=ImpVerbForm=Conv	insult	VERB	ȧīra
-lo	_	_		PART	lo
-allēluïa	allēluia	Case=Nom|Number=Sing	alleluia	NOUN	allēluïa
-īappa	_	_	for	SCONJ	īappa
-thelkath	_	_		X	thelkath
-marimath	_	_		X	marimath
-esin	_	_		SCONJ	esin
-īgīr	īgir	Case=Nom|Number=Sing	saying (???)	NOUN	īgīr
-lon	_	_	and	CCONJ	lon
-gipirta	gipirt-	VerbForm=Conv	repeat, return	VERB	gipirta
 kissitaken	kiss-	Subordinative=Yes|VerbForm=Conv|Voice=Pass	explain, loosen	VERB	kissitaken
-tillu	till	Case=Acc|Number=Sing	God	NOUN	tillu
-ǧimmilguka	ǧimmil	Case=Acc|Number=Plur|PronType=Tot	all	PRON	ǧimmilguka
-simpitarol	simpit-	Aspect=Imp|Tense=Pqp|VerbForm=Part	found, create	VERB	simpitarol
-ka	_	_		ADP	ka
-ṅooktram	ṅooktr-	Mood=Imp|Number=Plur|Person=1	glorify	VERB	ṅooktram
-so	_	Mood=Imp		PART	so
-on	_	_	and	CCONJ	on
-takka	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	he	PRON	takka
-on	on-	_	to love	VERB	on
-taruam	taru-	Mood=Imp|Number=Plur|Person=1	love, worship, bless (?)	VERB	taruam
-so	_	Mood=Imp		PART	so
-esin	_	_		SCONJ	esin
-wīȧ	_	_	woe	NOUN	wīȧ
-lo	_	_		PART	lo
-ītu	īt	Case=Sup|Number=Sing	person	NOUN	ītu
-koren	kore	Case=Gen|Number=Sing	feast, sacrament	NOUN	koren
-taratīlo	taratī	Case=Loc|Number=Sing	exit, end (?)	NOUN	taratīlo
-kissela	kisse	Case=Ine	church	NOUN	kissela
-pesil	pes-	Tense=Pres|VerbForm=Part	say	VERB	pesil
-do	_	_		ADP	do
-koren	kore	Case=Gen|Number=Sing	feast, sacrament	NOUN	koren
-taratīlo	taratī	Case=Loc|Number=Sing	exit, end (?)	NOUN	taratīlo
-kissela	kisse	Case=Ine	church	NOUN	kissela
-pesil	pes-	Tense=Pres|VerbForm=Part	say	VERB	pesil
-appa	_	_	for	SCONJ	appa
-ȧkossa	akoss	Case=Loc|Number=Plur	wicked (?)	ADJ	ȧkossa
-miššan	_	_	all	DET	miššan
-gu	_	_		PART	gu
-lo	_	_		ADP	lo
-goīa	_	_	than	ADP	goīa
-ȧkossa	akoss	Case=Abs|Number=Sing	wicked (?)	ADJ	ȧkossa
-sin	_	_		SCONJ	sin
-ītu	īt	Case=Nom|Number=Sing	person	NOUN	ītu
-kissela	kisse	Case=Ine|Number=Sing	church	NOUN	kissela
-pesil	pes-	Tense=Pres|VerbForm=Part	say	VERB	pesil
-appa	_	_	for	SCONJ	appa
-tillil	till	Case=Gen|Number=Sing	God	NOUN	tillil
-ukkatta	ukkatt	Case=Abs|Number=Sing	enemy	NOUN	ukkatta
-sin	_	_		SCONJ	sin
-īningul	īn	Number=Plur|Definite=Def|PronType=Dem	this	PRON	īningul
-appa	_	_	for	SCONJ	appa
-ïīudaiȯsrī	iudaios	Animacy=Anim|Case=Acc|Number=Plur	Jews	NOUN	ïīudaiȯsrī
-an̂ǧika	an̂ǧi	Case=Acc|Number=Sing	life; also Saviour (?)	NOUN	an̂ǧika
-staurosildo	stauros	Case=Sup|Definite=Def|Number=Sing	cross	NOUN	staurosildo
-ollīn	oll-	Subordinative=Yes|VerbForm=Conv	hang	VERB	ollīn
-ǧīṅīdol	ǧīṅ-	Tense=Pqp|VerbForm=Part	mock (M.)	VERB	ǧīṅīdol
-gu	_	_		PART	gu
-ka	_	_		ADP	ka
-kolatra	kolatr-	VerbForm=Conv	be like (???)	VERB	kolatra
-sin	_	_		SCONJ	sin
-teru	ter	Case=Nom|Number=Plur|Person=3|PronType=Prs	they	PRON	teru
-īn	_	PronType=Dem	this	DET	īn
-koren	kore	Case=Gen|Number=Sing	feast, sacrament	NOUN	koren
-trapisildo	trapis	Case=Sup|Definite=Def|Number=Sing	table	NOUN	trapisildo
-pīn	pi-	Subordinative=Yes|VerbForm=Conv	be	VERB	pīn
-pesilgul	pes-	Case=Nom|Number=Plur|Definite=Def|VerbForm=Part	say	VERB	pesilgul
-taru	tar	Case=Nom|Number=Sing|Person=3|PronType=Prs	he	PRON	taru
-ṅodil	ṅod	Case=Nom|Definite=Def|Number=Sing	Lord	NOUN	ṅodil
-sin	_	_		SCONJ	sin
-pesira	pes-	Aspect=Imp|VerbForm=Conv	say	VERB	pesira
-sin	_	_		SCONJ	sin
-ïudaiosrīgul	iudaios	Animacy=Anim|Case=Nom|Number=Plur	Jews	NOUN	ïudaiosrīgul
-de	_	_	and	CCONJ	de
-weranno	weran	Case=Loc|Number=Sing	?	NOUN	weranno
-lo	_	_		PART	lo
-aïka	ai	Case=Acc|Number=Sing|Person=1|PronType=Prs	I	PRON	aïka
-pillildo	pill-	Definite=Def|VerbForm=Part	appear (?), be plain	VERB	pillildo
-guttīsana	gutt-	Number=Plur|Person=3|Tense=Past	reject (???)	VERB	guttīsana
-uru	ur	Case=Nom|Number=Sing|Person=2|PronType=Prs	you	PRON	uru
-kissela	kisse	Case=Ine|Number=Sing	church	NOUN	kissela
-pesilgul	pes-	Case=Nom|Definite=Def|Number=Plur|VerbForm=Part	say	VERB	pesilgul
-lon	_	_	and	CCONJ	lon
-tawka	_	Case=Loc|Number=Sing	time	NOUN	tawka
-miššan	_	_	every	DET	miššan
-no	_	_		ADP	no
-īs	_	_	behold	INTJ	īs
-matarkikon	matarkikon	Case=Acc|Number=Sing	warning (?)	NOUN	matarkikon
-ulginna	ulgir-	Mood=Imp|Number=Plur|Person=2	hear	VERB	ulginna
-so	_	Mood=Imp		PART	so
-ale	_	_	verily	ADV	ale
-sin	_	_		SCONJ	sin
-wel	wel	Case=Nom|Number=Sing|PronType=Ind	one	PRON	wel
-proskoka	prosko	Case=Acc|Number=Sing	offering (?)	NOUN	proskoka
-kissela	kisse	Case=Ine|Number=Sing	church	NOUN	kissela
-kendukkikan	kenduk-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	bring, offer	VERB	kendukkikan
-lo	_	Mood=Cnd		PART	lo
-ėkel	ėkel	Case=Nom|Number=Sing	thing (?), act (?)	NOUN	ėkel
-taru	tar	Case=Nom|Number=Sing|Person=3|PronType=Prs	he	PRON	taru
-an̂inno	an̂e	Case=Loc|Definite=Def|Number=Sing	life	NOUN	an̂inno
-dōn	_	Case=Del	from, of place	ADP	dōn
-ïerusalēmēa	ierusalēm	Case=Loc|Number=Sing	Jerusalem	PROPN	ïerusalēmēa
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tan
-taṅiska	taṅis	Case=Acc|Number=Sing	name	NOUN	taṅiska
-paīnna	paī-	Number=Sing|Person=3|Tense=Fut	write	VERB	paīnna
-ïereosilo	iėreȯs	Case=Loc|Number=Sing	priest	NOUN	ïereosilo
-tiǧo	_	_	in presence of, with	ADP	tiǧo
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tan
-ǧan	ǧan	Case=Nom|Number=Sing	share (?)	NOUN	ǧan
-lon	_	_	and	CCONJ	lon
-īnno	īn	Case=Loc|PronType=Dem	this	PRON	īnno
-artosi	artos	Case=Abs|Number=Sing	bread (of Sacrament)	NOUN	artosi
-weru	wer	_	one	NUM	weru
-orpē	orpa	_	wine (?)	NOUN	orpē
-sarpē	sarpē	Case=Abs|Number=Sing	sip, draught / finger as a measure of liquid	NOUN	sarpē
-wer	wer	_	one	NUM	wer
-a	_	_		ADP	a
-lo	_	_		PART	lo
-īn	īn	Case=Nom|PronType=Dem	this	PRON	īn
-abba	_	_	for	SCONJ	abba
-tillilo	till	Case=Loc|Number=Sing	God	NOUN	tillilo
-orō	_	_	with, through (of persons)	ADP	orō
-ettakra	et-	Aspect=Imp|VerbForm=Conv|Voice=Pass	take, receive	VERB	ettakra
-sin	_	_		SCONJ	sin
-wīa	_	_	woe	INTJ	wīa
-lo	_	_		PART	lo
-ïereosu	iėreȯs	Case=Sup|Number=Sing	priest	NOUN	ïereosu
-kyriaken	kyriake	Case=Gen|Number=Sing		NOUN	kyriaken
-ukurro	ukur	Case=Loc|Number=Sing	day, time	NOUN	ukurro
-amsu	ams	Case=Loc|Definite=Def|Number=Plur	?	NOUN	amsu
-mederan	mederan	_	?	ADJ	mederan
-gu	_	_		PART	gu
-l	_	_		DET	l
-lo	_	_		ADP	lo
-akil	ak-	Tense=Pres|VerbForm=Part	sit	VERB	akil
-do	_	_		ADP	do
-wel	wel	Case=Nom|Number=Sing|PronType=Prs	one	PRON	wel
-segega	segeg-	VerbForm=Conv	?	VERB	segega
-ǧora	ǧōr-	VerbForm=Conv	depart	VERB	ǧora
-kia	ki-	VerbForm=Conv	come	VERB	kia
-kappan	kappa-	Subordinative=Yes|VerbForm=Conv	eat	VERB	kappan
-lo	_	_		PART	lo
-manin	man	Case=Gen|Number=Sing|PronType=Dem	that	PRON	manin
-ṅapeka	ṅape	Case=Acc|Number=Sing	sin	NOUN	ṅapeka
-ïereosin	iėreȯs	Case=Gen|Number=Sing	priest	NOUN	ïereosin
-urin	ur	Case=Gen|Number=Sing	head	NOUN	urin
-tuttildo	tutt-	Case=Sup|Definite=Def|Number=Sing	scalp (???)	NOUN	tuttildo
-lo	_	_		PART	lo
-paskarre	pask-	Number=Sing|Person=1|Tense=Fut	punish (?)	VERB	paskarre
-ǧelguka	ǧēl-	Case=Acc|Number=Plur	age, time	NOUN	ǧelguka
-īlaltelo	īlante	Case=Loc|Number=Sing	fullness (?)	NOUN	īlaltelo
-īė	ī	Case=Abs|Number=Plur	man	NOUN	īė
-miššan	_	PronType=Tot	all, every	DET	miššan
-gu	_	_		PART	gu
-l	_	PronType=Art		DET	l
-lon	_	_	and	CCONJ	lon
-īttenen	ītten-	Subordinative=Yes|VerbForm=Conv	be woman	VERB	īttenen
-de	_	_	and	CCONJ	de
-gemu	gem	Case=Ine|Number=Sing	year	NOUN	gemu
-12	_	_		NUM	12
-dalloka	dallo	Case=Acc|Number=Sing	?	NOUN	dalloka
-kanna	kann-	VerbForm=Conv	bring (???)	VERB	kanna
-ȯgīǧenīn	ogīǧen-	Subordinative=Yes|VerbForm=Conv	be man	VERB	ȯgīǧenīn
-on	_	_	and	CCONJ	on
-gemu	gem	Case=Ine|Number=Sing	year	NOUN	gemu
-13	_	_		NUM	13
-la	_	_		ADP	la
-dallo	dallo	Case=Nom|Number=Sing	?	NOUN	dallo
-kanna	kann-	VerbForm=Conv	bring (???)	VERB	kanna
-tikkin	tir-	Subordinative=Yes|VerbForm=Conv	give (to you or them)	VERB	tikkin
-lon	_	_	and	CCONJ	lon
-miste	miste	_	?	X	miste
-īrkīs	īrkīs	_	?	X	īrkīs
-igunguka	igon	Case=Acc|Number=Plur	icon	NOUN	igunguka
-ale	_	_	verily	ADV	ale
-sin	_	_		SCONJ	sin
-īnēngula	īn	Case=Ine|Number=Plur|PronType=Dem	this	PRON	īnēngula
-welka	wel	Case=Acc|Number=Sing|PronType=Ind	one	PRON	welka
-pašši	pašš	_	?	X	pašši
-kannol	kann-	Tense=Pqp|VerbForm=Part	bring (???)	VERB	kannol
-on	_	_	and	CCONJ	on
-gadin	gad-	Case=Gen|Number=Sing	flesh, body	NOUN	gadin
-mawkil	mawk	Case=Loc|Definite=Def|Number=Sing	?	NOUN	mawkil
-de	_	_		CCONJ	de
-deggin	degg	Case=Gen|Number=Sing	?	NOUN	deggin
-gīttdikane	gitt-	Case=Nom|Number=Sing|VerbForm=Vnoun	reject (???)	VERB	gīttdikane
-de	_	_		CCONJ	de
-ke	_	_		CCONJ	ke
-lo	_	_		ADP	lo
-masa	masa	Case=Abs|Number=Sing	good (M.)	ADJ	masa
-tillil	till	Case=Nom|Definite=Def|Number=Sing	God	NOUN	tillil
-lon	_	_	and	SCONJ	lon
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tan
-aīlka	aī	Case=Acc|Definite=Def|Number=Sing	heart	NOUN	aīlka
-lo	_	_		PART	lo
-ėmentela	emente	Case=Ine|Number=Sing	hell	NOUN	ėmentela
-paǧīpaǧigiddna	paǧīpaǧigir-	Number=Sing|Person=3|Tense=Fut	cause to intensively try	VERB	paǧīpaǧigiddna
-makan	_	_	?	ADV	makan
-tillika	till	Case=Acc|Number=Sing	God	NOUN	tillika
-ewana	ewa-	Mood=Imp|Number=Plur|Person=2	bless, praise	VERB	ewana
-so	_	Mood=Imp		PART	so
-ewa	ewa	Case=Nom|Number=Sing	bless, praise	NOUN	ewa
-sin	_	_		SCONJ	sin
-īnna	īr	Case=Gen|Number=Sing|Person=3|PronType=Prs	thou	PRON	īnna
-sin	_	_		SCONJ	sin
-tillu	till	Case=Gen|Number=Sing	God	NOUN	tillu
-an̂i	an̂i-	Tense=Pres|VerbForm=Part	live	VERB	an̂i
-n	_	_		ADP	n
-īla	ī	Case=Ine|Number=Sing	hand	NOUN	īla
-dīṅara	dīṅar-	VerbForm=Conv	fight, vanquish (?)	VERB	dīṅara
-turi	turi-	Number=Sing|Person=1|Subordinative=Yes|Tense=Pres	drive out (M.)	VERB	turi
-ïereosil	iėreȯs	Case=Nom|Definite=Def|Number=Sing	priest	NOUN	ïereosil
-lon	_	_	and	CCONJ	lon
-īnka	īn	Case=Acc|PronType=Sing	this	PRON	īnka
-lo	_	_		PART	lo
-kyriaken	kyriȧke	Case=Gen|Number=Sing	Sunday	NOUN	kyriaken
-ukin	uk	Case=Gen|Number=Sing	day	NOUN	ukin
-duttulo	dutt	Case=Loc|Number=Sing	each (M.)	PRON	duttulo
-uggatiǧǧana	ulgatir-	Number=Plur|Number[obj]=Plur|Person=3|Tense=Pres	cause to hear	VERB	uggatiǧǧana
-awtakkon	aw-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes|Voice=Pass	do, make	VERB	awtakkon
-ena	_	_	?	X	ena
-mē	_	_		AUX	mē
-enna	er	Case=Gen|Number=Sing|Person=1|PronType=Prs	we	PRON	enna
-ṅodu	ṅod	Case=Loc|Number=Sing	Lord	NOUN	ṅodu
-ennu	er	Case=Gen|Number=Sing|Person=1|PronType=Prs	we	PRON	ennu
-ïisusi	_	_	Jesus	PROPN	ïisusi
-khristos	_	_	Christ	PROPN	khristos
-io	_	_		ADP	io
-tiǧo	_	_	in presence of, with (a person)	ADP	tiǧo
+inin	in-	Subordinative=Yes|VerbForm=Conv	быть	VERB	inin
 ṅaer	ṅaer	Case=Acc|Number=Sing	?	NOUN	ṅaer
-de	_	_		CCONJ	de
-tittil	titt	Case=Acc|Definite=Def|Number=Sing	gift	NOUN	tittil
-de	_	_		CCONJ	de
-kel	_	_		CCONJ	kel
-ka	_	_		ADP	ka
-tuggaddel	tuggar-	Tense=Fut|VerbForm=Part	cause to attain	VERB	tuggaddel
-tanna	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tanna
-sin	_	_		SCONJ	sin
+pesen	pes-	VerbForm=Conv|Subordinative=Yes	say	VERB	pesen
+pirgne	pirgne	Case=Loc|Number=Sing	herbs	NOUN	pirgne
+iliw-gu-l	iliw	Case=Nom|Definite=Def|Number=Plur	женщины (или: пастыри)	NOUN	iliwgul
+gipirte	gipirt-	Mood=Imp|Number=Sing|Person=2	возвращаться	VERB	gipirte
+ṅad	ṅa	Case=Nom|Definite=Def|Number=Sing	son	NOUN	ṅad
+harmildon	harm	Case=Del|Definite=Def|Number=Sing	heaven	NOUN	harmildon
+ṅonǧ-illa	ṅonǧ-	VerbForm=Part	стоять	VERB	ṅonǧilla
+itu	it	Case=Nom|Number=Sing	man	NOUN	itu
+īlaltelo	īlante	Case=Loc|Number=Sing	fullness (?)	NOUN	īlaltelo
 ṅokil	ṅook	Case=Nom|Definite=Def|Number=Sing	glory, honour	NOUN	ṅokil
-lon	_	_		CCONJ	lon
-tōekil	tōėk	Case=Nom|Definite=Def|Number=Sing	power, miracle	NOUN	tōekil
+igongille	igon	Case=Dat|Number=Sing	образ, икона	NOUN	igongille
 ǧel	ǧeel	Case=Loc|Number=Plur	age, time	NOUN	ǧel
-ellen	elle	Case=Gen|Number=Sing	time (?)	NOUN	ellen
-gu	_	_		PART	gu
-lo	_	_		ADP	lo
-kiskillo	_	_	until	ADP	kiskillo
-amin	_	_	Amen	ADV	amin
-[p]estakol	pes-	Tense=Pqp|VerbForm=Conv|Voice=Pass	say	VERB	[p]estakol
-kiriṅi[kon]	kiriṅ-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	complete, finish	VERB	kiriṅi[kon]
-no	_	Mood=Cnd		PART	no
-ȧ	_	Mood=Sub		PART	ȧ
-lō	_	_		PART	lō
-ī[sin]	_	_		INTJ	ī[sin]
-parthenosil	parthenos	Case=Nom|Definite=Def|Number=Sing	virgin	NOUN	parthenosil
-lo	_	_		PART	lo
-tulo	tu	Case=Loc|Number=Sing	belly	NOUN	tulo
-ǧuntuṅarr[a]	ǧuntuṅ-	Tense=Fut|VerbForm=Conv	зачать, забеременеть	VERB	ǧuntuṅarr[a]
-ṅakka	ṅa	Case=Acc|Definite=Def|Number=Sing	son	NOUN	ṅakka
-on	_	_	and	CCONJ	on
-unnin	unn-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pres	bear (child)	VERB	unnin
-lo	_	_		PART	lo
-tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tan
-taṅiska	taṅis	Case=Acc|Number=Sing	name	NOUN	taṅiska
-emmanuēla	emmanuēl	Case=Abs|Number=Sing	Emmanuel	NOUN	emmanuēla
-okarrana	ok-	Number=Plur|Person=3|Tense=Fut	call, summon, name	VERB	okarrana
-ȧ	_	Mood=Sub		PART	ȧ
-īgra	īgir-	VerbForm=Conv	say, speak (M.)	VERB	īgra
-īsn	_	_	behold	INTJ	īsn
-tillil	till	Case=Nom|Definite=Def|Number=Sing	God	NOUN	tillil
-lō	_	_		PART	lō
+ȧmin	_	_	аминь	INTJ	ȧmin
+we	_	PronType=Ind	one	DET	we
+midil	mid-	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part	бежать, бегать	VERB	midil
+ṅonǧa	ṅonǧ-	VerbForm=Conv	стоять	VERB	ṅonǧa
+ṅalgille	ṅa	Case=Dat|Definite=Def|Number=Sing	сын	NOUN	ṅalgille
+ȯn	_	_	и, а	CCONJ	ȯn
+tuskantelo	tuskante	Case=Loc|Number=Sing	beginning	NOUN	tuskantelo
+ayik'	ay	Case=Acc|Number=Sing|Person=1|PronType=Prs	я	PRON	ayik'
+taru	tar	Case=Nom|Number=Sing|Person=3|PronType=Prs	he	PRON	taru
+kurran	kur-	Aspect=Imp|Subordinative=Yes|VerbForm=Conv	be willing, be glad	VERB	kurran
+torrasi	torra-	Number=Sing|Person=1|Subordinative=Yes|Tense=Past	приходить	VERB	torrasi
+on	_	_		CCONJ	on
+in	ir	Case=Gen|Number=Sing|Person=2|PronType=Prs	ты	PRON	in
+ankiminna	ank-	_	вспоминать	VERB	ankiminna
+muntlo	munt	Case=Loc|Number=Sing	?	NOUN	muntlo
+12	_	_		NUM	12
+issna	is-	Number=Sing|Person=3|Tense=Past	рождать	VERB	issna
+de	_	_	и	CCONJ	de
+ukurro	uk(u)r	Case=Loc|Number=Sing	день	NOUN	ukurro
+šik-gu-la	šik	Case=Ine|Number=Plur	округ, область, окрестность	NOUN	šikgula
+dutrapi-gu-la	dutrap	Case=Ine|Definite=Def|Number=Plur	курица	NOUN	dutrapigula
+kisse	kisse	Case=Ine|Number=Sing	церковь	NOUN	kisse
+tuttildo	tutt-	Case=Sup|Definite=Def|Number=Sing	scalp (???)	NOUN	tuttildo
+duttulo	dutt	Case=Loc|Number=Sing	each (M.)	PRON	duttulo
+lon	_	_		CCONJ	lon
+pillildo	pill-	Definite=Def|VerbForm=Part	appear (?), be plain	VERB	pillildo
+sin	_	_	ибо, ведь	SCONJ	sin
+ṅissu	ṅiss(i)	Case=Nom|Number=Sing	святой	NOUN	ṅissu
+īta	īt	Case=Abs|Number=Sing	mad	NOUN	īta
+ṅukt	ṅukt(i)	Case=Acc|Number=Sing	богатство	NOUN	ṅukt
+patta	patt-	VerbForm=Conv	pray (???)	VERB	patta
+non	_	_		CCONJ	non
+miššana	miššan	Case=Abs	all, every	DET	miššana
+īappa	_	_	for	SCONJ	īappa
+no	_	_		ADP	no
+uskra	usk(u)r-	VerbForm=Conv	класть	VERB	uskra
+ṅoglo	ṅoog	Case=Loc|Number=Sing	дом	NOUN	ṅoglo
+wel	_	_	one	DET	wel
+paīnna	paī-	Number=Sing|Person=3|Tense=Fut	write	VERB	paīnna
+deggin	degg	Case=Gen|Number=Sing	?	NOUN	deggin
+mira	mira	_	неплодный, не рожающий	ADJ	mira
+itkin	itki	Case=Gen|Number=Sing	зачатие	NOUN	itkin
+dalloka	dallo	Case=Acc|Number=Sing	?	NOUN	dalloka
+teru	ter	Case=Nom|Number=Plur|Person=3|PronType=Prs	they	PRON	teru
+(igun)ika	_	Case=Acc		ADP	(igun)ika
+ṅissi	ṅiss(i)	_	святой	NOUN	ṅissi
+armiskire	arm-	Case=Loc|Number=Sing	?	NOUN	armiskire
+ėl-a	ėl-	VerbForm=Conv	находить	VERB	ėla
+partakokka	par-	Case=Acc|Definite=Def|Number=Sing|VerbForm=Vnoun	write	VERB	partakokka
+ka	_	_		ADP	ka
+pes-s-na	pes-	Number=Sing|Person=3|Tense=Past	говорить	VERB	pessna
+keda	ked-	VerbForm=Conv	подниматься	VERB	keda
+ǧelguka	ǧēl-	Case=Acc|Number=Plur	age, time	NOUN	ǧelguka
+ǧurigra	ǧurig-	Aspect=Imp|VerbForm=Conv	take as cause	VERB	ǧurigra
+ki	ki-	Tense=Pres|VerbForm=Part	come	VERB	ki
+medǧuntaaddal	medǧuntaa	Case=Com|Number=Sing	рабыня, служанка	NOUN	medǧuntaaddal
 eddal	er	Case=Ins|Number=Plur|Person=1|PronType=Prs	we	PRON	eddal
-pela	pel-	VerbForm=Conv	come out (?)	VERB	pela
-dullaṅarra	dullaṅa-	Tense=Fut|VerbForm=Conv	become	VERB	dullaṅarra
+ena	_	_	?	X	ena
+non	_	_	and	CCONJ	non
+ė	_	_		INTJ	ė
+ī[sin]	_	_		INTJ	ī[sin]
+miǧr	miǧr	_	covetous	ADJ	miǧr
+tillu	till	Case=Gen|Number=Sing	God	NOUN	tillu
+aïka	ai	Case=Acc|Number=Sing|Person=1|PronType=Prs	I	PRON	aïka
+utudd-r-e	utud-	Number=Sing|Person=1|Tense=Fut	жертвовать, дарить	VERB	utuddre
+apoggil	agopp(i)	Case=Nom|Definite=Def|Number=Sing	корабельщик, кормчий	NOUN	apoggil
+menen	men-	Subordinative=Yes|VerbForm=Conv	not to be	VERB	menen
+maria	maria	Case=Abs|Number=Sing	Мария	NOUN	maria
+ṅilsna	ṅil-	Number=Sing|Person=3|Tense=Past	видеть	VERB	ṅilsna
+toron	tor-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	enter	VERB	toron
+urildo	ur	Case=Sup|Definite=Def|Number=Sing	голова	NOUN	urildo
+ǧora	ǧo-	Aspect=Imp|VerbForm=Conv	идти; ехать	VERB	ǧora
+ṅegra	ṅeg-	Case=Abs|Number=Sing|Aspect=Imp|VerbForm=Part	be troubled, fear	VERB	ṅegra
+eta	et-	VerbForm=Conv	take, receive	VERB	eta
+tar	tar	Case=Nom|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tar
+koȧ	ko-	VerbForm=Conv	иметь, обладать	VERB	koȧ
+pesen	pes-	Subordinative=Yes|VerbForm=Conv	say	VERB	pesen
+ṅodil	ṅod	Case=Nom|Definite=Def|Number=Sing	Lord	NOUN	ṅodil
+ȧīl	aī	Case=Acc|Definite=Def|Number=Sing		NOUN	ȧīl
+la	_	_	город, селение	ADP	la
+l	_	PronType=Art		DET	l
+ellengulo	ėlle	Case=Loc|Number=Plur	время	NOUN	ellengulo
+matarkikon	matarkikon	Case=Acc|Number=Sing	warning (?)	NOUN	matarkikon
+goīan	_	_	through	ADP	goīan
+ukur'	uk(u)r	Case=Nom|Number=Plur	день	NOUN	ukur'
+kenduken	kenduk-	Subordinative=Yes|VerbForm=Conv	bring, offer	VERB	kenduken
+el'	_	_	сейчас	ADV	el'
+kasso	_	_	?	X	kasso
+mna	_	Mood=Int	Lat. nonn	PART	mna
+elle	elle	Case=Loc|Number=Sing	time	NOUN	elle
+man	man	_	тот, та, то	DET	man
+unnasin	unna-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	love	VERB	unnasin
+ṅimissom	ṅī-	Mood=Sub|Number=Sing|Person=1|Polarity=Neg|Tense=Past	drink	VERB	ṅimissom
+endimmana	īn-	Mood=Sub|Number=Plur|Person=3|Tense=Fut	to be	VERB	endimmana
+l	_	_		DET	l
+aēttakatame	aēttak-	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	беспокоиться, тревожиться	VERB	aēttakatame
+ṅapegun	ṅape	Case=Gen|Number=Plur	грех	NOUN	ṅapegun
+ay	ay	Case=Nom|Number=Sing|Person=1|PronType=Prs	я	PRON	ay
+oṅ	_	_	и, а	CCONJ	oṅ
+ulg-ra	ulg(i)r-	Aspect=Imp|VerbForm=Conv	слышать	VERB	ulgra
+ketalle	_	_	тоже, также	PART	ketalle
+ko	_	_	по, согласно, в соответствии с	ADP	ko
+goīa	_	_	than	ADP	goīa
+ȧle	_	_	verily	ADV	ȧle
+parthenosu	parthenosi	Case=Gen|Number=Sing	дева	NOUN	parthenosu
+timmisana	timm-	Number=Plur|Person=3|Tense=Past	собираться	VERB	timmisana
+aw	aw(i)	Case=Acc|Number=Sing	лодка, корабль	NOUN	aw
+ǧoruan	ǧu-	Number=Plur|Person=3|Subordinative=Yes|Tense=Pres	идти; ехать	VERB	ǧoruan
+partakisna	par-	Number=Sing|Person=3|Tense=Past|Voice=Pass	write	VERB	partakisna
+ȧīra	aīr-	Aspect=ImpVerbForm=Conv	insult	VERB	ȧīra
+dippu	dipp(i)	Case=Ine|Number=Sing	город, селение	NOUN	dippu
+ṅissu	ṅiss	Case=Gen|Number=Sing	святой	NOUN	ṅissu
+ṅiss	ṅiss(i)	_	святой	ADJ	ṅiss
+koǧirka	koǧir	Case=Abs|Number=Sing	плодородие	NOUN	koǧirka
+tillika	till	Case=Acc|Number=Sing	God	NOUN	tillika
+ṡewatt-ka	sewatti	Case=Acc|Number=Sing	наследник	NOUN	ṡewattka
+ṅapeka	ṅape	Case=Acc|Number=Sing	грех	NOUN	ṅapeka
+awtakaraȧ	aw-	Aspect=Imp|VerbForm=Conv|Voice=Pass	do, make; passive become, happen	VERB	awtakaraȧ
+kisseka	kisse	Case=Acc|Number=Sing	church	NOUN	kisseka
+dumma	dumm-	VerbForm=Conv	брать, хватать	VERB	dumma
+dollina	doll-	Number=Sing|Person=2|Tense=Pres	хотеть	VERB	dollina
+die	diy	_	многий, многочисленный; много	ADJ	die
+kissegille	kisse	Case=Dat|Number=Sing		NOUN	kissegille
+medǧun-tal'	medǧuntaa	Case=Com|Definite=Def|Number=Sing	рабыня, служанка	NOUN	medǧuntal'
+paskarre	pask-	Number=Sing|Person=1|Tense=Fut	punish (?)	VERB	paskarre
+mekkīnni	mekki	Case=Gen|Number=Sing	scrap, small piece	NOUN	mekkīnni
+ėl	_	_	now	ADV	ėl
+de	_	_	и	SCONJ	de
+philoxenitiȯ	philoxeniti	Case=Loc|Number=Sing	Филоксенита	NOUN	philoxenitiȯ
+denǧiska	den-	Case=Acc|Number=Sing|Number[obj]=Plur|Tense=Past|VerbForm=Part	давать мне, нам	VERB	denǧiska
+kin̂	_	_	without	ADP	kin̂
+ṅoktirsana	ṅokt(i)r-	Number=Plur|Person=3|Tense=Past	почитать, славить	VERB	ṅoktirsana
+tadgille	tar	Case=Dat|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tadgille
+kenǧran	ken-	Aspect=Imp|Number=Plur|Number[obj]=Plur|Person=3|Subordinative=Yes|Tense=Pres	carry, place	VERB	kenǧran
+dīṅara	dīṅar-	VerbForm=Conv	fight, vanquish (?)	VERB	dīṅara
+taṅsildo	taṅis	Case=Sup|Definite=Def	name	NOUN	taṅsildo
+ke	ki-	Mood=Imp|Number=Sing|Person=2	come	VERB	ke
+keta	ket	Case=Abs|Number=Sing	?	NOUN	keta
+korek	kore	Case=Acc|Number=Sing	feast, sacrament	NOUN	korek
+tdir	tir-	Case=Nom|Number=Sing|VerbForm=Part	give (to you or them)	VERB	tdir
+taratī	taratī	Case=Nom|Number=Sing	exit, end (?)	NOUN	taratī
+kokkanen	kokkane	Case=Gen|Number=Sing	слабость	NOUN	kokkanen
+anni	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	мой	DET	anni
+miǧirkil	miǧirk	Case=Nom|Definite=Def|Number=Sing	desire	NOUN	miǧirkil
+makan	_	_	?	ADV	makan
 ėsin	_	_		CCONJ	ėsin
-ïō̇sēfi	ïō̇sēf	Case=Nom|Number=Sing		PROPN	ïō̇sēfi
-lon	_	_	and	CCONJ	lon
-ṅalullo	ṅalu	Case=Loc|Definite=Def|Number=Sing	sleep	NOUN	ṅalullo
-pikken	pikk-	Subordinative=Yes|VerbForm=Conv	wake up	VERB	pikken
-ṅodin	ṅod	Case=Gen|Number=Sing	Lord	NOUN	ṅodin
-aggelosnȧ	aggelos	Case=Gen|Number=Sing	angel	NOUN	aggelosnȧ
-takka	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	he	PRON	takka
+gallisna	gall-	Number=Sing|Person=3|Tense=Past	открывать	VERB	gallisna
+miššan	miššan	_	весь, всякий	DET	miššan
+meddaṅ-o-l	meddaṅ	Tense=Pqp|VerbForm=Part	готовиться	VERB	meddaṅol
+amanka	aman	Case=Acc|Number=Sing	вода	NOUN	amanka
+laïkossu	laikos	Case=Nom|Number=Sing	layman	NOUN	laïkossu
+ïereosu	iėreȯs	Case=Sup|Number=Sing	priest	NOUN	ïereosu
+taratīlo	taratī	Case=Loc|Number=Sing	exit, end (?)	NOUN	taratīlo
+unnol	unnu-	Tense=Pqp|VerbForm=Part	рождать	VERB	unnol
+kural	kur-	VerbForm=Part	be willing, be glad	VERB	kural
 murtat	murt-	VerbForm=Conv	warn	VERB	murtat
-esin	_	_		CCONJ	esin
-kellika	kell	Case=Acc|Number=Sing	likeness	NOUN	kellika
+kore	kore	Case=Nom|Number=Sing	feast, sacrament	NOUN	kore
+ȯgīǧenīn	ogīǧen-	Subordinative=Yes|VerbForm=Conv	be man	VERB	ȯgīǧenīn
+dumal	_	_	вдруг	ADV	dumal
+kyriaken	kyriake	Case=Gen|Number=Sing	воскресенье	NOUN	kyriaken
+taru	tar	Case=Nom|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	taru
+ṅissu	ṅiss(i)	_	святой	NOUN	ṅissu
+unna	un-	Number=Sing|Person=3|Tense=Pres	love	VERB	unna
+tawka	_	Case=Loc|Number=Sing	time	NOUN	tawka
+menen	men-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	not to be	AUX	menen
+ȧpostologin	_	Case=Acc|Number=Sing	epistle	NOUN	ȧpostologin
+ellen	elle	Case=Gen|Number=Sing	time (?)	NOUN	ellen
+īten	īt-	Subordinative=Yes|VerbForm=Conv	take, receive	VERB	īten
+dien	die	Case=Gen|Number=Sing	смерть	NOUN	dien
+ȧgoppa	agopp(i)	Case=Abs|Number=Sing	корабельщик, кормчий	NOUN	ȧgoppa
+tōkonnaweka	tōkonnawe	Case=Acc|Number=Sing	peace	NOUN	tōkonnaweka
+kapa	kap-	VerbForm=Conv	есть	VERB	kapa
+miǧirklo	miǧirk	Case=Loc|Number=Sing	desire	NOUN	miǧirklo
+ȧgiȯsin	ȧgiȯs	Case=Gen|Number=Sing	святой	NOUN	ȧgiȯsin
+en̂n̂anna	en̂n̂a	Number=Sing|Person=3|Tense=Pres	?	VERB	en̂n̂anna
+gudala	gudal-	VerbForm=Conv	бояться, страшиться	VERB	gudala
+ittu	itt	Case=Gen|Number=Sing	женщина	NOUN	ittu
+wel	_	PronType=Ind	one	DET	wel
+īnna	īr	Case=Gen|Number=Sing|Person=3|PronType=Prs	thou	PRON	īnna
+ïereosin	iėreȯs	Case=Gen|Number=Sing	priest	NOUN	ïereosin
+sewartu	sewart	Case=Loc|Number=Sing	spirit	NOUN	sewartu
+arrinnagra	arrinnagir-	VerbForm=Conv	потрясать / целиться	VERB	arrinnagra
+dawīna	daw-	Number=Sing|Person=2|Tense=Pres	be with	VERB	dawīna
+kelkinnanen	kelkinnan-	Subordinative=Yes|VerbForm=Conv	?	VERB	kelkinnanen
+awȧ	aw-	VerbForm=Conv	делать	VERB	awȧ
+parthenosil	parthenos	Case=Nom|Definite=Def|Number=Sing	virgin	NOUN	parthenosil
+murtu	murt(i)	Case=Acc|Number=Sing	лошадь	NOUN	murtu
+kissegille	kisse	Case=Dat|Number=Sing	церковь	NOUN	kissegille
+la	_	_		ADP	la
+tikkīn	tik-	Subordinative=Yes|VerbForm=Conv	sit	VERB	tikkīn
+okarrana	ok-	Number=Plur|Person=3|Tense=Fut	call, summon, name	VERB	okarrana
+ṅalullo	ṅalu	Case=Loc|Definite=Def|Number=Sing	sleep	NOUN	ṅalullo
+sola	sol-	VerbForm=Conv	deceive, betray (?)	VERB	sola
+tiǧǧo	tir-	Number[obj]=Plur|Tense=Pqp|VerbForm=PART	give (to you or them)	VERB	tiǧǧo
+as-ka	as	Case=Acc|Number=Sing	дочь	NOUN	aska
+de-kel	_	_	и	CCONJ	de-kel
+sukk-a	sukk-	VerbForm=Conv	выходить	VERB	sukka
+il-enko-n	il-	Mood=Cnd|Number=Sing|Person=3	говорить (?)	VERB	ilenkon
+amsu	ams	Case=Loc|Definite=Def|Number=Plur	?	NOUN	amsu
+ȧkil	ag-	Tense=Pres|VerbForm=Part	сидеть	VERB	ȧkil
+ṅissu	ṅiss(i)	Case=Acc	святой	NOUN	ṅissu
+ǧōra	ǧōr-	VerbForm=Conv	depart	VERB	ǧōra
+ṅissil	ṅiss(i)	_	святой	ADJ	ṅissil
+khristos	_	_	Christ	PROPN	khristos
+kuǧǧra	kuǧǧ-	Aspect=Imp|VerbForm=Conv	enter, creep in (?)	VERB	kuǧǧra
+ṅi	_	_	когда	SCONJ	ṅi
+de	_	_	and	CCONJ	de
+wed	wel	_	один; некий	DET	wed
+kon-men-na	ko-	Number=Sing|Person=3|Polarity=Neg|Tense=Past	иметь, обладать	VERB	konmenna
+ukrigul	uk(u)r	Case=Nom|Definite=Def|Number=Plur	день	NOUN	ukrigul
+dal	_	_		ADP	dal
+uru	ur	Case=Nom|Number=Sing|Person=2|PronType=Prs	you	PRON	uru
+kolatra	kolatr-	VerbForm=Conv	be like (???)	VERB	kolatra
+pikken	pikk-	Subordinative=Yes|VerbForm=Conv	wake up	VERB	pikken
+ketal	_	_	тоже, также	PART	ketal
+meddil	med-	VerbForm=Part	be full	VERB	meddil
+manno	man	Case=Loc|Number=Sing|PronType=Dem	тот, та, то	PRON	manno
+kumpu-ka	kumpu	Case=Acc|Number=Sing	яйцо	NOUN	kumpuka
+wek	wel	_	один; некий	DET	wek
+unn-ara-men-na	unn-, unnu-	Number=Sing|Person=3|Polarity=Neg|Tense=Past	рожать	VERB	unnaramenna
+n	_	_		ADP	n
+till-i-l	till(i)	Case=Nom|Definite=Def|Number=Sing	бог	NOUN	tillil
+ṅokil	ṅook	Case=Nom|Definite=Def|Number=Sing	слава, честь	NOUN	ṅokil
+iskoēt	īskoēt	Case=Nom|Number=Sing	?	NOUN	iskoēt
+kissel	kisse	Case=Nom|Definite=Def|Number=Sing	церковь	NOUN	kissel
+miǧirkīlo	miǧirk	Case=Loc|Number=Sing	desire (?)	NOUN	miǧirkīlo
+due	du-	Mood=Imp|Number=Sing|Person=2	be, remain	VERB	due
+enna	er	Case=Gen|Number=Sing|Person=1|PronType=Prs	we	PRON	enna
+tiǧo	_	_	in presence of, with (a person)	ADP	tiǧo
+ṅadilgul	ṅad-	Case=Nom|Definite=Def|Number=Plur|VerbForm=Part	fall (M.)	VERB	ṅadilgul
+ǧōrosin	ǧōr-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	depart	VERB	ǧōrosin
+ulgrimena	ulgir-	Polarity=Neg|VerbForm=Conv	hear	VERB	ulgrimena
+tar	tar	Case=Nom|Number=Sing|PronType=Prs	он, она, оно	PRON	tar
+ïīudaiȯsrī	iudaios	Animacy=Anim|Case=Acc|Number=Plur	Jews	NOUN	ïīudaiȯsrī
+kissel	kisse	Case=Nom|Definite=Def|Number=Sing	church	NOUN	kissel
+diy	_	_	многий, многочисленный; много	ADJ	diy
+takka	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	he	PRON	takka
+taṅiska	taṅis	Case=Acc|Number=Sing	имя	NOUN	taṅiska
+sin	_	_		SCONJ	sin
+ennu	er	Case=Gen|Number=Sing|Person=1|PronType=Prs	we	PRON	ennu
+wel	wel	Case=Nom|Number=Sing|PronType=Prs	one	PRON	wel
+ṅissu	ṅiss	_	святой	NOUN	ṅissu
+allēluïa	allēluia	Case=Nom|Number=Sing	alleluia	NOUN	allēluïa
+weru	wer	_	one	NUM	weru
+martyrosu	martyrosi	Case=Gen|Number=Sing	мученик	NOUN	martyrosu
+pawka	_	_	до, пока не	ADP	pawka
+kin	ki-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pres	приходить	VERB	kin
+so	_	_		PART	so
+tar	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs		PRON	tar
+kello	_	_	как, подобно	ADV	kello
+praǧǧaragra	praǧǧ-	Aspect=Imp|VerbForm=Conv	?	VERB	praǧǧaragra
+wel	_	_	один; некий	DET	wel
+tawȯ	_	_	под	ADP	tawȯ
+immīne	īn-	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	be	AUX	immīne
+mederan	mederan	_	?	ADJ	mederan
+khristosi-n	khristosi	Case=Gen|Number=Sing	Христос	NOUN	khristosin
+it	it	Case=Nom|Number=Sing	person	NOUN	it
+ǧora	ǧōr-	VerbForm=Conv	depart	VERB	ǧora
+ǧun	_	_	из-за; так как	ADP	ǧun
+papil	pap	Case=Nom|Definite=Def|Number=Sing	father	NOUN	papil
+pawuka	_	_	до, пока не	ADP	pawuka
+konam	kon-	Mood=Imp|Number=Plur|Person=1	have	VERB	konam
+īttenen	ītten-	Subordinative=Yes|VerbForm=Conv	be woman	VERB	īttenen
+paskarra	pask-	Tense=Fut|VerbForm=Conv	punish	VERB	paskarra
+tudin	tud(i)	Case=Gen|Number=Sing	воин / огонь	NOUN	tudin
+pala	pal-	VerbForm=Conv	выходить	VERB	pala
+ten	ter	Case=Gen|Number=Plur|Person=3|PronType=Prs	они	PRON	ten
+staurosildo	stauros	Case=Sup|Definite=Def|Number=Sing	cross	NOUN	staurosildo
+iȧ	iȧ-	VerbForm=Conv	знать	VERB	iȧ
+ïō̇sēfi	ïō̇sēf	Case=Nom|Number=Sing		PROPN	ïō̇sēfi
+tillilo	till	Case=Loc|Number=Sing	God	NOUN	tillilo
+ṅissi	ṅiss	_	holy	ADJ	ṅissi
+in	_	_	этот	DET	in
+teddo	ter	Case=Sup|Number=Plur|Person=3|PronType=Prs		PRON	teddo
+io	_	_		ADP	io
+miste	miste	_	?	X	miste
+koren	kore	Case=Gen|Number=Sing	feast, sacrament	NOUN	koren
+dine	den-	Mood=Imp|Number=Sing|Person=2	давать мне, нам	VERB	dine
+taṅslo	taṅs	Case=Loc|Number=Sing	имя	NOUN	taṅslo
+ite	it-	Mood=Imp|Number=Sing|Person=2	брать, принимать	VERB	ite
+madǧakaė	madǧa	_	?	ADJ	madǧakaė
+kappa	kappa	Case=Ine|Number=Sing	пища, еда, провиант	NOUN	kappa
+kiȧ	ki-	VerbForm=Conv	приходить	VERB	kiȧ
+pesilgul	pes-	Case=Nom|Number=Plur|Definite=Def|VerbForm=Part	say	VERB	pesilgul
+iru	ir	Case=Nom|Number=Sing|Person=2|PronType=Prs	ты	PRON	iru
+ǧuriȧ	_	_	из-за; потому что	ADP	ǧuriȧ
+gallīminein	gall-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	open	VERB	gallīminein
+minka	min	Case=Acc|Number=Sing|PronType=Int	что	PRON	minka
+kapaka	kapa	Case=Acc|Number=Sing	food	NOUN	kapaka
+awir	awir-	Case=Loc|Number=Sing	крыло	NOUN	awir
+kissen	kisse	Case=Gen|Number=Sing	church	NOUN	kissen
+ȧkossa	akoss	Case=Abs|Number=Sing	wicked (?)	ADJ	ȧkossa
+unn-e	unn-, unnu-	Mood=Imp|Number=Sing|Person=2	рожать	VERB	unne
+ewana	ewa-	Mood=Imp|Number=Plur|Person=2	bless, praise	VERB	ewana
+endimna	īn-	Mood=Sub|Number=Sing|Person=3|Tense=Fut	to be	VERB	endimna
+kumpu	kumpu	Case=Acc|Number=Sing	яйцо	NOUN	kumpu
+pes-ra-n	pes-	Aspect=Imp|Number=Plur|Person=3|Tense=Pres|Subordinative=Yes	говорить	VERB	pesran
+kīpran	kīp-	Aspect=Imp|Number=Plur|Person=3|Subordinative=Yes	eat	VERB	kīpran
+īlle	īlle	Case=Abs|Number=Sing	wheat	NOUN	īlle
+orpa	orpa	Case=Abs|Number=Sing	wine	NOUN	orpa
+ke	_	_		CCONJ	ke
+tekka	ter	Case=Acc|Number=Plur|Person=3|PronType=Prs	они	PRON	tekka
+amadīǧarasin	ama-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past		VERB	amadīǧarasin
+urin	ur	Case=Gen|Number=Sing	head	NOUN	urin
+ǧur	ǧur	Case=Nom|Number=Sing	cause	NOUN	ǧur
+dolla	doll-	VerbForm=Conv	wish	VERB	dolla
+ṅarro	_	_	outside	ADP	ṅarro
+tillil	till	Case=Nom|Definite=Def	God	NOUN	tillil
+tillika	till(i)	Case=Acc|Number=Sing	бог	NOUN	tillika
+satanasil	satanas	Case=Nom|Definite=Def|Number=Sing	Satan	NOUN	satanasil
+ukin	uk	Case=Gen|Number=Sing	day	NOUN	ukin
+kien	kie	Case=Gen|Number=Sing	приход	NOUN	kien
+ȯȯkirsna	ȯȯk-	Number=Sing|Number[obj]=Sing|Person=3|Tense=Past	звать	VERB	ȯȯkirsna
+ittin	itt	Case=Gen|Number=Sing	женщина	NOUN	ittin
+medǧunintayguk	medǧunin-taa	Case=Nom|Number=Plur	служанка, рабыня	NOUN	medǧunintayguk
+ṅokkor	ṅokkor	Case=Acc|Definite=Def|Number=Sing	чудо	NOUN	ṅokkor
+kel	_	_		CCONJ	kel
+ṅaliǧimme	ṅal-	Mood=Sub|Number=Sing|Number[obj]=Plur|Person=1	see	VERB	ṅaliǧimme
+degerio	deger	Case=Loc|Number=Sing	община	NOUN	degerio
+dīarka	dīar	Case=Acc|Number=Sing	death	NOUN	dīarka
+akil	ak-	Tense=Pres|VerbForm=Part	sit	VERB	akil
+kisana	ki-	Number=Plur|Person=3|Tense=Past	приходить	VERB	kisana
+an̂i	an̂i-	Tense=Pres|VerbForm=Part	live	VERB	an̂i
+īt	īt-	VerbForm=Conv	take, receive	VERB	īt
+ṅa-ka	ṅa	Case=Acc|Number=Sing	сын	NOUN	ṅaka
+tadgil	tar	Case=Dat|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tadgil
+papil	pap	Case=Nom|Definite=Def|Number=Sing	отец	NOUN	papil
+unnu-si-n	unn-, unnu-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	рожать	VERB	unnusin
+kiriṅi[kon]	kiriṅ-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	complete, finish	VERB	kiriṅi[kon]
+tōekil	tōėk	Case=Nom|Definite=Def|Number=Sing	power, miracle	NOUN	tōekil
+kapsǧraa	kap-	Aspect=Imp|Number[obj]=Plur|VerbForm=Conv	eat	VERB	kapsǧraa
+ukrigullo	uk(u)r	Case=Loc|Number=Plur	день	NOUN	ukrigullo
+ïereosil	iėreȯs	Case=Nom|Definite=Def|Number=Sing	priest	NOUN	ïereosil
+ȧle	_	_	воистину	ADV	ȧle
+maria	maria	_	Мария	NOUN	maria
+unnarrasi	unn-	Aspect=Imp|Tense=Past|VerbForm=Part	рожать	VERB	unnarrasi
+wel-lo	wel	Case=Loc|PronType=Ind	один; некий	DET	wello
+awarrinna	aw-	Number=Sing|Person=2|Tense=Fut	делать	VERB	awarrinna
+le	_	_		PART	le
+īrkīs	īrkīs	_	?	X	īrkīs
+īnka	īn	Case=Acc|PronType=Sing	this	PRON	īnka
+minaȧ	mina	Case=Abs|Number=Sing	Мина	NOUN	minaȧ
+a	_	Mood=Sub		PART	a
+ṅal	ṅa	Case=Acc|Definite=Def|Number=Sing	сын	NOUN	ṅal
+awi-k	aw(i)	Case=Acc|Number=Sing	лодка, корабль	NOUN	awik
+ȧpoggil	agopp(i)	Case=Nom|Definite=Def|Number=Sing	корабельщик, кормчий	NOUN	ȧpoggil
+ṅal	ṅa	Case=Loc|Definite=Def|Number=Sing	son	NOUN	ṅal
+tuskono	_	_	сразу	ADV	tuskono
+ǧuntuṅarr[a]	ǧuntuṅ-	Tense=Fut|VerbForm=Conv	зачать, забеременеть	VERB	ǧuntuṅarr[a]
+tiǧǧana	tir-	Number=Plur|Person=3|Tense=Pres	давать	VERB	tiǧǧana
+ǧelguna	ǧel	Case=Gen|Number=Plur	время (век?)	NOUN	ǧelguna
+kisselo	kisse	Case=Loc|Number=Sing	церковь	NOUN	kisselo
+ǧo-dra	ǧu-	Aspect=Imp|Tense=Fut|VerbForm=Conv	идти; ехать	VERB	ǧodra
+tok'-arre	tokk-	Mood=Imp|Number=Sing|Person=2|Tense=Fut	варить	VERB	tok'-arre
+kumpu	kumpu	Case=Nom|Number=Sing	яйцо	NOUN	kumpu
+dawē	dawī	_	great	ADJ	dawē
+ulgrimenil	ulg-	Case=Nom|Number=Sing|Number[obj]=Sing|Polarity=Neg|VerbForm=Part	hear	VERB	ulgrimenil
+dallo	dallo	Case=Nom|Number=Sing	?	NOUN	dallo
+iėreȯsilo	iėreȯs	Case=Loc|Number=Sing	priest	NOUN	iėreȯsilo
+tokinnawė-lo	tokinnawė	Case=Loc|Number=Sing	мир, милость	NOUN	tokinnawėlo
+unnisana	unn-	Number=Plur|Person=3|Tense=Past	рожать	VERB	unnisana
+ṅodu	ṅod	Case=Loc|Number=Sing	Lord	NOUN	ṅodu
+proskokkon	prosko	Case=Acc|Definite=Def|Number=Sing	oblation	NOUN	proskokkon
+malle	_	_	all (M.)	DET	malle
+tusko	tusko	_	три	NUM	tusko
+ukru-gu-lo	uk(u)r	Case=Loc|Number=Plur	день	NOUN	ukrugulo
+manin	man	Case=Gen|Number=Sing|PronType=Dem	that	PRON	manin
+lon	_	_	а, и, но	PART	lon
+duam	du-	Mood=Imp|Number=Plur|Person=1	seek	VERB	duam
+khristianosi-gu-n	khristianosi	Case=Gen|Number=Plur	христианин, -ка	NOUN	khristianosigun
+i'	_	Mood=Int		PART	i'
+gul	_	_		PART	gul
+dulla	dul-	VerbForm=Conv	be, remain	VERB	dulla
+itta	itt	Case=Abs|Number=Sing	женщина	NOUN	itta
+kisselo	kisse	Case=Loc|Number=Sing	church	NOUN	kisselo
+teduguka	ted	Case=Acc|Number=Plur	law	NOUN	teduguka
+emmanuēla	emmanuēl	Case=Abs|Number=Sing	Emmanuel	NOUN	emmanuēla
+appa	_	_	for	SCONJ	appa
+ṅalu	ṅal-	_	видеть	VERB	ṅalu
+igunguka	igon	Case=Acc|Number=Plur	icon	NOUN	igunguka
+ǧagṅon	ǧagṅ-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	наступать, попирать	VERB	ǧagṅon
+wuȧ	wu-	VerbForm=Conv	кричать, вопить	VERB	wuȧ
+i	_	Mood=Int		PART	i
+īnno	īn	Case=Loc|PronType=Dem	this	PRON	īnno
+ȧgoppigille	agopp(i)	Case=Dat|Number=Sing	корабельщик, кормчий	NOUN	ȧgoppigille
+ȯro	_	_	with, through	ADP	ȯro
+unnusna	unnu-	Number=Sing|Person=3|Tense=Past	рожать	VERB	unnusna
+man	_	_	that	DET	man
+dippila	dipp(i)	Case=Ine|Number=Sing	город, селение	NOUN	dippila
+ï	_	Mood=Int		PART	ï
+ulgren	ulg(i)r-	Subordinative=Yes|VerbForm=Conv	слышать	VERB	ulgren
+unnin	unn-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pres	bear (child)	VERB	unnin
+ukra	uk(u)r	_	день	NOUN	ukra
+tuggaddel	tuggar-	Tense=Fut|VerbForm=Part	cause to attain	VERB	tuggaddel
+iskelisna	iskel-	Number=Sing|Person=3|Tense=Past	просить	VERB	iskelisna
+ellinosi	ellinosi	Case=Nom|Number=Sing	язычник	NOUN	ellinosi
+kolo	kol-	Tense=Pqp|VerbForm=Conv	?	VERB	kolo
+denkon	den-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	давать мне, нам	VERB	denkon
+kien	ki-	Subordinative=Yes|VerbForm=Conv	проходить	VERB	kien
+ukurro	ukur	Case=Loc|Number=Sing	day, time	NOUN	ukurro
+pistarisna	pistar-	Number=Sing|Person=3|Tense=Past	крестить	VERB	pistarisna
+aw-ǧil-gu-ka	aw-	Case=Acc|Number=Plur|VerbForm=Part	делать	VERB	awǧilguka
+ditrapka	ditrap	Case=Acc|Number=Sing	курица	NOUN	ditrapka
+minan	mina	Case=Gen|Number=Sing	св. Мина	NOUN	minan
+philoxenitigille	philoxeniti	Case=Dat|Number=Sing	Филоксенита	NOUN	philoxenitigille
+mē	_	_		AUX	mē
+ogǧil	og(i)ǧ	Case=Acc|Definite=Def|Number=Sing	мужчина, муж	NOUN	ogǧil
+...lo	?	Case=Loc|Number=Sing	?	NOUN	...lo
+an̂araṅa	an̂araṅ-	VerbForm=Conv	оживать	VERB	an̂araṅa
+tril	tir-	Case=Nom|Number=Sing|VerbForm=Part	give (to you or them)	VERB	tril
+no	lo	_		PART	no
+tillu	till	Case=Acc|Number=Sing	God	NOUN	tillu
+takka	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	takka
+inin	in-	VerbForm=Conv	быть	VERB	inin
+dippiddo	dipp(i)	Case=Sup|Definite=Def|Number=Sing	город, селение	NOUN	dippiddo
+ǧuntuṅ-a	ǧuntuṅ-	VerbForm=Conv	зачать, забеременеть	VERB	ǧuntuṅa
+wīȧ	_	_	woe	NOUN	wīȧ
+uskursna	usk(u)r-	Number=Sing|Person=3|Tense=Past	класть	VERB	uskursna
+lo	_	_		PART	lo
+iėreȯsil	iėreȯs	Case=Nom|Definite=Def|Number=Sing	priest	NOUN	iėreȯsil
+ṅan	ṅa	Case=Gen|Number=Sing	сын	NOUN	ṅan
+kannol	kann-	Tense=Pqp|VerbForm=Part	bring (???)	VERB	kannol
+dutrap'	dutrap	Case=Nom|Number=Sing	курица	NOUN	dutrap'
+kyriaken	kyriake	Case=Gen|Number=Sing		NOUN	kyriaken
+dumak	dumal	_	вдруг	ADV	dumak
+īnēngula	īn	Case=Ine|Number=Plur|PronType=Dem	this	PRON	īnēngula
+ogiǧka	og(i)ǧ	Case=Acc|Number=Sing	мужчина, муж	NOUN	ogiǧka
+kappan	kappa-	Subordinative=Yes|VerbForm=Conv	eat	VERB	kappan
+murtiddo	murt(i)	Case=Sup|Definite=Def|Number=Sing	лошадь	NOUN	murtiddo
+tota	tot	Case=Abs|Number=Sing	сын, дитя	NOUN	tota
+medǧunintay-gu-l	medǧunin-taa	Case=Nom|Definite=Def|Number=Plur	рабыня, служанка	NOUN	medǧunintaygul
+miššan	_	_	all	DET	miššan
+uggatiǧǧana	ulgatir-	Number=Plur|Number[obj]=Plur|Person=3|Tense=Pres	cause to hear	VERB	uggatiǧǧana
+ïisusi	_	_	Jesus	PROPN	ïisusi
+kapkoï	kap-	Mood=Cnd|Number=Sing|Person=1|Subordinative=Yes	есть	VERB	kapkoï
+yon	_	_		SCONJ	yon
+taruam	taru-	Mood=Imp|Number=Plur|Person=1	love, worship, bless (?)	VERB	taruam
+unnusana	unnu-	Number=Sing|Person=3|Tense=Past	рожать	VERB	unnusana
+korek'	kore	Case=Acc|Number=Sing	причастие	NOUN	korek'
+penutuddre	penutir-	Number=Sing|Person=1|Tense=Fut	относить, отвозить	VERB	penutuddre
 awȧ	aw-	VerbForm=Conv	do, make	VERB	awȧ
+ogǧil	og(i)ǧ	Case=Nom|Definite=Def|Number=Sing	мужчина, муж	NOUN	ogǧil
+ir	ir	Number=Sing|Person=1|PronType=Prs	ты	PRON	ir
+proskokka	prosko	Case=Acc|Definite=Def|Number=Sing	offering	NOUN	proskokka
+unnara	unnu-	Aspect=Imp|Case=Abs|Number=Sing|VerbForm=Part	рождать	VERB	unnara
+na	_	_		ADP	na
+ayka	ay	Case=Acc|Number=Sing|Person=1|PronType=Prs	я	PRON	ayka
+aīlla	aī	Case=Ine|Definite=Def|Number=Sing	heart	NOUN	aīlla
+kellika	kell	Case=Acc|Number=Sing	likeness	NOUN	kellika
+ǧan	ǧan	Case=Nom|Number=Sing	share (?)	NOUN	ǧan
+okkanē	ok-	Case=Acc|Number=Sing|VerbForm=Vnoun	call, summon, name	VERB	okkanē
+gitta	gitt-	VerbForm=Conv	?	VERB	gitta
+do	_	_		ADP	do
+tappatta	dappi-	Case=Abs|Number=Sing|VerbForm=Vnoun	be lost	VERB	tappatta
+miššan	_	PronType=Tot	весь, всякий	DET	miššan
+ȧg-en	ag-	Subordinative=Yes|VerbForm=Conv	сидеть; долго быть, пребывать	VERB	ȧgen
+ïerusalimīa	ïerusalim	Case=Ine|Number=Sing	Jerusalem	PROPN	ïerusalimīa
+morimīnil	mor-	Polarity=Neg|VerbForm=Part	dismiss (?)	VERB	morimīnil
+wel	wel	_	один; некий	DET	wel
+miššan	_	_	every	DET	miššan
+pilaallo	pilaal	Case=Loc|Number=Sing	сияние (?); явь (?)	NOUN	pilaallo
+widillo	_	_	снова (?)	ADV	widillo
+silela	silel-	VerbForm=Conv	молиться	VERB	silela
+oro	_	_	with, through	ADP	oro
+tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs		PRON	tan
+taṅsildo	taṅis	Case=Sup|Number=Sing	name	NOUN	taṅsildo
+tittil	titt	Case=Acc|Definite=Def|Number=Sing	gift	NOUN	tittil
+ǧoǧokil	ǧoǧok-	Tense=Pres|VerbForm=Part	постоянно приносить (?)	VERB	ǧoǧokil
+gaǧis	gaǧ-	Tense=Past|VerbForm=Part	read (?)	VERB	gaǧis
+ȧwkka	aw(i)	Case=Acc|Number=Sing	лодка, корабль	NOUN	ȧwkka
+īs	_	_	behold	INTJ	īs
+in̂ittu	in̂itti	_	бренный, преходящий (?)	ADJ	in̂ittu
+ekīreran	ek-	Aspect=Imp|Number=Plur|Number[obj]=Sing|Person=3|Subordinative=Yes	?	VERB	ekīreran
+ṅal	ṅa	Case=Nom|Definite=Def|Number=Sing	сын	NOUN	ṅal
+kīa	ki-	VerbForm=Conv	come	VERB	kīa
+utratirsna	utrat(i)r-	Number=Sing|Person=3|Tense=Past	класть	VERB	utratirsna
+kenȯossana	kenȯos-	Number=Plur|Person=3|Tense=Past	выносить	VERB	kenȯossana
+yon	lon	_	а, и, но	CCONJ	yon
+kaka	kak-	VerbForm=Conv	[приносить]	VERB	kaka
+ǧimmilguka	ǧimmil	Case=Acc|Number=Plur|PronType=Tot	all	PRON	ǧimmilguka
+ṅodil	ṅod	Case=Nom|Definite=Def|Number=Sing	господин, господь	NOUN	ṅodil
+kappa	kappa	Case=Ine	пища, еда, провиант	NOUN	kappa
+lon	_	_	а, и, но	SCONJ	lon
+wīa	_	_	woe	INTJ	wīa
+awarre	aw-	Number=Sing|Person=1|Tense=Fut	делать	VERB	awarre
+pela	pel-	VerbForm=Conv	come out (?)	VERB	pela
+īla	ī	Case=Ine|Number=Sing	hand	NOUN	īla
+ke	_	Person=2|Number=Plur		PART	ke
+kieskillo	_	_	до	ADP	kieskillo
+dummiǧa	dumm-	Number[obj]=Plur|VerbForm=Conv	брать, хватать	VERB	dummiǧa
+skitīdon	īskit	Case=Del|Number=Sing	earth	NOUN	skitīdon
+en'it-a	enit-	VerbForm=Conv	поднимать	VERB	en'ita
+ṅegimenkon	ṅeg-	Mood=Cnd|Number=Sing|Person=3|Polarity=Neg	бояться, пугаться	VERB	ṅegimenkon
+tawka	tawk(i)	_	время	NOUN	tawka
+kapildal	kap-	Case=Com|Number=Sing|VerbForm=Part	eat	VERB	kapildal
+ītī	īt	Case=Com|Definite=Def|Number=Sing	person	NOUN	ītī
+pesira	pes-	Aspect=Imp|VerbForm=Conv	say	VERB	pesira
+gille	_	_		ADP	gille
+ir	ir	Case=Nom|Number=Sing|Person=2|PronType=Prs	ты	PRON	ir
+kaskaseldo	kaskase	Case=Sup|Definite=Def|Number=Sing	кропильница	NOUN	kaskaseldo
+martarkikon	martarkikon	Case=Nom|Number=Sing	witness	NOUN	martarkikon
+īïudadal	īïuda	Case=Com|Number=Sing	Judas	PROPN	īïudadal
+ȧ	_	_		ADP	ȧ
+agra	ag-	Aspect=Imp|VerbForm=Conv	sit	VERB	agra
+thelkath	_	_		X	thelkath
+proskoka	prosko	Case=Acc|Number=Sing	offering (?)	NOUN	proskoka
+kissela	kisse	Case=Ine	church	NOUN	kissela
+an̂inno	an̂e	Case=Loc|Definite=Def|Number=Sing	life	NOUN	an̂inno
+kimmissom	kīp-	Mood=Sub|Number=Sing|Person=1|Polarity=Neg|Tense=Past	eat	VERB	kimmissom
+pašši	pašš	_	?	X	pašši
+khristianosaṅadimme	khristianosaṅ-	Mood=Sub|Number=Sing|Person=1|Tense=Fut	становиться, быть христианином	VERB	khristianosaṅadimme
+ǧawisna	ǧaw-	Number=Sing|Person=3|Tense=Past	кричать (?)	VERB	ǧawisna
+wilen	wil-	Subordinative=Yes|VerbForm=Conv	?	VERB	wilen
+pesara	pes-	Aspect=Imp|VerbForm=Conv	говорить	VERB	pesara
+sortol	sorto	Case=Nom|Definite=Def|Number=Sing	священник	NOUN	sortol
+mina-na	mina	Case=Gen|Number=Sing	Мина	NOUN	minana
+wel	_	PronType=Ind		DET	wel
+ǧīṅīdol	ǧīṅ-	Tense=Pqp|VerbForm=Part	mock (M.)	VERB	ǧīṅīdol
+ikarigra	_	_	так, таким образом; итак	ADV	ikarigra
+kelkinnan	kelkinn-	Number=Plur|Person=3|Subordinative=Yes|Tense=Pres	[обратиться?]	VERB	kelkinnan
+ėn	er	Case=Gen|Number=Plur|PronType=Prs	we	PRON	ėn
+an̂ǧin	an̂ǧi	Case=Gen|Number=Sing	life	NOUN	an̂ǧin
+toyka-gu-ė	toyk	Case=Abs|Number=Plur	сила	NOUN	toykaguė
+in	in	_	этот	PRON	in
+mna	_	Mood=Int	Lat. nonne	PART	mna
+paǧīpaǧigiddna	paǧīpaǧigir-	Number=Sing|Person=3|Tense=Fut	cause to intensively try	VERB	paǧīpaǧigiddna
+ki'	ki-	VerbForm=Conv	приходить	VERB	ki'
+weranno	weran	Case=Loc|Number=Sing	?	NOUN	weranno
+islo	_	_	где	ADV	islo
+totigille	tot	Case=Dat|Number=Sing	сын, дитя	NOUN	totigille
+koreka	kore-	Case=Acc|Number=Sing	feast, sacrament	NOUN	koreka
+dōn	_	Case=Del	from, of place	ADP	dōn
+[p]estakol	pes-	Tense=Pqp|VerbForm=Conv|Voice=Pass	say	VERB	[p]estakol
+koǧue	koǧu-	Mood=Imp|Number=Sing|Person=2	забирать с собой	VERB	koǧue
+gil	_	_		ADP	gil
+ettata	et-	Case=Abs|Number=Sing|VerbForm=Vnoun	take, receive	VERB	ettata
+on	_	_	и	SCONJ	on
+sewė	sew(i)	_	другой, прочий	DET	sewė
+kello	_	_	как, подобно	SCONJ	kello
+pikitk	pikit	Case=Acc|Number=Sing	light	NOUN	pikitk
+isgil	_	PronType=Int	куда	ADV	isgil
+abba	_	_	for	SCONJ	abba
+ǧolam	ǧolam	_	pure/simply	ADJ	ǧolam
+kīmenen	ki-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	come	VERB	kīmenen
+tanna	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tanna
+okisna	ȯk-	Number=Sing|Person=3|Tense=Past	называть, звать	VERB	okisna
+kissen	kisse	Case=Gen|Number=Sing	Church	NOUN	kissen
+sewartu	sewart(i)	Case=Gen|Definite=Def|Number=Sing	дух	NOUN	sewartu
+minka	min	Case=Acc|PronType=Int	что	PRON	minka
+ṅakka	ṅa	Case=Acc|Number=Sing	сын	NOUN	ṅakka
+ka'	_	_		ADP	ka'
+tuygul	tuygu	Case=Nom|Definite=Def|Number=Plur	коровы	NOUN	tuygul
+de	_	_		CCONJ	de
+ollīn	oll-	Subordinative=Yes|VerbForm=Conv	hang	VERB	ollīn
+amin	_	_	Amen	ADV	amin
+ṅakka	ṅa	Case=Acc|Definite=Def|Number=Sing	son	NOUN	ṅakka
+kena	ken-	VerbForm=Conv	нести, приносить	VERB	kena
+īn	īn	Case=Nom|PronType=Dem	this	PRON	īn
+anke	ank-	Mood=Imp|Number=Sing|Person=2	remember	VERB	anke
+paynu	pay-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pres	писать	VERB	paynu
+ǧanka	ǧan	Case=Acc|Number=Sing	share (?)	NOUN	ǧanka
+genēn	gen-	Subordinative=Yes|VerbForm=Conv	be good (???)	VERB	genēn
+doka	dok-	VerbForm=Conv	сидеть верхом, ездить верхом	VERB	doka
+ittu	itt	Case=Nom|Number=Sing	женщина	NOUN	ittu
+psallilguldal	psall-	Case=Com|Definite=Def|Number=Plur|VerbForm=Part	chant	VERB	psallilguldal
+ȧ	_	Mood=Sub		PART	ȧ
+magirkon	mag-	Aspect=Imp|Mood=Cnd|Number=Sing|Person=2	печалиться, горевать, страдать	VERB	magirkon
+ïerusalēmēa	ierusalēm	Case=Loc|Number=Sing	Jerusalem	PROPN	ïerusalēmēa
+taka	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	taka
+kak-il	kak	Case=Acc|Definite=Def|Number=Sing	приплод, плод	NOUN	kakil
+kenduk'arril	kenduk-	Tense=Fut|VerbForm=Part	приносить, относить, жертвовать	VERB	kenduk'arril
+ėlin	el	Case=Gen|Number=Sing	сейчас	NOUN	ėlin
+kumpu-k'	kumpu	Case=Acc|Number=Sing	яйцо	NOUN	kumpuk'
+ǧuntuṅa'	ǧuntuṅ-	VerbForm=Conv	зачать, забеременеть	VERB	ǧuntuṅa'
+itirsna	it-	Number=Sing|Number[obj]=Sing|Person=3|Tense=Past	брать, принимать	VERB	itirsna
+īsn	_	_	behold	INTJ	īsn
+ke	_	_		PART	ke
+kumpul	kumpu	Case=Nom|Definite=Def|Number=Sing	яйцо	NOUN	kumpul
+toka	tok-	VerbForm=Conv	прекратить (?)	VERB	toka
+indo	in	Case=Sup|PronType=Dem	это	PRON	indo
+a	_	_		ADP	a
+tiǧǧinīa	tir-	Case=Ine|Number=Sing|Number[obj]=Plur|VerbForm=Vnoun	give (to you or them)	VERB	tiǧǧinīa
+wen	wel	_	один; некий	DET	wen
+elmendinna	el-	Number=Sing|Person=3|Polarity=Neg|Tense=Fut	find	VERB	elmendinna
+tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan
+aīllo	aī	Case=Loc|Definite=Def|Number=Sing	heart	NOUN	aīllo
+miwtakra	miw-	Aspect=Imp|VerbForm=Conv	исчезать (?)	VERB	miwtakra
+aggelosu	aggelos	Case=Loc|Number=Sing	angel	NOUN	aggelosu
+ėkel	ėkel	Case=Nom|Number=Sing	thing (?), act (?)	NOUN	ėkel
+awtakkon	aw-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes|Voice=Pass	do, make	VERB	awtakkon
+tiǧo	_	_	in presence of, with	ADP	tiǧo
+tillin	till	Case=Gen|Number=Sing	God	NOUN	tillin
+segega	segeg-	VerbForm=Conv	?	VERB	segega
+ēkkulli	_	_	?	NOUN	ēkkulli
+ṅapaṅa	ṅapa	_	far from?	X	ṅapaṅa
+ṅog-la	ṅoog	Case=Ine|Number=Sing	дом	NOUN	ṅogla
+ay-lla	ay	Case=Ine|Definite=Def|Number=Sing	сердце, душа	NOUN	aylla
+apoggil	agopp(i)	Case=Dat|Definite=Def|Number=Sing	корабельщик, кормчий	NOUN	apoggil
+pesesin	pes-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	говорить	VERB	pesesin
+psalēmenen	psall-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	chant	VERB	psalēmenen
+wel	wel	Case=Nom|Number=Sing|PronType=Ind	one	PRON	wel
+masa	masa	Case=Abs|Number=Sing	good (M.)	ADJ	masa
+ha	_	_		PART	ha
+ȧpoggil	agopp(i)	Case=Dat|Number=Sing	корабельщик, кормчий	NOUN	ȧpoggil
+ukur'	uk(u)r	Case=Nom|Number=Sing	день	NOUN	ukur'
+man̂il	man̂	Case=Nom|Definite=Def|Number=Sing	глаз	NOUN	man̂il
+tilli-n	till(i)	Case=Gen|Number=Sing	бог	NOUN	tillin
+leǧun	_	_	on account of (???)	ADP	leǧun
+ė	_	_	эй! о!	INTJ	ė
+urkrigul	uk(u)r	Case=Nom|Definite=Def|Number=Plur	день	NOUN	urkrigul
+ewaggel	_	_	gospel	NOUN	ewaggel
+ȧika	ay	Case=Acc|Number=Sing|Person=1|PronType=Prs	я	PRON	ȧika
+en-o-na	en-	Number=Sing|Person=3|Tense=Pqp	быть	VERB	enona
+sin	_	_	ибо, ведь	ADP	sin
+lon	lon	_	а, и, но	CCONJ	lon
+koīrra	koīrr-	Case=Abs|Number=Sing	possessor (???)	NOUN	koīrra
+lon	_	_	а, и, но	CCONJ	lon
+ketalle	_	_	тоже, также	ADV	ketalle
+dīėguka	dīė	Number=Plur|Case=Acc	many	NOUN	dīėguka
+kia	ki-	VerbForm=Conv	come	VERB	kia
+an̂ǧika	an̂ǧi	Case=Acc|Number=Sing	life; also Saviour (?)	NOUN	an̂ǧika
+ettakra	et-	Aspect=Imp|VerbForm=Conv|Voice=Pass	take, receive	VERB	ettakra
+wer	wer	_	one	NUM	wer
+dum'eta	dum'it-	VerbForm=Conv	брать	VERB	dum'eta
+mawkil	mawk	Case=Loc|Definite=Def|Number=Sing	?	NOUN	mawkil
+eï	_	Case=Nom|Number=Plur	man (?)	NOUN	eï
+mareoti-n	mareoti	Case=Gen|Number=Sing	Мареотис	NOUN	mareotin
+tokderragille	tokderra	Case=Dat|Number=Sing	искупление	NOUN	tokderragille
+welka	wel	Case=Acc|Number=Sing|PronType=Ind	one	PRON	welka
+mina-n	mina	Case=Gen|Number=Sing	Мина	NOUN	minan
+kin̂n̂	_	_	without	ADP	kin̂n̂
+marėot-io	mareoti	Case=Loc|Number=Sing	Мареотис	NOUN	marėotio
+kontonta	_	Case=Abs|Number=Sing	?	ADJ	kontonta
+philoxeniti-gil	philoxeniti	Case=Dat|Number=Sing	Филоксенита	NOUN	philoxenitigil
+īte	īt-	_	take, receive	VERB	īte
+ṅal	ṅa	Case=Gen|Definite=Def|Number=Sing	сын	NOUN	ṅal
+gipirta	gipirt-	VerbForm=Conv	repeat, return	VERB	gipirta
+esin	_	_		CCONJ	esin
+īgra	īgir-	VerbForm=Conv	say, speak (M.)	VERB	īgra
+tidīkanelo	tid-	Case=Loc|Number=Sing|VerbForm=Vnoun	repay (?)	VERB	tidīkanelo
+on	_	_	and	CCONJ	on
+mira-gu-ė	_	Case=Abs|Number=Plur		ADJ	miraguė
+on	_	_	и, а	CCONJ	on
+turi	turi-	Number=Sing|Person=1|Subordinative=Yes|Tense=Pres	drive out (M.)	VERB	turi
+ȧgorisska	agor-	Case=Acc|Number=Sing|Tense=Past|VerbForm=Part	забывать	VERB	ȧgorisska
+ṅokkor-a	ṅokkor	Case=Abs|Number=Sing	чудо	NOUN	ṅokkora
+darpneka	darpne	Case=Acc|Number=Sing	жертвоприношение	NOUN	darpneka
+pistittik	pistitt(i)	Case=Acc|Number=Sing	крещение	NOUN	pistittik
+ṅapeka	ṅape	Case=Acc|Number=Sing	sin	NOUN	ṅapeka
+enėta	enit-	VerbForm=Conv	поднимать	VERB	enėta
+kendukken	kenduk-	Subordinative=Yes|VerbForm=Conv	bring, offer	VERB	kendukken
+kissela	kisse	Case=Ine|Number=Sing	church	NOUN	kissela
+ṅissil	ṅiss(i)	Case=Nom|Definite=Def|Number=Sing	святой	NOUN	ṅissil
+dumma	dumm-	VerbForm=Conv	take	VERB	dumma
+alliluïaka	allēluia	Case=Acc|Number=Sing	alleluia	NOUN	alliluïaka
+kiskillo	_	_	until	ADP	kiskillo
+pistakkon	pistar-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	крестить	VERB	pistakkon
+agoppil	agopp(i)	Case=Dat|Number=Sing	корабельщик, кормчий	NOUN	agoppil
+gallitakon	gall-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	открывать	VERB	gallitakon
+suȧy	suȧy	Case=Gen|Number=Sing	месяц, начало месяца	NOUN	suȧy
+tak'	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tak'
+miššan	miššan	PronType=Tot	весь, всякий	DET	miššan
+mona	mon-	Case=Abs|Number=Sing|VerbForm=Part	hate, reject	VERB	mona
+dutrapka	dutrap	Case=Acc|Number=Sing	курица	NOUN	dutrapka
+ȯke	ȯk-	Mood=Imp|Number=Sing|Person=2	называть, звать	VERB	ȯke
+lon	_	_	and	CCONJ	lon
+ki-s-na	ki-	Number=Sing|Person=3|Tense=Past	приходить	VERB	kisna
+min	_	Case=Nom|PronType=Int	what	PRON	min
+unnadimmana	unnu-	Mood=Sub|Number=Plur|Person=3|Tense=Fut	рожать	VERB	unnadimmana
+īn	_	PronType=Dem	this	DET	īn
+ukkatta	ukkatt	Case=Abs|Number=Sing	enemy	NOUN	ukkatta
+kisse	kisse	Case=Dat|Number=Sing	церковь	NOUN	kisse
+inil	in-	VerbForm=Part	быть	VERB	inil
+unnu-s-na	unn-, unnu-	Number=Sing|Person=3|Tense=Past	рожать	VERB	unnusna
+de	_	_	и, но	SCONJ	de
+ǧuse	ǧu-	Number=Sing|Person=1|Tense=Past	идти; ехать	VERB	ǧuse
+no	_	Mood=Cnd		PART	no
+īskaragra	īkar-	VerbForm=Conv	?	VERB	īskaragra
+ȧkossa	akoss	Case=Loc|Number=Plur	wicked (?)	ADJ	ȧkossa
+13	_	_		NUM	13
+kyriaken	kyriȧke	Case=Gen|Number=Sing	Sunday	NOUN	kyriaken
+aw-tak-o-n	aw-	Number=Plur|Person=3|Subordinative=Yes|Tense=Pqp	делать; пасс. случаться, происходить	VERB	awtakon
+magren	mag-	Aspect=Imp|Number=Sing|Person=2|Subordinative=Yes|Tense=Pres	печалиться, горевать, страдать	VERB	magren
+apoggin	agopp(i)	Case=Gen|Number=Sing	корабельщик, кормчий	NOUN	apoggin
+pesil	pes-	Tense=Pres|VerbForm=Part	say	VERB	pesil
+tanna	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tanna
+aīlka	aī	Case=Acc|Definite=Def|Number=Sing	heart	NOUN	aīlka
+tikkin	tik-	Subordinative=Yes|VerbForm=Conv	sit	VERB	tikkin
+marian	maria	Case=Gen|Number=Sing	Мария	NOUN	marian
+ṅak	ṅa	Case=Acc|Number=Sing	сын	NOUN	ṅak
+ontakraguė	on-	Aspect=Imp|Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	любить	VERB	ontakraguė
+philoxenitin	philoxeniti	Case=Gen|Number=Sing	Филоксенита	NOUN	philoxenitin
+īlle	īlle	Case=Acc|Number=Sing	wheat	NOUN	īlle
+wel	_	PronType=Dem|Case=Nom	one	PRON	wel
+tikkin	tir-	Subordinative=Yes|VerbForm=Conv	give (to you or them)	VERB	tikkin
+ṅisselo	kisse	Case=Loc|Number=Sing	church	NOUN	ṅisselo
+ȧlelo	ale	Case=Loc|Number=Sing	истина, правда	NOUN	ȧlelo
+papi	_	Case=Loc|Number=Sing	father	NOUN	papi
+gipirtisna	gipirt-	Number=Sing|Person=3|Tense=Past	возвращаться	VERB	gipirtisna
+ītu	īt	Case=Sup|Number=Sing	person	NOUN	ītu
+tan'	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan'
+iriȯ	ir	Case=Loc|Number=Sing|Person=2|PronType=Prs	ты	PRON	iriȯ
+in	in	_	this	DET	in
+ītminna	īt-	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	take, receive	VERB	ītminna
+tokīden	tok-	Case=Gen|Number=Sing|VerbForm=Vnoun	cease (?)	NOUN	tokīden
+miššan	_	PronType=Tot	all, every	DET	miššan
+tulo	tu	Case=Loc|Number=Sing	belly	NOUN	tulo
+dumėta	dum'it-	VerbForm=Conv	брать	VERB	dumėta
+[*****]titta	_	_	?	VERB	[*****]titta
+tula	_	_	внутри	ADP	tula
+marimath	_	_		X	marimath
+miššan-gu	miššan	Case=Nom|Number=Plur|PronType=Tot	весь, всякий	PRON	miššangu
+kutta	kutt-	VerbForm=Conv	встать	VERB	kutta
+ekkin	ekki	Case=Gen|Number=Sing	presentation	NOUN	ekkin
+kisse-la	kisse	Case=Ine|Number=Sing	церковь	NOUN	kissela
+šaakka	šaa	Case=Acc|Number=Sing	дверь	NOUN	šaakka
+ma	_	Mood=Sub	пусть	PART	ma
+dutrapigulo	dutrap	Case=Loc|Number=Plur	курица	NOUN	dutrapigulo
+eddal	ir	Case=Com|Number=Sing|Person=2|PronType=Prs	ты	PRON	eddal
+trisȧgion	_	Case=Nom|Number=Sing	трисвятая молитва	NOUN	trisȧgion
+gemu	gem	Case=Ine|Number=Sing	year	NOUN	gemu
+maïk-ar-is-na	maïk-	Aspect=Imp|Number=Sing|Person=3|Tense=Past	стыдиться	VERB	maïkarisna
+sortok'	sorto	Case=Acc|Number=Sing	священник	NOUN	sortok'
+tar-iȧ	tar	Case=Ine|Number=Sing|PronType=Prs	он, она, оно	PRON	tariȧ
+pesilgul	pes-	Case=Nom|Definite=Def|Number=Plur|VerbForm=Part	say	VERB	pesilgul
+tariȧ	tar	Case=Ine|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tariȧ
+dawi	dawi	_	большой, великий	ADJ	dawi
+non	lon	_	а, и, но	CCONJ	non
+welka	wel	Case=Acc|Number=Sing|PronType=Dem	one	PRON	welka
+kīka	kī	Case=Acc|Number=Sing	vow	NOUN	kīka
+kiyskillo	kiskillo	_	до	ADP	kiyskillo
+wek	wel	_	один; некий	NUM	wek
+awuǧuka	awu-	Case=Acc|Number=Sing|Number[obj]=Plur|VerbForm=Part	do, make	VERB	awuǧuka
+harmildon	harm	Case=Del|Number=Sing	heaven	NOUN	harmildon
+itni	it-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pres	брать, принимать	VERB	itni
+sō	_	Mood=Imp		PART	sō
+ītu	īt	Case=Nom|Number=Sing	person	NOUN	ītu
+īta	īt	Case=Abs|Number=Sing	person	NOUN	īta
+kore	kore	_	feast, sacrament	NOUN	kore
+tillina	till	Number=Sing|Case=Gen	God	NOUN	tillina
+ṅodin	ṅod	Case=Gen|Number=Sing	Lord	NOUN	ṅodin
+senam	sen-	Mood=Imp|Number=Plur|Person=1	pray	VERB	senam
+sanna	_	Number=Sing|Person=3|Tense=Pres	bless (?)	VERB	sanna
+kiesin	ki-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	приходить	VERB	kiesin
+ewa	ewa	Case=Nom|Number=Sing	bless, praise	NOUN	ewa
+ṅissu	ṅiss	_	holy	ADJ	ṅissu
+ik	ir	Case=Nom|Number=Sing|Person=2|PronType=Prs	ты	PRON	ik
+ika	_	Case=Acc		ADP	ika
+guttīsana	gutt-	Number=Plur|Person=3|Tense=Past	reject (???)	VERB	guttīsana
+lo	_	_		ADV	lo
+taṅiska	taṅis	Case=Acc|Number=Sing	name	NOUN	taṅiska
+kissena	kisse	Case=Gen|Number=Sing	церковь	NOUN	kissena
+lo	_	_		ADP	lo
+tora	torra-	VerbForm=Conv	приходить	VERB	tora
+mareȯtiȯ	mareȯti	Case=Loc|Number=Sing	Мареотис	NOUN	mareȯtiȯ
+kanna	kann-	VerbForm=Conv	bring (???)	VERB	kanna
+unnre	unn-, unnu-	Number=Sing|Person=1|Tense=Pres	рожать	VERB	unnre
+asin	as	Case=Gen|Number=Sing	трюм	NOUN	asin
+medǧuningul	medǧun	Case=Acc|Definite=Def|Number=Plur	раб, слуга	NOUN	medǧuningul
+dum'ita	dum'it-	VerbForm=Conv	брать	VERB	dum'ita
+ïereȯska	iėreȯs	Case=Acc|Number=Sing	priest	NOUN	ïereȯska
+ėmentela	emente	Case=Ine|Number=Sing	hell	NOUN	ėmentela
+unnatikkoan	unnat(i)r-	Mood=Cnd|Number=Plur|Person=3|Subordinative=Yes	заставлять рожать	VERB	unnatikkoan
+ṅulu	ṅulu	_	белый	NOUN	ṅulu
+wek-ka	wel	Case=Acc	один; некий	NUM	wekka
+tokderka	tokder	Case=Acc|Number=Sing	remission, repentance	NOUN	tokderka
+gipirtisna	gipirt-	Mood=Imp|Number=Sing|Person=2	возвращаться	VERB	gipirtisna
+simpitarol	simpit-	Aspect=Imp|Tense=Pqp|VerbForm=Part	found, create	VERB	simpitarol
+ende	_	_	без (того, чтобы)	CCONJ	ende
+inka	in	Case=Acc|PronType=Dem	это	PRON	inka
+ȧman-do'	aman	Case=Sup|Number=Sing	вода, Нил	NOUN	ȧmando'
+ale	_	_	verily	ADV	ale
+pīn	pi-	Subordinative=Yes|VerbForm=Conv	be	VERB	pīn
+aydal	ay	Case=Com|Number=Sing|Person=1|PronType=Prs	я	PRON	aydal
+koreka	kore	Case=Acc|Number=Sing	feast, sacrament	NOUN	koreka
+ekka	er	Case=Acc|Number=Plur|Person=1|PronType=Prs	мы	PRON	ekka
+ėnen	en-	Subordinative=Yes|VerbForm=Conv	быть	VERB	ėnen
+on	_	_	и, а	SCONJ	on
+isu	is	PronType=Rel	что	PRON	isu
+peliron	pelir-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	помещать, сажать, класть	VERB	peliron
+weran	wer-	Subordinative=Yes|VerbForm=Conv		VERB	weran
+pisseso	piss-	Mood=Imp|Number=Sing|Person=2	радоваться	VERB	pisseso
+paddīna	padd-	Number=Sing|Person=2|Tense=Pres	?	VERB	paddīna
+mudwukon	mudu-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	охранять, сопутствовать; позволять	VERB	mudwukon
+tillik	till(i)	Case=Acc|Number=Sing	бог	NOUN	tillik
+tuy-gu-l	tuy	Case=Nom|Definite=Def|Number=Plur	корова	NOUN	tuygul
+ṅukitka	ṅukt	Case=Acc|Number=Sing	?	NOUN	ṅukitka
+mīǧragu	mīǧr	Case=Nom|Number=Plur	covetous (?)	ADJ	mīǧragu
+dessi	dessi	_	green, blue (M. K. D.)	ADJ	dessi
+tan	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tan
+dullaṅarra	dullaṅa-	Tense=Fut|VerbForm=Conv	become	VERB	dullaṅarra
+ṅissna	ṅiss(i)	Case=Gen|Number=Sing	святой	NOUN	ṅissna
+itti-l	itt	Case=Nom|Definite=Def|Number=Sing	женщина	NOUN	ittil
+proskol	prosko	Case=Nom|Definite=Def|Number=Sing	offering	NOUN	proskol
+awulgul	awu-	Definite=Def|Number=Plur|VerbForm=Part	do, make	VERB	awulgul
+moren	mor-	Case=Gen|Number=Sing|VerbForm=Vnoun	dismiss (?) or necessity (?)	VERB	moren
+ṅodu	ṅod	Case=Loc|Number=Sing	господин, господь	NOUN	ṅodu
+an	ay	Case=Gen|Number=Sing|Person=1|PronType=Prs	я	PRON	an
+wekka	wel	Case=Acc|Number=Sing|PronType=Dem	one	PRON	wekka
+padīra	pad-	Aspect=Imp|VerbForm=Conv	?	VERB	padīra
+ontakraguė	on-	Aspect=Imp|Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	love	VERB	ontakraguė
+tillil	till	Case=Nom|Definite=Def|Number=Sing	God	NOUN	tillil
+amin	_	_	аминь	INTJ	amin
+ǧodin	ǧu-	Aspect=Imp|Number=Sing|Person=2,3|Subordinative=Yes|Tense=Fut	идти; ехать	VERB	ǧodin
+trapissildo	trapis	Case=Sup|Definite=Def|Number=Sing	table	NOUN	trapissildo
+esin	_	_		SCONJ	esin
+awol	aw-	Tense=Pqp|VerbForm=Part	do, make	VERB	awol
+ȧy	ay	Case=Nom|Number=Sing|Person=1|PronType=Prs	я	PRON	ȧy
+papo	pap	Case=Abs|Number=Sing	отец	NOUN	papo
+kika	ki	Case=Acc|Number=Sing	vow	NOUN	kika
+papil	pap	Case=Gen|Definite=Def|Number=Sing	отец	NOUN	papil
+isse	is-	Number=Sing|Person=1|Tense=Past	рождать (?)	VERB	isse
+pil	pi-	Tense=Pres|VerbForm=Part	be	VERB	pil
+leǧun	_	_	because	ADP	leǧun
+minan	mina	_	Мина	NOUN	minan
+artosa	artos	Case=Abs|Number=Sing	bread (of Sacrament)	NOUN	artosa
+aï	aī	Case=Nom|Number=Sing	heart?	NOUN	aï
+ėnen	īn-	Subordinative=Yes|VerbForm=Conv	be	VERB	ėnen
+sewartu	sewart	Case=Nom|Definite=Def|Number=Sing	ghost	NOUN	sewartu
+īt	īt	_	person	NOUN	īt
+gadin	gad-	Case=Gen|Number=Sing	flesh, body	NOUN	gadin
+gallīminen	gall-	Subordinative=Yes|Polarity=Neg|VerbForm=Conv	open	VERB	gallīminen
+in	in	_	этот	DET	in
+pistewȧ	pistew-	VerbForm=Conv	верить	VERB	pistewȧ
+it-eniȧ	it-	VerbForm=Sup	брать, принимать	VERB	iteniȧ
+on	_	_		SCONJ	on
+ė	_	_	O	INTJ	ė
+īnēn	īn-	Subordinative=Yes|VerbForm=Conv	be	AUX	īnēn
+aīldo	aī	Case=Sup|Number=Sing	heart	NOUN	aīldo
+tiǧǧika	tir-	Case=Acc|Number=Sing|Number[obj]=Plur|VerbForm=Part	give	VERB	tiǧǧika
+dutrapi-gu-lo	dutrap	Case=Loc|Definite=Def|Number=Plur	курица	NOUN	dutrapigulo
+aygil	ay	Case=Dat|Number=Sing|Person=1|PronType=Prs	я	PRON	aygil
+ïereosilo	iėreȯs	Case=Loc|Number=Sing	priest	NOUN	ïereosilo
+gegnī	_	_	in good will (???)	ADJ	gegnī
+paǧana	paǧ-	Mood=Imp|Number=Plur|Person=2	ascertain, enquire precisely (?)	VERB	paǧana
+lon	_	_	and	SCONJ	lon
+ṅalen	ṅal-	Subordinative=Yes|VerbForm=Conv	видеть	VERB	ṅalen
+an̂en	an̂e	Case=Gen|Number=Sing	жизнь	NOUN	an̂en
+dīol	dīol	_	dead	NOUN	dīol
+enkan	en-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	be	AUX	enkan
+īru	īr	Case=Nom|Number=Sing|Person=2|PronType=Prs	thou	PRON	īru
+on	on-	_	to love	VERB	on
+kimmȧ'	kimm-	VerbForm=Conv	стучать	VERB	kimmȧ'
+īė	ī	Case=Abs|Number=Plur	man	NOUN	īė
+kentron	kent(i)r-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	приносить	VERB	kentron
+tillil	till	Case=Gen|Number=Sing	God	NOUN	tillil
+ǧure	ǧu-	Number=Sing|Person=1|Tense=Fut	идти; ехать	VERB	ǧure
+piyn	pi-	VerbForm=Part	быть, находиться	VERB	piyn
+wel	wel	Case=Nom|Number=Sing|PronType=Ind	один; некий	PRON	wel
+pala	pal-	VerbForm=Conv	come out	VERB	pala
+šak	ša	Case=Acc|Number=Sing	копье	NOUN	šak
+mink	min	Case=Acc|Number=Sing|PronType=Dem	что	PRON	mink
+kiriṅuan	kiriṅ-	Number=Plur|Person=3|Subordinative=Yes|Tense=Pqp	проходить	VERB	kiriṅuan
+untika	unti	Case=Acc|Number=Sing	love	NOUN	untika
+ṅoka	ṅok-	VerbForm=Conv	проходить	VERB	ṅoka
+kendukkikan	kenduk-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	bring, offer	VERB	kendukkikan
+gīttdikane	gitt-	Case=Nom|Number=Sing|VerbForm=Vnoun	reject (???)	VERB	gīttdikane
+is-sa-na	in-	Number=Plur|Person=3|Tense=Past	быть	VERB	issana
+genkitague	genkit	Case=Abs|Number=Plur	peace (M.)	NOUN	genkitague
+widilla	widillo	_	снова (?)	ADV	widilla
+ten	ter	Case=Gen|Number=Plur|Person=3|PronType=Prs	they	PRON	ten
+kakikka	kak	Case=Acc|Definite=Def|Number=Sing	приплод, плод	NOUN	kakikka
+dippu	dipp(i)	Case=Sup|Number=Sing	город, селение	NOUN	dippu
+eten	et-	Subordinative=Yes|VerbForm=Conv	take, receive	VERB	eten
+mēȧ	_	_		AUX	mēȧ
+īkka	īr	Case=Acc|Number=Sing|Person=2|PronType=Prs	thou	PRON	īkka
+ǧello	ǧeel	Case=Loc|Number=Sing	age, time	NOUN	ǧello
+artosi	artos	Case=Abs|Number=Sing	bread (of Sacrament)	NOUN	artosi
+so	_	Mood=Imp		PART	so
+elle	elle	Case=Nom|Number=Sing	time	NOUN	elle
+awlose	awlos-	Mood=Imp|Number=Sing|Person=2	спасать	VERB	awlose
+īgīr	īgir	Case=Nom|Number=Sing	saying (???)	NOUN	īgīr
+ukri	uk(u)r	Case=Nom|Definite=Def|Number=Plur	день	NOUN	ukri
+awėsi	aw-	Case=Loc|Number=Sing|Person=1|Subordinative=Yes|Tense=Past	делать	VERB	awėsi
+īningul	īn	Number=Plur|Definite=Def|PronType=Dem	this	PRON	īningul
+ė	_	_	эй! о! (междометие при обращении)	INTJ	ė
+ulginna	ulgir-	Mood=Imp|Number=Plur|Person=2	hear	VERB	ulginna
+ende	_	_	ни	CCONJ	ende
+ila'	i	Case=Ine|Number=Sing	рука	NOUN	ila'
+kumpu-n	kumpu	Case=Gen|Number=Sing	яйцо	NOUN	kumpun
+kono	_	_	после	ADP	kono
+pesa	pes-	VerbForm=Conv	говорить	VERB	pesa
+awuǧana	awu-	Mood=Imp|Number=Plur|Number[obj]=Plur|Person=2	do, make	VERB	awuǧana
+īn	_	_	this	DET	īn
+du-ȧr-a	du-	Aspect=Imp|VerbForm=Conv	быть, пребывать	VERB	duȧra
+diy	_	_	многий, многочисленный; много	DET	diy
+wīa	_	_	woe!	INTJ	wīa
+koraka	kora	Case=Acc|Number=Sing	?	NOUN	koraka
+ȧwn'	aw(i)	Case=Gen|Number=Sing	лодка, корабль	NOUN	ȧwn'
+ṅey-n	ṅey	Case=Gen|Number=Sing	вещь, дело	NOUN	ṅeyn
+aga	ag-	VerbForm=Conv	sit	VERB	aga
+pesen	pes-	Subordinative=Yes|VerbForm=Part	say	VERB	pesen
+tan'na	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan'na
+sarpē	sarpē	Case=Abs|Number=Sing	sip, draught / finger as a measure of liquid	NOUN	sarpē
+kapa	kap-	VerbForm=Conv	eat	VERB	kapa
+tirmenkan	tir-	Mood=Cnd|Number=Sing|Person=3|Polarity=Neg|Subordinative=Yes	give	VERB	tirmenkan
+tuskante-lo	tuskante	Case=Loc|Number=Sing	начало	NOUN	tuskantelo
+aï	aī	Case=Nom|Number=Sing	heart	NOUN	aï
+ma	_	_		PART	ma
+ȧsin	as	Case=Gen|Number=Sing	трюм	NOUN	ȧsin
+minaȧ	_	Case=Abs|Number=Sing	Мина	NOUN	minaȧ
+monesin	mon-	Number=Sing|Person=3|Tense=Past|Subordinative=Yes	hate, reject	VERB	monesin
+ṅonǧara	ṅonǧ-	Aspect=Imp|VerbForm=Conv	стоять	VERB	ṅonǧara
+ṅooktram	ṅooktr-	Mood=Imp|Number=Plur|Person=1	glorify	VERB	ṅooktram
+kumminna	kun-	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	have	VERB	kumminna
+tun̂il	tot	Case=Nom|Definite=Def|Number=Plur	child	NOUN	tun̂il
+kore	kore	Case=Acc|Number=Sing	feast, sacrament	NOUN	kore
+khristianosa	khristianosi	Case=Abs|Number=Sing	христианин, христианка	NOUN	khristianosa
+orō	_	_	with, through (of persons)	ADP	orō
+ṅissna	ṅil-	Number=Sing|Person=3|Tense=Past	видеть	VERB	ṅissna
+leǧun	_	_	because	SCONJ	leǧun
+man	_	_	тот, та, то	DET	man
+ïereȯsinka	iereȯsin	Case=Acc|Number=Sing	priesthood	NOUN	ïereȯsinka
+etten	et-	Subordinative=Yes|VerbForm=Conv	take, receive	VERB	etten
+gaaddo	gaar	Case=Sup|Number=Sing	сторона, берег	NOUN	gaaddo
+īïuda	īïuda	Case=Sup|Number=Sing	Judas	PROPN	īïuda
+irkane	irkane	_	начало; рождение, рождество	NOUN	irkane
+dollen	doll-	Subordinative=Yes|VerbForm=Conv	wish	VERB	dollen
+koȧ	ko-	VerbForm=Conv	have	VERB	koȧ
+lō	_	_		PART	lō
+agora	agor-	VerbForm=Conv	забывать	VERB	agora
+toėkil	toyk	Case=Nom|Definite=Def|Number=Sing	сила	NOUN	toėkil
+pikitka	pikit	Case=Acc|Number=Sing	light	NOUN	pikitka
+wīska	wīsk	Case=Acc|Number=Sing	change, exchange	NOUN	wīska
+ka	_	Case=Acc		ADP	ka
+parren	parre	Case=Gen|Number=Sing	durra	NOUN	parren
+dippin	dipp(i)	Case=Gen|Number=Sing	город, селение	NOUN	dippin
+kissello	kisse	Case=Loc|Definite=Def|Number=Sing	church	NOUN	kissello
+īt	īt-	VerbForm=Inf	take, receive	VERB	īt
+kello	_	_		CCONJ	kello
+lo	_	Mood=Cnd		PART	lo
+gir	_	_	?	X	gir
+awsa	aw-	Case=Abs|Number=Sing|Tense=Past|VerbForm=Part	делать	VERB	awsa
+ṅooggille	ṅoog	Case=Dat|Number=Sing	дом	NOUN	ṅooggille
+ïudaiosrīgul	iudaios	Animacy=Anim|Case=Nom|Number=Plur	Jews	NOUN	ïudaiosrīgul
+io	_	_		PART	io
+gu	_	_		PART	gu
+tokka	tokk-	VerbForm=Conv	варить	VERB	tokka
+untik'	unt(i)	Case=Acc|Number=Sing	любовь, милость	NOUN	untik'
+ṅapen	ṅape	Case=Gen|Number=Sing	sin	NOUN	ṅapen
+gaddo	gaar	Case=Sup|Number=Sing	сторона, берег	NOUN	gaddo
+ta-n	tar	Case=Gen|Number=Sing|PronType=Prs	он, она, оно	PRON	tan
+tak	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tak
+ǧimmilgul	ǧimmil	Case=Nom|Definite=Def|Number=Plur|PronType=Tot	всякий, каждый	PRON	ǧimmilgul
+wīsk	wīsk	Case=Acc|Number=Sing	change, exchange	NOUN	wīsk
+ṅes	ṅes	Case=Nom|Number=Sing	pause, weariness	NOUN	ṅes
+orpa	orpa	Case=Acc|Number=Sing	wine	NOUN	orpa
+unna	unna-	VerbForm=Conv	love	VERB	unna
+ṅissu	ṅiss(i)	_	святой	ADJ	ṅissu
+middītakīnē	midd-	Voice=Pass	condemn	VERB	middītakīnē
+ṅapegun	ṅape	Case=Gen|Number=Plur	sin	NOUN	ṅapegun
+īn	_	_	that	DET	īn
+kokīra	kokīr-	VerbForm=Conv	purify	VERB	kokīra
+aggelosnȧ	aggelos	Case=Gen|Number=Sing	angel	NOUN	aggelosnȧ
+tǧo	_	_	from, at	ADP	tǧo
+lon	_	_	and, but	CCONJ	lon
+duȧrisana	du-	Aspect=Imp|Number=Plur|Person=3|Tense=Past	быть, пребывать	VERB	duȧrisana
+kura	kur-	Subordinative=Yes|VerbForm=Conv	be willing, be glad	VERB	kura
+kapen	kap-	Subordinative=Yes|VerbForm=Conv	eat	VERB	kapen
+kipsil	kap-	Tense=Past|VerbForm=Part	есть	VERB	kipsil
+ȧlexandre-n	_	Case=Gen|Number=Sing	Александрия	NOUN	ȧlexandren
+īr	īr	Case=Nom|Number=Sing|Person=2|PronType=Prs	thou	PRON	īr
+iddal	ir	Case=Com|Number=Sing|Person=2|PronType=Prs	ты	PRON	iddal
+trapisildo	trapis	Case=Sup|Definite=Def|Number=Sing	table	NOUN	trapisildo
+denǧikan	den-	Mood=Cnd|Number=Sing|Number[obj]=Plur|Person=3|Subordinative=Yes	give (to me or us)	VERB	denǧikan
+etanna	et-	Number=Sing|Person=3|Tense=Fut	take, receive	VERB	etanna
+koǧra	koǧir	Case=Acc|Number=Sing	seed	NOUN	koǧra
+pauka	_	_	until	ADP	pauka
+mina	mina	_	Мина	NOUN	mina
+in'	in	_	этот	DET	in'
+tukren	tukr-	Subordinative=Yes|VerbForm=Conv	готовиться (?), выходить (?)	VERB	tukren
+kipta	kipt(i)	Case=Abs|Number=Sing	народ, люди	NOUN	kipta
+ikka	ir	Case=Acc|Number=Sing|Person=2|PronType=Prs	ты	PRON	ikka
+manka	man	Case=Acc|PronType=Dem	that	PRON	manka
+kī	ki-	VerbForm=Conv	come	VERB	kī
+pelire	pelir-	Mood=Imp|Number=Sing|Person=2	помещать, сажать, класть	VERB	pelire
+orpē	orpa	_	wine (?)	NOUN	orpē

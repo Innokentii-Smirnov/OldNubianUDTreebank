@@ -15,15 +15,15 @@ args = parser.parse_args()
 assert path.exists(args.infile)
 reader = Conllu(files=[args.infile])
 document = reader.read_documents()[0]
-morphosyntactic_words = list[MorphosyntacticWord]()
+morphosyntactic_words = set[MorphosyntacticWord]()
 for node in chain.from_iterable(tree.descendants for tree in document.trees):
   morphosyntactic_word = MorphosyntacticWord(node.form,
                                              node.lemma,
                                              node.upos,
-                                             node.feats,
+                                             str(node.feats),
                                              node.gloss,
                                              node.misc['MSeg'] or node.form)
-  morphosyntactic_words.append(morphosyntactic_word)
+  morphosyntactic_words.add(morphosyntactic_word)
 df = pd.DataFrame(morphosyntactic_words)
 df.to_csv(args.outfile, index=False, sep='\t',
           columns=['MSeg', 'lemma', 'feats', 'gloss', 'upos', 'form'])
