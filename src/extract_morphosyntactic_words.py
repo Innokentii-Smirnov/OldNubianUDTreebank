@@ -25,5 +25,6 @@ for node in chain.from_iterable(tree.descendants for tree in document.trees):
                                              node.misc['MSeg'] or node.form)
   morphosyntactic_words.add(morphosyntactic_word)
 df = pd.DataFrame(morphosyntactic_words)
+df.sort_values(['form', 'lemma', 'upos', 'feats', 'gloss'], inplace=True)
 df.to_csv(args.outfile, index=False, sep='\t',
           columns=['MSeg', 'lemma', 'feats', 'gloss', 'upos', 'form'])
