@@ -9,7 +9,7 @@
 5	mina	mina	NOUN	_	_	3	appos	_	Gloss=Мина|MSeg=mina
 6	na	_	ADP	_	_	3	case	_	MSeg=na
 7-8	awsa-lo	_	_	_	_	_	_	_	_
-7	awsa	aw-	VERB	_	Case=Abs|Number=Sing|Tense=Past|VerbForm=Part	1	acl:relcl	_	Gloss=делать|MSeg=awsa
+7	awsa	aw-	VERB	_	Case=Abs|Number=Sing|Tense=Past|VerbForm=Part	1	acl:relcl	_	Gloss=делать|MSeg=aw-s-a
 8	lo	_	PART	_	_	1	advmod	_	MSeg=lo
 9	tillin	till(i)	NOUN	_	Case=Gen|Number=Sing	10	nmod	_	Gloss=бог|MSeg=tilli-n
 10	tokinnawėlo	tokinnawė	NOUN	_	Case=Loc|Number=Sing	11	obl	_	Gloss=мир, милость|MSeg=tokinnawė-lo
@@ -306,7 +306,7 @@
 5	lon	_	PART	_	_	4	mark	_	Gloss=а, и, но|MSeg=lon
 6	aydal	ay	PRON	_	Case=Com|Number=Sing|Person=1|PronType=Prs	4	iobj	_	Gloss=я|MSeg=ay-dal
 7	untik'	unt(i)	NOUN	_	Case=Acc|Number=Sing	8	obj	_	Gloss=любовь, милость|MSeg=unti-k'
-8	awȧ	aw-	VERB	_	VerbForm=Conv	12	advcl	_	Gloss=делать|MSeg=awȧ
+8	awȧ	aw-	VERB	_	VerbForm=Conv	12	advcl	_	Gloss=делать|MSeg=aw-ȧ
 9	philoxenitigille	philoxeniti	NOUN	_	Case=Dat|Number=Sing	12	obl	_	Gloss=Филоксенита|MSeg=philoxeniti-gille
 10	ayik'	ay	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	obj	_	Gloss=я|MSeg=ayi-k'
 11	eddal	ir	PRON	_	Case=Com|Number=Sing|Person=2|PronType=Prs	12	obl	_	Gloss=ты|MSeg=ed-dal
@@ -1688,7 +1688,7 @@
 6	tiǧǧo	tir-	VERB	_	Number[obj]=Plur|Tense=Pqp|VerbForm=PART	3	acl	_	Gloss=give (to you or them)|MSeg=tiǧ-ǧ-o
 7	do	_	ADP	_	_	3	case	_	MSeg=do
 8	min	_	PRON	_	Case=Nom|PronType=Int	9	nsubj	_	Gloss=what|MSeg=min
-9	awtakaraȧ	aw-	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Pass	1	ccomp	_	Gloss=do, make; passive become, happen|MSeg=awtakaraȧ
+9	awtakaraȧ	aw-	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Pass	1	ccomp	_	Gloss=do, make; passive become, happen|MSeg=aw-tak-ara-ȧ
 10	koreka	kore	NOUN	_	Case=Acc|Number=Sing	11	obj	_	Gloss=feast, sacrament|MSeg=koreka
 11	eta	et-	VERB	_	VerbForm=Conv	15	advcl	_	Gloss=take, receive|MSeg=et-a
 12	kisseka	kisse	NOUN	_	Case=Acc|Number=Sing	15	obj	_	Gloss=church|MSeg=kisse-ka
@@ -1834,7 +1834,7 @@
 5	psalēmenen	psall-	VERB	_	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	10	advcl	_	Gloss=chant|MSeg=psalē-men-en
 6	tillu	till	NOUN	_	Case=Acc|Number=Sing	10	obj	_	Gloss=God|MSeg=tillu
 7	takka	tar	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=he|MSeg=ta-kka
-8	awol	aw-	VERB	_	Tense=Pqp|VerbForm=Part	6	acl	_	Gloss=do, make|MSeg=awol
+8	awol	aw-	VERB	_	Tense=Pqp|VerbForm=Part	6	acl	_	Gloss=do, make|MSeg=aw-o-l
 9	ka	_	ADP	_	Case=Acc	6	case	_	MSeg=ka
 10	ȧīra	aīr-	VERB	_	Aspect=ImpVerbForm=Conv	0	root	_	Gloss=insult|MSeg=ȧīr-a
 11	lo	_	PART	_	_	10	advmod	_	MSeg=lo
@@ -2218,5 +2218,5 @@
 4	murtat	murt-	VERB	_	VerbForm=Conv	7	advcl	_	Gloss=warn|MSeg=murtat
 5	esin	_	CCONJ	_	_	7	cc	_	MSeg=esin
 6	kellika	kell	NOUN	_	Case=Acc|Number=Sing	7	obj	_	Gloss=likeness|MSeg=kellika
-7	awȧ	aw-	VERB	_	VerbForm=Conv	0	root	_	Gloss=do, make|MSeg=awȧ
+7	awȧ	aw-	VERB	_	VerbForm=Conv	0	root	_	Gloss=do, make|MSeg=aw-ȧ
 

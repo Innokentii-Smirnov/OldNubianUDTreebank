@@ -50,17 +50,17 @@ aw-ǧil-gu-ka	aw-	Case=Acc|Number=Plur|VerbForm=Part	делать	VERB	awǧilg
 awi-k	aw(i)	Case=Acc|Number=Sing	лодка, корабль	NOUN	awik
 awir	awir-	Case=Loc|Number=Sing	крыло	NOUN	awir
 awlos-e	awlos-	Mood=Imp|Number=Sing|Person=2	спасать	VERB	awlose
-awol	aw-	Tense=Pqp|VerbForm=Part	do, make	VERB	awol
-awsa	aw-	Case=Abs|Number=Sing|Tense=Past|VerbForm=Part	делать	VERB	awsa
-awtakaraȧ	aw-	Aspect=Imp|VerbForm=Conv|Voice=Pass	do, make; passive become, happen	VERB	awtakaraȧ
+aw-o-l	aw-	Tense=Pqp|VerbForm=Part	do, make	VERB	awol
+aw-s-a	aw-	Case=Abs|Number=Sing|Tense=Past|VerbForm=Part	делать	VERB	awsa
+aw-tak-ara-ȧ	aw-	Aspect=Imp|VerbForm=Conv|Voice=Pass	do, make; passive become, happen	VERB	awtakaraȧ
 aw-tak-ko-n	aw-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes|Voice=Pass	do, make	VERB	awtakkon
 aw-tak-o-n	aw-	Number=Plur|Person=3|Subordinative=Yes|Tense=Pqp	делать; пасс. случаться, происходить	VERB	awtakon
 awu-ǧ-ana	awu-	Mood=Imp|Number=Plur|Number[obj]=Plur|Person=2	do, make	VERB	awuǧana
 awu-ǧu-ka	awu-	Case=Acc|Number=Sing|Number[obj]=Plur|VerbForm=Part	do, make	VERB	awuǧuka
 awu-l-gu-l	awu-	Definite=Def|Number=Plur|VerbForm=Part	do, make	VERB	awulgul
 awė-s-i	aw-	Case=Loc|Number=Sing|Person=1|Subordinative=Yes|Tense=Past	делать	VERB	awėsi
-awȧ	aw-	VerbForm=Conv	do, make	VERB	awȧ
-awȧ	aw-	VerbForm=Conv	делать	VERB	awȧ
+aw-ȧ	aw-	VerbForm=Conv	do, make	VERB	awȧ
+aw-ȧ	aw-	VerbForm=Conv	делать	VERB	awȧ
 ay	ay	Case=Nom|Number=Sing|Person=1|PronType=Prs	я	PRON	ay
 ay-dal	ay	Case=Com|Number=Sing|Person=1|PronType=Prs	я	PRON	aydal
 ay-gil	ay	Case=Dat|Number=Sing|Person=1|PronType=Prs	я	PRON	aygil
