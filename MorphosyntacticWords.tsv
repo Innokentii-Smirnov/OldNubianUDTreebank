@@ -285,46 +285,46 @@ ittu	itt	Case=Nom|Number=Sing	женщина	NOUN	ittu
 itu	it	Case=Nom|Number=Sing	man	NOUN	itu
 iėreȯsil	iėreȯs	Case=Nom|Definite=Def|Number=Sing	priest	NOUN	iėreȯsil
 iėreȯsilo	iėreȯs	Case=Loc|Number=Sing	priest	NOUN	iėreȯsilo
-iȧ	iȧ-	VerbForm=Conv	знать	VERB	iȧ
+i-ȧ	iȧ-	VerbForm=Conv	знать	VERB	iȧ
 ka	_	Case=Acc		ADP	ka
 ka	_	_		ADP	ka
 ka'	_	_		ADP	ka'
 kaka	kak-	VerbForm=Conv	[приносить]	VERB	kaka
-kakikka	kak	Case=Acc|Definite=Def|Number=Sing	приплод, плод	NOUN	kakikka
+kak-ik-ka	kak	Case=Acc|Definite=Def|Number=Sing	приплод, плод	NOUN	kakikka
 kak-il	kak	Case=Acc|Definite=Def|Number=Sing	приплод, плод	NOUN	kakil
-kanna	kann-	VerbForm=Conv	bring (???)	VERB	kanna
-kannol	kann-	Tense=Pqp|VerbForm=Part	bring (???)	VERB	kannol
-kapa	kap-	VerbForm=Conv	eat	VERB	kapa
-kapa	kap-	VerbForm=Conv	есть	VERB	kapa
-kapaka	kapa	Case=Acc|Number=Sing	food	NOUN	kapaka
-kapen	kap-	Subordinative=Yes|VerbForm=Conv	eat	VERB	kapen
-kapildal	kap-	Case=Com|Number=Sing|VerbForm=Part	eat	VERB	kapildal
+kann-a	kann-	VerbForm=Conv	bring (???)	VERB	kanna
+kann-o-l	kann-	Tense=Pqp|VerbForm=Part	bring (???)	VERB	kannol
+kap-a	kap-	VerbForm=Conv	eat	VERB	kapa
+kap-a	kap-	VerbForm=Conv	есть	VERB	kapa
+kapa-ka	kapa	Case=Acc|Number=Sing	food	NOUN	kapaka
+kap-en	kap-	Subordinative=Yes|VerbForm=Conv	eat	VERB	kapen
+kap-il-dal	kap-	Case=Com|Number=Sing|VerbForm=Part	eat	VERB	kapildal
 kapkoï	kap-	Mood=Cnd|Number=Sing|Person=1|Subordinative=Yes	есть	VERB	kapkoï
 kappa	kappa	Case=Ine	пища, еда, провиант	NOUN	kappa
 kappa	kappa	Case=Ine|Number=Sing	пища, еда, провиант	NOUN	kappa
-kappan	kappa-	Subordinative=Yes|VerbForm=Conv	eat	VERB	kappan
+kappa-n	kappa-	Subordinative=Yes|VerbForm=Conv	eat	VERB	kappan
 kapsǧraa	kap-	Aspect=Imp|Number[obj]=Plur|VerbForm=Conv	eat	VERB	kapsǧraa
-kaskaseldo	kaskase	Case=Sup|Definite=Def|Number=Sing	кропильница	NOUN	kaskaseldo
+kaskase-l-do	kaskase	Case=Sup|Definite=Def|Number=Sing	кропильница	NOUN	kaskaseldo
 kasso	_	_	?	X	kasso
 ke	_	_		CCONJ	ke
 ke	_	Person=2|Number=Plur		PART	ke
 ke	_	_		PART	ke
 ke	ki-	Mood=Imp|Number=Sing|Person=2	come	VERB	ke
-keda	ked-	VerbForm=Conv	подниматься	VERB	keda
+ked-a	ked-	VerbForm=Conv	подниматься	VERB	keda
 kel	_	_		CCONJ	kel
-kelkinnan	kelkinn-	Number=Plur|Person=3|Subordinative=Yes|Tense=Pres	[обратиться?]	VERB	kelkinnan
-kelkinnanen	kelkinnan-	Subordinative=Yes|VerbForm=Conv	?	VERB	kelkinnanen
-kellika	kell	Case=Acc|Number=Sing	likeness	NOUN	kellika
+kelkinn-an	kelkinn-	Number=Plur|Person=3|Subordinative=Yes|Tense=Pres	[обратиться?]	VERB	kelkinnan
+kelkinnan-en	kelkinnan-	Subordinative=Yes|VerbForm=Conv	?	VERB	kelkinnanen
+kell-ika	kell	Case=Acc|Number=Sing	likeness	NOUN	kellika
 kello	_	_	как, подобно	ADV	kello
 kello	_	_		CCONJ	kello
 kello	_	_	как, подобно	SCONJ	kello
 kena	ken-	VerbForm=Conv	нести, приносить	VERB	kena
-kenduk'arril	kenduk-	Tense=Fut|VerbForm=Part	приносить, относить, жертвовать	VERB	kenduk'arril
-kenduken	kenduk-	Subordinative=Yes|VerbForm=Conv	bring, offer	VERB	kenduken
-kendukken	kenduk-	Subordinative=Yes|VerbForm=Conv	bring, offer	VERB	kendukken
+kenduk'-arr-il	kenduk-	Tense=Fut|VerbForm=Part	приносить, относить, жертвовать	VERB	kenduk'arril
+kenduk-en	kenduk-	Subordinative=Yes|VerbForm=Conv	bring, offer	VERB	kenduken
+kendukk-en	kenduk-	Subordinative=Yes|VerbForm=Conv	bring, offer	VERB	kendukken
 kendukkikan	kenduk-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	bring, offer	VERB	kendukkikan
 kenǧran	ken-	Aspect=Imp|Number=Plur|Number[obj]=Plur|Person=3|Subordinative=Yes|Tense=Pres	carry, place	VERB	kenǧran
-kentron	kent(i)r-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	приносить	VERB	kentron
+kentr-o-n	kent(i)r-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	приносить	VERB	kentron
 kenȯossana	kenȯos-	Number=Plur|Person=3|Tense=Past	выносить	VERB	kenȯossana
 keta	ket	Case=Abs|Number=Sing	?	NOUN	keta
 ketal	_	_	тоже, также	PART	ketal
@@ -383,7 +383,7 @@ kokīra	kokīr-	VerbForm=Conv	purify	VERB	kokīra
 kolatra	kolatr-	VerbForm=Conv	be like (???)	VERB	kolatra
 kolo	kol-	Tense=Pqp|VerbForm=Conv	?	VERB	kolo
 konam	kon-	Mood=Imp|Number=Plur|Person=1	have	VERB	konam
-kon-men-na	ko-	Number=Sing|Person=3|Polarity=Neg|Tense=Past	иметь, обладать	VERB	konmenna
+kon-men-na	ko-	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	иметь, обладать	VERB	konmenna
 kono	_	_	после	ADP	kono
 kontonta	_	Case=Abs|Number=Sing	?	ADJ	kontonta
 koraka	kora	Case=Acc|Number=Sing	?	NOUN	koraka
@@ -396,8 +396,8 @@ koreka	kore	Case=Acc|Number=Sing	feast, sacrament	NOUN	koreka
 koreka	kore-	Case=Acc|Number=Sing	feast, sacrament	NOUN	koreka
 koren	kore	Case=Gen|Number=Sing	feast, sacrament	NOUN	koren
 koīrra	koīrr-	Case=Abs|Number=Sing	possessor (???)	NOUN	koīrra
-koȧ	ko-	VerbForm=Conv	have	VERB	koȧ
-koȧ	ko-	VerbForm=Conv	иметь, обладать	VERB	koȧ
+ko-ȧ	ko-	VerbForm=Conv	have	VERB	koȧ
+ko-ȧ	ko-	VerbForm=Conv	иметь, обладать	VERB	koȧ
 kuǧǧra	kuǧǧ-	Aspect=Imp|VerbForm=Conv	enter, creep in (?)	VERB	kuǧǧra
 kumminna	kun-	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	have	VERB	kumminna
 kumpu	kumpu	Case=Acc|Number=Sing	яйцо	NOUN	kumpu
@@ -765,7 +765,7 @@ un-na	un-	Number=Sing|Person=3|Tense=Pres	love	VERB	unna
 unn-a	unna-	VerbForm=Conv	love	VERB	unna
 unna-d-imm-ana	unnu-	Mood=Sub|Number=Plur|Person=3|Tense=Fut	рожать	VERB	unnadimmana
 unna-r-a	unnu-	Aspect=Imp|Case=Abs|Number=Sing|VerbForm=Part	рождать	VERB	unnara
-unna-ra-men-na	unn-, unnu-	Number=Sing|Person=3|Polarity=Neg|Tense=Past	рожать	VERB	unnaramenna
+unna-ra-men-na	unn-, unnu-	Aspect=Imp|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	рожать	VERB	unnaramenna
 unnarrasi	unn-	Aspect=Imp|Tense=Past|VerbForm=Part	рожать	VERB	unnarrasi
 unna-s-in	unna-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	love	VERB	unnasin
 unnatik-ko-an	unnat(i)r-	Mood=Cnd|Number=Plur|Person=3|Subordinative=Yes	заставлять рожать	VERB	unnatikkoan
