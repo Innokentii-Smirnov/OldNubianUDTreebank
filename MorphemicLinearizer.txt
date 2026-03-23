@@ -1,4 +1,4 @@
-VERB	(<Aspect>-)(<Polarity>-)<Tense>-(<Mood>-)<Person><Number>(.<Subordinative>)
+VERB	(<Voice>-)(<Aspect>-)(<Polarity>-)<Tense>-(<Mood>-)<Person><Number>(.<Subordinative>)
 VERB	(<Aspect>-)(<Polarity>-)<Mood>-<Person><Number>(.<Subordinative>)
 VERB	<Number[obj]><Tense>-<Person><Number>>
 VERB	(<Voice>-)(<Aspect>-)(<Number[obj]>.O-)(<Tense>-)<VerbForm>((-<Number>)-<Case>)

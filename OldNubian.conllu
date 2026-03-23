@@ -182,7 +182,7 @@
 2	die	diy	ADJ	_	_	1	amod	_	Gloss=многий, многочисленный; много|MSeg=die
 3	lo	_	PART	_	_	1	advmod	_	MSeg=lo
 4-5	awtakon-non	_	_	_	_	_	_	_	_
-4	awtakon	aw-	VERB	_	Number=Plur|Person=3|Subordinative=Yes|Tense=Pqp	13	acl	_	Gloss=делать; пасс. случаться, происходить|MSeg=aw-tak-o-n
+4	awtakon	aw-	VERB	_	Number=Plur|Person=3|Subordinative=Yes|Tense=Pqp|Voice=Pass	13	acl	_	Gloss=делать; пасс. случаться, происходить|MSeg=aw-tak-o-n
 5	non	lon	CCONJ	_	_	13	cc	_	Gloss=а, и, но|MSeg=non
 6	dutrapigula	dutrap	NOUN	_	Case=Ine|Definite=Def|Number=Plur	7	obl	_	Gloss=курица|MSeg=dutrapi-gu-la
 7	wel	wel	PRON	_	Case=Nom|Number=Sing|PronType=Ind	13	nsubj	_	Gloss=один; некий|MSeg=wel
