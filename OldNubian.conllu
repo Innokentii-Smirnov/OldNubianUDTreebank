@@ -94,7 +94,7 @@
 4	iȧ	iȧ-	VERB	_	VerbForm=Conv	8	advcl	_	Gloss=знать|MSeg=i-ȧ
 5	lon	_	CCONJ	_	_	4	cc	_	Gloss=а, и, но|MSeg=lon
 6	tan	tar	PRON	_	Case=Gen|Number=Sing|PronType=Prs	7	nmod	_	Gloss=он, она, оно|MSeg=ta-n
-7	aylla	ay	NOUN	_	Case=Ine|Definite=Def|Number=Sing	8	obl	_	Gloss=сердце, душа|MSeg=ay-lla
+7	aylla	ay	NOUN	_	Case=Ine|Definite=Def|Number=Sing	8	obl	_	Gloss=сердце, душа|MSeg=ay-l-la
 8	maïkarisna	maïk-	VERB	_	Aspect=Imp|Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=стыдиться|MSeg=maïk-ar-is-na
 
 # sent_id = 7
