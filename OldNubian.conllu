@@ -1266,9 +1266,9 @@
 6	kissela	kisse	NOUN	_	Case=Ine|Number=Sing	7	obl	_	Gloss=church|MSeg=kisse-la
 7	kendukken	kenduk-	VERB	_	Subordinative=Yes|VerbForm=Conv	16	advcl	_	Gloss=bring, offer|MSeg=kendukken
 8	orpa	orpa	NOUN	_	Case=Abs|Number=Sing	7	advcl	_	Gloss=wine|MSeg=orpa
-9	enkan	en-	AUX	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	8	cop	_	Gloss=be|MSeg=enkan
+9	enkan	en-	AUX	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	8	cop	_	Gloss=be|MSeg=en-ka-n
 10	īlle	īlle	NOUN	_	Case=Abs|Number=Sing	7	advcl	_	Gloss=wheat|MSeg=īlle
-11	enkan	en-	AUX	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	10	cop	_	Gloss=be|MSeg=enkan
+11	enkan	en-	AUX	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	10	cop	_	Gloss=be|MSeg=en-ka-n
 12	iėreȯsil	iėreȯs	NOUN	_	Case=Nom|Definite=Def|Number=Sing	16	nsubj	_	Gloss=priest|MSeg=iėreȯsil
 13	lon	_	CCONJ	_	_	16	cc	_	Gloss=and, but|MSeg=lon
 14	wekka	wel	PRON	_	Case=Acc|Number=Sing|PronType=Dem	16	iobj	_	Gloss=one|MSeg=wek-ka
@@ -1365,12 +1365,12 @@
 9	kissela	kisse	NOUN	_	Case=Ine|Number=Sing	10	obl	_	Gloss=church|MSeg=kisse-la
 10	kenduken	kenduk-	VERB	_	Subordinative=Yes|VerbForm=Conv	30	advcl	_	Gloss=bring, offer|MSeg=kenduken
 11	orpa	orpa	NOUN	_	Case=Acc|Number=Sing	10	advcl	_	Gloss=wine|MSeg=orpa
-12	enkan	en-	AUX	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	11	cop	_	Gloss=be|MSeg=enkan
+12	enkan	en-	AUX	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	11	cop	_	Gloss=be|MSeg=en-ka-n
 13	īlle	īlle	NOUN	_	Case=Acc|Number=Sing	10	advcl	_	Gloss=wheat|MSeg=īlle
-14	enkan	en-	AUX	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	13	cop	_	Gloss=be|MSeg=enkan
+14	enkan	en-	AUX	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	13	cop	_	Gloss=be|MSeg=en-ka-n
 15	parren	parre	NOUN	_	Case=Gen|Number=Sing	16	nmod	_	Gloss=durra|MSeg=parre-n
 16	koǧra	koǧir	NOUN	_	Case=Acc|Number=Sing	10	advcl	_	Gloss=seed|MSeg=koǧra
-17	enkan	en-	AUX	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	16	cop	_	Gloss=be|MSeg=enkan
+17	enkan	en-	AUX	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	16	cop	_	Gloss=be|MSeg=en-ka-n
 18	pirgne	pirgne	NOUN	_	Case=Loc|Number=Sing	10	advcl	_	Gloss=herbs|MSeg=pirgne
 19	dessi	dessi	ADJ	_	_	18	amod	_	Gloss=green, blue (M. K. D.)|MSeg=dessi
 20	lo	_	ADP	_	_	18	case	_	MSeg=lo
@@ -1383,7 +1383,7 @@
 27	aīllo	aī	NOUN	_	Case=Loc|Definite=Def|Number=Sing	28	obl	_	Gloss=heart|MSeg=aī-l-lo
 28	kura	kur-	VERB	_	Subordinative=Yes|VerbForm=Conv	30	advcl	_	Gloss=be willing, be glad|MSeg=kura
 29	lo	_	PART	_	_	28	advmod	_	MSeg=lo
-30	etanna	et-	VERB	_	Number=Sing|Person=3|Tense=Fut	0	root	_	Gloss=take, receive|MSeg=etanna
+30	etanna	et-	VERB	_	Number=Sing|Person=3|Tense=Fut	0	root	_	Gloss=take, receive|MSeg=etan-na
 31	tan	tar	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	32	nmod	_	Gloss=he|MSeg=ta-n
 32	aggelosu	aggelos	NOUN	_	Case=Loc|Number=Sing	30	obl	_	Gloss=angel|MSeg=aggelosu
 33	ṅissi	ṅiss	ADJ	_	_	32	amod	_	Gloss=holy|MSeg=ṅissi
@@ -1451,20 +1451,20 @@
 7	dulla	dul-	VERB	_	VerbForm=Conv	8	acl	_	Gloss=be, remain|MSeg=dull-a
 8	ṅadilgul	ṅad-	VERB	_	Case=Nom|Definite=Def|Number=Plur|VerbForm=Part	4	acl	_	Gloss=fall (M.)|MSeg=ṅadilgul
 9	mīǧragu	mīǧr	ADJ	_	Case=Nom|Number=Plur	0	root	_	Gloss=covetous (?)|MSeg=mīǧra-gu
-10	endimmana	īn-	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Fut	9	cop	_	Gloss=to be|MSeg=endimmana
+10	endimmana	īn-	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Fut	9	cop	_	Gloss=to be|MSeg=en-d-imm-ana
 11	iskoēt	īskoēt	NOUN	_	Case=Nom|Number=Sing	9	conj	_	Gloss=?|MSeg=iskoēt
 12	kin̂	_	ADP	_	_	11	case	_	Gloss=without|MSeg=kin̂
-13	endimna	īn-	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut	11	cop	_	Gloss=to be|MSeg=endimna
+13	endimna	īn-	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut	11	cop	_	Gloss=to be|MSeg=en-d-im-na
 14	kontonta	_	ADJ	_	Case=Abs|Number=Sing	9	conj	_	Gloss=?|MSeg=kontonta
-15	endimmana	īn-	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Fut	14	cop	_	Gloss=to be|MSeg=endimmana
+15	endimmana	īn-	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Fut	14	cop	_	Gloss=to be|MSeg=en-d-imm-ana
 16	īt	īt	NOUN	_	_	17	compound	_	Gloss=person|MSeg=īt
 17	mona	mon-	VERB	_	Case=Abs|Number=Sing|VerbForm=Part	9	conj	_	Gloss=hate, reject|MSeg=mon-a
-18	endimmana	īn-	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Fut	17	cop	_	Gloss=to be|MSeg=endimmana
+18	endimmana	īn-	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Fut	17	cop	_	Gloss=to be|MSeg=en-d-imm-ana
 19	madǧakaė	madǧa	ADJ	_	_	9	conj	_	Gloss=?|MSeg=madǧakaė
-20	endimmana	īn-	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Fut	19	cop	_	Gloss=to be|MSeg=endimmana
+20	endimmana	īn-	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Fut	19	cop	_	Gloss=to be|MSeg=en-d-imm-ana
 21	ïereȯsinka	iereȯsin	NOUN	_	Case=Acc|Number=Sing	22	obj	_	Gloss=priesthood|MSeg=ïereȯsin-ka
 22	miǧr	miǧr	ADJ	_	_	9	conj	_	Gloss=covetous|MSeg=miǧr
-23	endimmana	īn-	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Fut	22	cop	_	Gloss=to be|MSeg=endimmana
+23	endimmana	īn-	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Fut	22	cop	_	Gloss=to be|MSeg=en-d-imm-ana
 
 # sent_id = 79
 # text = īn keta malle on ontakraguė ke muntlo paǧana so untika konam sō tōkonnaweka duam sō tikkin non miǧirklo paǧana sō miǧirkil dīarka ṅegra ėnen-neǧun
@@ -1537,7 +1537,7 @@
 12	kolo	kol-	VERB	_	Tense=Pqp|VerbForm=Conv	15	advcl	_	Gloss=?|MSeg=kolo
 13	tan	tar	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	14	obj	_	Gloss=he|MSeg=ta-n
 14	praǧǧaragra	praǧǧ-	VERB	_	Aspect=Imp|VerbForm=Conv	15	advcl	_	Gloss=?|MSeg=praǧǧ-aragr-a
-15	en̂n̂anna	en̂n̂a	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	Gloss=?|MSeg=en̂n̂anna
+15	en̂n̂anna	en̂n̂a	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	Gloss=?|MSeg=en̂n̂an-na
 
 # sent_id = 83
 # text = ėl on makan unna aï īnna gir tidīkanelo paǧana sō unna miǧirkīlo paǧana so
@@ -1572,7 +1572,7 @@
 # text = koraka eten non īnna ȧīl de okannē-de-kekka kokīra koreka kīa īte so
 # translation = And when thou hast received the feast purify thy heart and voice and come and receive the feast.
 1	koraka	kora	NOUN	_	Case=Acc|Number=Sing	2	obj	_	Gloss=?|MSeg=koraka
-2	eten	et-	VERB	_	Subordinative=Yes|VerbForm=Conv	14	advcl	_	Gloss=take, receive|MSeg=eten
+2	eten	et-	VERB	_	Subordinative=Yes|VerbForm=Conv	14	advcl	_	Gloss=take, receive|MSeg=et-en
 3	non	_	CCONJ	_	_	14	cc	_	Gloss=and|MSeg=non
 4	īnna	īr	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Gloss=thou|MSeg=īn-na
 5	ȧīl	aī	NOUN	_	Case=Acc|Definite=Def|Number=Sing	11	obj	_	Gloss=|MSeg=ȧī-l
@@ -1690,7 +1690,7 @@
 8	min	_	PRON	_	Case=Nom|PronType=Int	9	nsubj	_	Gloss=what|MSeg=min
 9	awtakaraȧ	aw-	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Pass	1	ccomp	_	Gloss=do, make; passive become, happen|MSeg=awtakaraȧ
 10	koreka	kore	NOUN	_	Case=Acc|Number=Sing	11	obj	_	Gloss=feast, sacrament|MSeg=koreka
-11	eta	et-	VERB	_	VerbForm=Conv	15	advcl	_	Gloss=take, receive|MSeg=eta
+11	eta	et-	VERB	_	VerbForm=Conv	15	advcl	_	Gloss=take, receive|MSeg=et-a
 12	kisseka	kisse	NOUN	_	Case=Acc|Number=Sing	15	obj	_	Gloss=church|MSeg=kisse-ka
 13	morimīnil	mor-	VERB	_	Polarity=Neg|VerbForm=Part	15	advcl	_	Gloss=dismiss (?)|MSeg=mori-mīn-il
 14	pala	pal-	VERB	_	VerbForm=Conv	15	advcl	_	Gloss=come out|MSeg=pal-a
@@ -1748,7 +1748,7 @@
 1	ṅaliǧimme	ṅal-	VERB	_	Mood=Sub|Number=Sing|Number[obj]=Plur|Person=1	0	root	_	Gloss=see|MSeg=ṅal-iǧ-imm-e
 2	dīėguka	dīė	NOUN	_	Number=Plur|Case=Acc	1	obj	_	Gloss=many|MSeg=dīė-gu-ka
 3	korek	kore	NOUN	_	Case=Acc|Number=Sing	4	obj	_	Gloss=feast, sacrament|MSeg=korek
-4	eten	et-	VERB	_	Subordinative=Yes|VerbForm=Conv	7	advcl	_	Gloss=take, receive|MSeg=eten
+4	eten	et-	VERB	_	Subordinative=Yes|VerbForm=Conv	7	advcl	_	Gloss=take, receive|MSeg=et-en
 5	kissel	kisse	NOUN	_	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	Gloss=church|MSeg=kisse-l
 6	gallīminen	gall-	VERB	_	Subordinative=Yes|Polarity=Neg|VerbForm=Conv	7	advcl	_	Gloss=open|MSeg=gallī-min-en
 7	kīpran	kīp-	VERB	_	Aspect=Imp|Number=Plur|Person=3|Subordinative=Yes	1	xcomp	_	Gloss=eat|MSeg=kīp-r-an
@@ -1800,7 +1800,7 @@
 4	tdir	tir-	VERB	_	Case=Nom|Number=Sing|VerbForm=Part	12	nsubj	_	CorrectForm=tril|Gloss=give (to you or them)|MSeg=tdir
 5	kapa	kap-	VERB	_	VerbForm=Conv	7	advcl	_	Gloss=eat|MSeg=kapa
 6	koreka	kore	NOUN	_	Case=Acc|Number=Sing	7	obj	_	Gloss=feast, sacrament|MSeg=koreka
-7	eten	et-	VERB	_	Subordinative=Yes|VerbForm=Conv	12	advcl	_	Gloss=take, receive|MSeg=eten
+7	eten	et-	VERB	_	Subordinative=Yes|VerbForm=Conv	12	advcl	_	Gloss=take, receive|MSeg=et-en
 8	dīol	dīol	NOUN	_	_	9	compound	_	Gloss=dead|MSeg=dīol
 9	kapildal	kap-	VERB	_	Case=Com|Number=Sing|VerbForm=Part	12	obl	_	Gloss=eat|MSeg=kapildal
 10	lo	_	PART	_	_	9	advcl	_	MSeg=lo
@@ -2125,9 +2125,9 @@
 9	awtakkon	aw-	VERB	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes|Voice=Pass	28	advcl	_	Gloss=do, make|MSeg=aw-tak-ko-n
 10	ena	_	X	_	_	9	_	_	Gloss=?|MSeg=ena
 11	mē	_	AUX	_	_	9	cop	_	MSeg=mē
-12	enna	er	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	13	nmod	_	Gloss=we|MSeg=enna
+12	enna	er	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	13	nmod	_	Gloss=we|MSeg=en-na
 13	ṅodu	ṅod	NOUN	_	Case=Loc|Number=Sing	25	obl	_	Gloss=Lord|MSeg=ṅodu
-14	ennu	er	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	15	nmod	_	Gloss=we|MSeg=ennu
+14	ennu	er	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	15	nmod	_	Gloss=we|MSeg=en-nu
 15	ïisusi	_	PROPN	_	_	13	appos	_	Gloss=Jesus|MSeg=ïisusi
 16	khristos	_	PROPN	_	_	15	appos	_	Gloss=Christ|MSeg=khristos
 17	io	_	ADP	_	_	13	case	_	MSeg=io

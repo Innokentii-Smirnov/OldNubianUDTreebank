@@ -152,19 +152,19 @@ en'it-a	enit-	VerbForm=Conv	поднимать	VERB	en'ita
 ena	_	_	?	X	ena
 ende	_	_	без (того, чтобы)	CCONJ	ende
 ende	_	_	ни	CCONJ	ende
-endimmana	īn-	Mood=Sub|Number=Plur|Person=3|Tense=Fut	to be	VERB	endimmana
-endimna	īn-	Mood=Sub|Number=Sing|Person=3|Tense=Fut	to be	VERB	endimna
-enkan	en-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	be	AUX	enkan
-enna	er	Case=Gen|Number=Sing|Person=1|PronType=Prs	we	PRON	enna
-ennu	er	Case=Gen|Number=Sing|Person=1|PronType=Prs	we	PRON	ennu
+en-d-imm-ana	īn-	Mood=Sub|Number=Plur|Person=3|Tense=Fut	to be	VERB	endimmana
+en-d-im-na	īn-	Mood=Sub|Number=Sing|Person=3|Tense=Fut	to be	VERB	endimna
+en-ka-n	en-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	be	AUX	enkan
+en-na	er	Case=Gen|Number=Sing|Person=1|PronType=Prs	we	PRON	enna
+en-nu	er	Case=Gen|Number=Sing|Person=1|PronType=Prs	we	PRON	ennu
 en-o-na	en-	Number=Sing|Person=3|Tense=Pqp	быть	VERB	enona
 enėta	enit-	VerbForm=Conv	поднимать	VERB	enėta
-en̂n̂anna	en̂n̂a	Number=Sing|Person=3|Tense=Pres	?	VERB	en̂n̂anna
+en̂n̂an-na	en̂n̂a	Number=Sing|Person=3|Tense=Pres	?	VERB	en̂n̂anna
 esin	_	_		CCONJ	esin
 esin	_	_		SCONJ	esin
-eta	et-	VerbForm=Conv	take, receive	VERB	eta
-etanna	et-	Number=Sing|Person=3|Tense=Fut	take, receive	VERB	etanna
-eten	et-	Subordinative=Yes|VerbForm=Conv	take, receive	VERB	eten
+et-a	et-	VerbForm=Conv	take, receive	VERB	eta
+etan-na	et-	Number=Sing|Person=3|Tense=Fut	take, receive	VERB	etanna
+et-en	et-	Subordinative=Yes|VerbForm=Conv	take, receive	VERB	eten
 ettakra	et-	Aspect=Imp|VerbForm=Conv|Voice=Pass	take, receive	VERB	ettakra
 ettata	et-	Case=Abs|Number=Sing|VerbForm=Vnoun	take, receive	VERB	ettata
 etten	et-	Subordinative=Yes|VerbForm=Conv	take, receive	VERB	etten
