@@ -9,7 +9,7 @@ Case
 	Com
 	Abs
 Number
-	Sing	_
+	Sing	SG
 	Plur	PL
 Number[obj]
 Definite
