@@ -280,7 +280,7 @@
 # text = apoggil pesara ȧle-sin ṅodil ȧika mudwukon-no' philoxeniti-gillelo ǧure
 # translation = Корабельщик сказал: "Воистину, если господь сопутствует мне, я еду в Филоксениту".
 1	apoggil	agopp(i)	NOUN	_	Case=Dat|Definite=Def|Number=Sing	2	nsubj	_	Gloss=корабельщик, кормчий|MSeg=apoggi-l
-2	pesara	pes-	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Gloss=говорить|MSeg=pesara
+2	pesara	pes-	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Gloss=говорить|MSeg=pes-ar-a
 3-4	ȧle-sin	_	_	_	_	_	_	_	_
 3	ȧle	_	ADV	_	_	11	advmod	_	Gloss=воистину|MSeg=ȧle
 4	sin	_	SCONJ	_	_	7	mark	_	Gloss=ибо, ведь|MSeg=sin
@@ -290,7 +290,7 @@
 7	mudwukon	mudu-	VERB	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	11	advcl	_	Gloss=охранять, сопутствовать; позволять|MSeg=mudwukon
 8	lo	_	PART	_	Mood=Cnd	7	advmod	_	MSeg=lo
 9-10	philoxeniti-gillelo	_	_	_	_	_	_	_	_
-9	philoxenitigille	philoxeniti	NOUN	_	Case=Dat|Number=Sing	11	obl	_	Gloss=Филоксенита|MSeg=philoxenitigille
+9	philoxenitigille	philoxeniti	NOUN	_	Case=Dat|Number=Sing	11	obl	_	Gloss=Филоксенита|MSeg=philoxeniti-gille
 10	lo	_	PART	_	_	9	advmod	_	MSeg=lo
 11	ǧure	ǧu-	VERB	_	Number=Sing|Person=1|Tense=Fut	2	ccomp	_	Gloss=идти; ехать|MSeg=ǧure
 
@@ -307,7 +307,7 @@
 6	aydal	ay	PRON	_	Case=Com|Number=Sing|Person=1|PronType=Prs	4	iobj	_	Gloss=я|MSeg=ay-dal
 7	untik'	unt(i)	NOUN	_	Case=Acc|Number=Sing	8	obj	_	Gloss=любовь, милость|MSeg=untik'
 8	awȧ	aw-	VERB	_	VerbForm=Conv	12	advcl	_	Gloss=делать|MSeg=awȧ
-9	philoxenitigille	philoxeniti	NOUN	_	Case=Dat|Number=Sing	12	obl	_	Gloss=Филоксенита|MSeg=philoxenitigille
+9	philoxenitigille	philoxeniti	NOUN	_	Case=Dat|Number=Sing	12	obl	_	Gloss=Филоксенита|MSeg=philoxeniti-gille
 10	ayik'	ay	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	obj	_	Gloss=я|MSeg=ayi-k'
 11	eddal	ir	PRON	_	Case=Com|Number=Sing|Person=2|PronType=Prs	12	obl	_	Gloss=ты|MSeg=ed-dal
 12-13	koǧue-so	_	_	_	_	_	_	_	_
@@ -318,7 +318,7 @@
 # text = agoppil pesara manno minka dollina-i
 # translation = Корабельщик сказал: "Что тебе надо там?"
 1	agoppil	agopp(i)	NOUN	_	Case=Dat|Number=Sing	2	nsubj	_	Gloss=корабельщик, кормчий|MSeg=agopp-il
-2	pesara	pes-	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Gloss=говорить|MSeg=pesara
+2	pesara	pes-	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Gloss=говорить|MSeg=pes-ar-a
 3	manno	man	PRON	_	Case=Loc|Number=Sing|PronType=Dem	5	obl	_	Gloss=тот, та, то|MSeg=man-no
 4	minka	min	PRON	_	Case=Acc|Number=Sing|PronType=Int	5	obj	_	Gloss=что|MSeg=minka
 5-6	dollina-i	_	_	_	_	_	_	_	_
@@ -329,7 +329,7 @@
 # text = ittil pesara ṅiss-u-minan kissegille-lo ǧure
 # translation = Женщина сказала: "Я еду в церковь св. Мины".
 1	ittil	itt	NOUN	_	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	Gloss=женщина|MSeg=itti-l
-2	pesara	pes-	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Gloss=говорить|MSeg=pesara
+2	pesara	pes-	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Gloss=говорить|MSeg=pes-ar-a
 3-4	ṅiss-u-minan	_	_	_	_	_	_	_	_
 3	ṅissu	ṅiss	NOUN	_	_	4	appos	_	Gloss=святой|MSeg=ṅissu
 4	minan	mina	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	Gloss=св. Мина|MSeg=minan
@@ -359,7 +359,7 @@
 # text = ittil pesara in-kumpuka-lo man-kissela kenduk'arril-le ṅiss-i-minan tillil itkin koǧirka ayka denkon-no-ȧ
 # translation = Женщина сказала: "Я отнесу в ту церковь это яйцо, чтобы бог св. Мины дал мне плодородие (или: зачатие, плод)".
 1	ittil	itt	NOUN	_	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	Gloss=женщина|MSeg=itti-l
-2	pesara	pes-	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Gloss=говорить|MSeg=pesara
+2	pesara	pes-	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Gloss=говорить|MSeg=pes-ar-a
 3-5	in-kumpuka-lo	_	_	_	_	_	_	_	_
 3	in	in	DET	_	_	4	det	_	Gloss=этот|MSeg=in
 4	kumpuka	kumpu	NOUN	_	Case=Acc|Number=Sing	8	obj	_	Gloss=яйцо|MSeg=kumpu-ka
@@ -398,7 +398,7 @@
 # text = apoggil pesara itta id-de aēttakatame
 # translation = Корабельщик сказал: "Женщина, не беспокойся!"
 1	apoggil	agopp(i)	NOUN	_	Case=Dat|Definite=Def|Number=Sing	2	nsubj	_	Gloss=корабельщик, кормчий|MSeg=apoggi-l
-2	pesara	pes-	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Gloss=говорить|MSeg=pesara
+2	pesara	pes-	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Gloss=говорить|MSeg=pes-ar-a
 3	itta	itt	NOUN	_	Case=Abs|Number=Sing	6	vocative	_	Gloss=женщина|MSeg=itta
 4-5	id-de	_	_	_	_	_	_	_	_
 4	ir	ir	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Gloss=ты|MSeg=ir
@@ -425,7 +425,7 @@
 # translation = "Ибо я сам отвезу его."
 1	ay	ay	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=я|MSeg=ay
 2	sin	_	SCONJ	_	_	3	mark	_	Gloss=ибо, ведь|MSeg=sin
-3	penutuddre	penutir-	VERB	_	Number=Sing|Person=1|Tense=Fut	0	root	_	Gloss=относить, отвозить|MSeg=penutuddre
+3	penutuddre	penutir-	VERB	_	Number=Sing|Person=1|Tense=Fut	0	root	_	Gloss=относить, отвозить|MSeg=penutuddr-e
 4	sin	_	SCONJ	_	_	3	mark	_	Gloss=ибо, ведь|MSeg=sin
 
 # sent_id = 25
@@ -486,7 +486,7 @@
 9	sewė	sew(i)	DET	_	_	8	det	_	Gloss=другой, прочий|MSeg=sewė
 10	la	_	ADP	_	_	8	case	_	MSeg=la
 11	uskursna	usk(u)r-	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=класть|MSeg=uskursna
-12	philoxenitiȯ	philoxeniti	NOUN	_	Case=Loc|Number=Sing	13	obl	_	Gloss=Филоксенита|MSeg=philoxenitiȯ
+12	philoxenitiȯ	philoxeniti	NOUN	_	Case=Loc|Number=Sing	13	obl	_	Gloss=Филоксенита|MSeg=philoxeniti-ȯ
 13-14	kien-pawka	_	_	_	_	_	_	_	_
 13	kien	kie	NOUN	_	Case=Gen|Number=Sing	11	obl	_	Gloss=приход|MSeg=kien
 14	pawka	_	ADP	_	_	13	case	_	Gloss=до, пока не|MSeg=pawka
@@ -502,7 +502,7 @@
 4	ṅoka	ṅok-	VERB	_	VerbForm=Conv	5	advcl	_	Gloss=проходить|MSeg=ṅoka
 5	ǧoruan	ǧu-	VERB	_	Number=Plur|Person=3|Subordinative=Yes|Tense=Pres	9	advcl	_	Gloss=идти; ехать|MSeg=ǧoruan
 6	lon	_	SCONJ	_	_	9	cc	_	Gloss=а, и, но|MSeg=lon
-7	philoxenitin	philoxeniti	NOUN	_	Case=Gen|Number=Sing	8	nmod	_	Gloss=Филоксенита|MSeg=philoxenitin
+7	philoxenitin	philoxeniti	NOUN	_	Case=Gen|Number=Sing	8	nmod	_	Gloss=Филоксенита|MSeg=philoxeniti-n
 8	gaaddo	gaar	NOUN	_	Case=Sup|Number=Sing	9	obl	_	Gloss=сторона, берег|MSeg=gaaddo
 9	kisna	ki-	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=приходить|MSeg=ki-s-na
 
@@ -593,7 +593,7 @@
 # sent_id = 34
 # text = papil lon pessna totigille ė ȧlelo tak' aygil tok'-arre so kapkoï-o-a
 # translation = А отец сказал сыну: "А, верно. Свари его и принеси мне, чтобы я поел".
-1	papil	pap	NOUN	_	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	Gloss=отец|MSeg=papil
+1	papil	pap	NOUN	_	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	Gloss=отец|MSeg=papi-l
 2	lon	_	CCONJ	_	_	3	cc	_	Gloss=а, и, но|MSeg=lon
 3	pessna	pes-	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=говорить|MSeg=pes-s-na
 4	totigille	tot	NOUN	_	Case=Dat|Number=Sing	3	iobj	_	Gloss=сын, дитя|MSeg=totigille
@@ -730,7 +730,7 @@
 5	ṅissu	ṅiss(i)	NOUN	_	Case=Acc	9	obj	_	Gloss=святой|MSeg=ṅissu
 6	mina	mina	NOUN	_	_	5	appos	_	Gloss=Мина|MSeg=mina
 7	ka	_	ADP	_	_	5	case	_	Gloss=|MSeg=ka
-8	pilaallo	pilaal	NOUN	_	Case=Loc|Number=Sing	5	obl	_	Gloss=сияние (?); явь (?)|MSeg=pilaallo
+8	pilaallo	pilaal	NOUN	_	Case=Loc|Number=Sing	5	obl	_	Gloss=сияние (?); явь (?)|MSeg=pilaal-lo
 9	ṅilsna	ṅil-	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=видеть|MSeg=ṅilsna
 10-12	murt-u-ṅuluka'	_	_	_	_	_	_	_	_
 10	murtu	murt(i)	NOUN	_	Case=Acc|Number=Sing	13	obj	_	Gloss=лошадь|MSeg=murtu
@@ -839,7 +839,7 @@
 17	tawȯ	_	ADP	_	_	16	case	_	Gloss=под|MSeg=tawȯ
 18	ketal	_	PART	_	_	19	advmod	_	Gloss=тоже, также|MSeg=ketal
 19	sukka	sukk-	VERB	_	VerbForm=Conv	20	advcl	_	Gloss=выходить|MSeg=sukk-a
-20	pala	pal-	VERB	_	VerbForm=Conv	21	advcl	_	Gloss=выходить|MSeg=pala
+20	pala	pal-	VERB	_	VerbForm=Conv	21	advcl	_	Gloss=выходить|MSeg=pal-a
 21	kutta	kutt-	VERB	_	VerbForm=Conv	22	advcl	_	Gloss=встать|MSeg=kutta
 22	ṅonǧa	ṅonǧ-	VERB	_	VerbForm=Conv	24	advcl	_	Gloss=стоять|MSeg=ṅonǧa
 23	tuskono	_	ADV	_	_	24	advmod	_	Gloss=сразу|MSeg=tuskono
@@ -924,7 +924,7 @@
 5	in	ir	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	6	nmod	_	Gloss=ты|MSeg=in
 6	dutrapigulo	dutrap	NOUN	_	Case=Loc|Number=Plur	7	obl	_	Gloss=курица|MSeg=dutrapi-gu-lo
 7-8	pelire-so	_	_	_	_	_	_	_	_
-7	pelire	pelir-	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	Gloss=помещать, сажать, класть|MSeg=pelire
+7	pelire	pelir-	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	Gloss=помещать, сажать, класть|MSeg=pelir-e
 8	so	_	PART	_	Mood=Imp	7	advcl	_	MSeg=so
 9	ikka	ir	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	10	obj	_	Gloss=ты|MSeg=ikka
 10-12	unnatikkoan-no-ȧ	_	_	_	_	_	_	_	_
@@ -983,7 +983,7 @@
 # translation = И сказав этой, святой сразу исчез.
 1	inka	in	PRON	_	Case=Acc|PronType=Dem	2	obj	_	Gloss=это|MSeg=inka
 2-4	pesa-toka-yon	_	_	_	_	_	_	_	_
-2	pesa	pes-	VERB	_	VerbForm=Conv	3	advcl	_	Gloss=говорить|MSeg=pesa
+2	pesa	pes-	VERB	_	VerbForm=Conv	3	advcl	_	Gloss=говорить|MSeg=pes-a
 3	toka	tok-	VERB	_	VerbForm=Conv	9	advcl	_	Gloss=прекратить (?)|MSeg=toka
 4	lon	_	CCONJ	_	_	9	cc	_	Gloss=а, и, но|MSeg=lon
 5-6	dumak-kono	_	_	_	_	_	_	_	Gloss=сразу
@@ -1003,7 +1003,7 @@
 4	dumėta	dum'it-	VERB	_	VerbForm=Conv	7	advcl	_	Gloss=брать|MSeg=dumėta
 5	tan	tar	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	nmod	_	Gloss=он, она, оно|MSeg=tan
 6	dutrapigulo	dutrap	NOUN	_	Case=Loc|Definite=Def|Number=Plur	7	obl	_	Gloss=курица|MSeg=dutrapi-gu-lo
-7	peliron	pelir-	VERB	_	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	11	advcl	_	Gloss=помещать, сажать, класть|MSeg=peliron
+7	peliron	pelir-	VERB	_	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	11	advcl	_	Gloss=помещать, сажать, класть|MSeg=pelir-o-n
 8-10	dumak-kono-kello	_	_	_	_	_	_	_	_
 8	dumak	dumal	ADV	_	_	11	advmod	_	Gloss=вдруг|MSeg=dumak
 9	kono	_	ADP	_	_	8	case	_	Gloss=после|MSeg=kono
@@ -1036,7 +1036,7 @@
 5	minaȧ	mina	NOUN	_	Case=Abs|Number=Sing	4	iobj	_	Gloss=Мина|MSeg=minaȧ
 6	ṅissna	ṅiss(i)	NOUN	_	Case=Gen|Number=Sing	8	nmod:agent	_	Gloss=святой|MSeg=ṅissna
 7	tadgil	tar	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	8	iobj	_	Gloss=он, она, оно|MSeg=tadgil
-8	pesesin	pes-	VERB	_	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	4	advcl	_	Gloss=говорить|MSeg=pesesin
+8	pesesin	pes-	VERB	_	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	4	advcl	_	Gloss=говорить|MSeg=pes-es-in
 9	kello	_	SCONJ	_	_	8	mark	_	Gloss=как, подобно|MSeg=kello
 
 # sent_id = 62
@@ -1118,7 +1118,7 @@
 17	ka	_	ADP	_	_	6	case	_	MSeg=ka
 18	pistarisna	pistar-	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=крестить|MSeg=pistarisna
 19-28	papil-de-oṅ-ṅal-de-on-sewart-u-ṅissil-de-ke-n	_	_	_	_	_	_	_	_
-19	papil	pap	NOUN	_	Case=Gen|Definite=Def|Number=Sing	29	nmod	_	Gloss=отец|MSeg=papil
+19	papil	pap	NOUN	_	Case=Gen|Definite=Def|Number=Sing	29	nmod	_	Gloss=отец|MSeg=papi-l
 20	de	_	CCONJ	_	_	19	cc	_	Gloss=и|MSeg=de
 21	oṅ	_	CCONJ	_	_	19	cc	_	Gloss=и, а|MSeg=oṅ
 22	ṅal	ṅa	NOUN	_	Case=Gen|Definite=Def|Number=Sing	19	conj	_	Gloss=сын|MSeg=ṅal
@@ -1222,12 +1222,12 @@
 3	wel	_	DET	_	PronType=Ind	4	det	_	Gloss=one|MSeg=wel
 4	tril	tir-	VERB	_	Case=Nom|Number=Sing|VerbForm=Part	6	nsubj	_	Gloss=give (to you or them)|MSeg=tril
 5	kika	ki	NOUN	_	Case=Acc|Number=Sing	6	obj	_	Gloss=vow|MSeg=kika
-6	pesen	pes-	VERB	_	Subordinative=Yes|VerbForm=Part	13	advcl	_	Gloss=say|MSeg=pesen
+6	pesen	pes-	VERB	_	Subordinative=Yes|VerbForm=Part	13	advcl	_	Gloss=say|MSeg=pes-en
 7	in	in	DET	_	_	8	det	_	Gloss=this|MSeg=in
 8	kore	kore	NOUN	_	Case=Acc|Number=Sing	4	appos	_	Gloss=feast, sacrament|MSeg=kore
 9	ṅissu	ṅiss	ADJ	_	_	8	amod	_	Gloss=holy|MSeg=ṅissu
 10	trapissildo	trapis	NOUN	_	Case=Sup|Definite=Def|Number=Sing	11	obl:loc	_	Gloss=table|MSeg=trapissildo
-11	pil	pi-	VERB	_	Tense=Pres|VerbForm=Part	8	acl	_	Gloss=be|MSeg=pil
+11	pil	pi-	VERB	_	Tense=Pres|VerbForm=Part	8	acl	_	Gloss=be|MSeg=pi-l
 12	ka	_	ADP	_	_	8	case	_	MSeg=ka
 13	artosa	artos	NOUN	_	Case=Abs|Number=Sing	0	root	_	Gloss=bread (of Sacrament)|MSeg=artosa
 14	ǧolam	ǧolam	ADJ	_	_	13	amod	_	Gloss=pure/simply|MSeg=ǧolam
@@ -1246,7 +1246,7 @@
 27	kel	_	CCONJ	_	_	24	cc	_	MSeg=kel
 28	lo	_	ADP	_	_	18	case	_	MSeg=lo
 29	ṅisselo	kisse	NOUN	_	Case=Loc|Number=Sing	30	obl	_	Gloss=church|MSeg=ṅisselo
-30	pala	pal-	VERB	_	VerbForm=Conv	13	conj	_	Gloss=come out|MSeg=pala
+30	pala	pal-	VERB	_	VerbForm=Conv	13	conj	_	Gloss=come out|MSeg=pal-a
 31	mē	_	AUX	_	_	30	cop	_	MSeg=mē
 32	ekkin	ekki	NOUN	_	Case=Gen|Number=Sing	33	nmod	_	Gloss=presentation|MSeg=ekki-n
 33	ǧello	ǧeel	NOUN	_	Case=Loc|Number=Sing	30	obl	_	Gloss=age, time|MSeg=ǧello
@@ -1277,7 +1277,7 @@
 17	no	_	PART	_	Mood=Cnd	16	advmod	_	MSeg=no
 18	tan	tar	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	19	nmod	_	Gloss=he|MSeg=tan
 19	aīlla	aī	NOUN	_	Case=Ine|Definite=Def|Number=Sing	20	obl	_	Gloss=heart|MSeg=aī-l-la
-20	pesen	pes-	VERB	_	Subordinative=Yes|VerbForm=Conv	29	advcl	_	Gloss=say|MSeg=pesen
+20	pesen	pes-	VERB	_	Subordinative=Yes|VerbForm=Conv	29	advcl	_	Gloss=say|MSeg=pes-en
 21	iėreȯsilo	iėreȯs	NOUN	_	Case=Loc|Number=Sing	23	obl	_	Gloss=priest|MSeg=iėreȯsilo
 22	tǧo	_	ADP	_	_	21	case	_	Gloss=from, at|MSeg=tǧo
 23	kimmissom	kīp-	VERB	_	Mood=Sub|Number=Sing|Person=1|Polarity=Neg|Tense=Past	20	ccomp	_	Gloss=eat|MSeg=kimmissom
@@ -1298,7 +1298,7 @@
 4	koīrra	koīrr-	NOUN	_	Case=Abs|Number=Sing	1	appos	_	Gloss=possessor (???)|MSeg=koīrra
 5	lo	_	PART	_	_	3	advmod	_	MSeg=lo
 6	tan	tar	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	nmod	_	Gloss=he|MSeg=tan
-7	pikitka	pikit	NOUN	_	Case=Acc|Number=Sing	9	obj	_	Gloss=light|MSeg=pikitka
+7	pikitka	pikit	NOUN	_	Case=Acc|Number=Sing	9	obj	_	Gloss=light|MSeg=pikit-ka
 8	kasso	_	X	_	_	9	advmod	_	Gloss=?|MSeg=kasso
 9	sanna	_	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	Gloss=bless (?)|MSeg=sanna
 10	skitīdon	īskit	NOUN	_	Case=Del|Number=Sing	12	obj	_	Gloss=earth|MSeg=skitīdon
@@ -1326,7 +1326,7 @@
 3	we	_	DET	_	PronType=Ind	4	det	_	Gloss=one|MSeg=we
 4	tril	tir-	VERB	_	Case=Nom|Number=Sing|VerbForm=Part	6	nsubj	_	Gloss=give (to you or them)|MSeg=tril
 5	kīka	kī	NOUN	_	Case=Acc|Number=Sing	6	obj	_	Gloss=vow|MSeg=kī-ka
-6	pesen	pes-	VERB	_	VerbForm=Conv|Subordinative=Yes	15	advcl	_	Gloss=say|MSeg=pesen
+6	pesen	pes-	VERB	_	VerbForm=Conv|Subordinative=Yes	15	advcl	_	Gloss=say|MSeg=pes-en
 7	proskol	prosko	NOUN	_	Case=Nom|Definite=Def|Number=Sing	4	appos	_	Gloss=offering|MSeg=proskol
 8	kissello	kisse	NOUN	_	Case=Loc|Definite=Def|Number=Sing	9	obl	_	Gloss=church|MSeg=kisse-l-lo
 9	kenǧran	ken-	VERB	_	Aspect=Imp|Number=Plur|Number[obj]=Plur|Person=3|Subordinative=Yes|Tense=Pres	7	acl:relcl	_	Gloss=carry, place|MSeg=kenǧran
@@ -1336,7 +1336,7 @@
 13	tun̂il	tot	NOUN	_	Case=Nom|Definite=Def|Number=Plur	15	nsubj	_	Gloss=child|MSeg=tun̂il
 14	lo	_	PART	_	_	13	advmod	_	MSeg=lo
 15	kapsǧraa	kap-	VERB	_	Aspect=Imp|Number[obj]=Plur|VerbForm=Conv	0	root	_	Gloss=eat|MSeg=kapsǧraa
-16	papil	pap	NOUN	_	Case=Nom|Definite=Def|Number=Sing	28	nsubj	_	Gloss=father|MSeg=papil
+16	papil	pap	NOUN	_	Case=Nom|Definite=Def|Number=Sing	28	nsubj	_	Gloss=father|MSeg=papi-l
 17	de	_	CCONJ	_	_	16	cc	_	MSeg=de
 18	on	_	CCONJ	_	_	17	flat	_	MSeg=on
 19	ṅad	ṅa	NOUN	_	Case=Nom|Definite=Def|Number=Sing	16	conj	_	Gloss=son|MSeg=ṅad
@@ -1348,7 +1348,7 @@
 25	de	_	CCONJ	_	_	22	cc	_	MSeg=de
 26	kello	_	CCONJ	_	_	25	flat	_	MSeg=kello
 27	kisselo	kisse	NOUN	_	Case=Loc|Number=Sing	28	obl	_	Gloss=church|MSeg=kisse-lo
-28	pala	pal-	VERB	_	VerbForm=Conv	15	advcl	_	Gloss=come out|MSeg=pala
+28	pala	pal-	VERB	_	VerbForm=Conv	15	advcl	_	Gloss=come out|MSeg=pal-a
 29	mē	_	AUX	_	_	28	cop	_	Gloss=|MSeg=mē
 
 # sent_id = 74
@@ -1368,7 +1368,7 @@
 12	enkan	en-	AUX	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	11	cop	_	Gloss=be|MSeg=enkan
 13	īlle	īlle	NOUN	_	Case=Acc|Number=Sing	10	advcl	_	Gloss=wheat|MSeg=īlle
 14	enkan	en-	AUX	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	13	cop	_	Gloss=be|MSeg=enkan
-15	parren	parre	NOUN	_	Case=Gen|Number=Sing	16	nmod	_	Gloss=durra|MSeg=parren
+15	parren	parre	NOUN	_	Case=Gen|Number=Sing	16	nmod	_	Gloss=durra|MSeg=parre-n
 16	koǧra	koǧir	NOUN	_	Case=Acc|Number=Sing	10	advcl	_	Gloss=seed|MSeg=koǧra
 17	enkan	en-	AUX	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	16	cop	_	Gloss=be|MSeg=enkan
 18	pirgne	pirgne	NOUN	_	Case=Loc|Number=Sing	10	advcl	_	Gloss=herbs|MSeg=pirgne
@@ -1396,7 +1396,7 @@
 1	mna	_	PART	_	Mood=Int	2	advmod	_	Gloss=Lat. nonn|MSeg=mna
 2	ulgrimena	ulgir-	VERB	_	Polarity=Neg|VerbForm=Conv	0	root	_	Gloss=hear|MSeg=ulgrimena
 3	ke	_	PART	_	Person=2|Number=Plur	2	advmod	_	MSeg=ke
-4	partakokka	par-	VERB	_	Case=Acc|Definite=Def|Number=Sing|VerbForm=Vnoun	2	obj	_	Gloss=write|MSeg=partakokka
+4	partakokka	par-	VERB	_	Case=Acc|Definite=Def|Number=Sing|VerbForm=Vnoun	2	obj	_	Gloss=write|MSeg=par-tako-k-ka
 5	tillika	till	NOUN	_	Case=Acc|Number=Sing	6	obj	_	Gloss=God|MSeg=tillika
 6	[*****]titta	_	VERB	_	_	4	ccomp	_	Gloss=?|MSeg=[*****]titta
 7	mēȧ	_	AUX	_	_	6	cop	_	MSeg=mēȧ
@@ -1444,7 +1444,7 @@
 # translation = And one was written "men about to (?) become in that (?) ... shall become (?) covetous (?), shall become (?) without ..., shall become ..., shall become man-hating, shall become ..., shall become covetous (?) of the priesthood (?)."
 1	wel	_	PRON	_	PronType=Dem|Case=Nom	3	nsubj	_	Gloss=one|MSeg=wel
 2	lon	_	CCONJ	_	_	3	cc	_	Gloss=and|MSeg=lon
-3	partakisna	par-	VERB	_	Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	Gloss=write|MSeg=partakisna
+3	partakisna	par-	VERB	_	Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	Gloss=write|MSeg=par-tak-is-na
 4	eï	_	NOUN	_	Case=Nom|Number=Plur	9	nsubj	_	Gloss=man (?)|MSeg=eï
 5	man	_	DET	_	_	4	det	_	Gloss=that|MSeg=man
 6	...lo	?	NOUN	_	Case=Loc|Number=Sing	7	obl	_	Gloss=?|MSeg=...lo
@@ -1693,7 +1693,7 @@
 11	eta	et-	VERB	_	VerbForm=Conv	15	advcl	_	Gloss=take, receive|MSeg=eta
 12	kisseka	kisse	NOUN	_	Case=Acc|Number=Sing	15	obj	_	Gloss=church|MSeg=kisse-ka
 13	morimīnil	mor-	VERB	_	Polarity=Neg|VerbForm=Part	15	advcl	_	Gloss=dismiss (?)|MSeg=morimīnil
-14	pala	pal-	VERB	_	VerbForm=Conv	15	advcl	_	Gloss=come out|MSeg=pala
+14	pala	pal-	VERB	_	VerbForm=Conv	15	advcl	_	Gloss=come out|MSeg=pal-a
 15	ǧōrosin	ǧōr-	VERB	_	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	1	parataxis	_	Gloss=depart|MSeg=ǧōrosin
 16	satanasil	satanas	NOUN	_	Case=Nom|Definite=Def|Number=Sing	21	nsubj	_	Gloss=Satan|MSeg=satanasil
 17	lon	_	SCONJ	_	_	21	cc	_	Gloss=and|MSeg=lon
@@ -1715,7 +1715,7 @@
 4	on	_	SCONJ	_	_	7	cc	_	Gloss=|MSeg=on
 5	kissel	kisse	NOUN	_	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	Gloss=church|MSeg=kisse-l
 6	morimīnil	mor-	VERB	_	Polarity=Neg|VerbForm=Part	7	advcl	_	Gloss=dismiss (?)|MSeg=morimīnil
-7	patta	patt-	VERB	_	VerbForm=Conv	0	root	_	Gloss=pray (???)|MSeg=patta
+7	patta	patt-	VERB	_	VerbForm=Conv	0	root	_	Gloss=pray (???)|MSeg=patt-a
 8	mē	_	AUX	_	_	7	cop	_	MSeg=mē
 
 # sent_id = 95
@@ -1726,7 +1726,7 @@
 3	tillil	till	NOUN	_	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	Gloss=God|MSeg=tillil
 4	ǧurigra	ǧurig-	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Gloss=take as cause|MSeg=ǧurigra
 5	īkka	īr	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	obj	_	Gloss=thou|MSeg=īkka
-6	paskarra	pask-	VERB	_	Tense=Fut|VerbForm=Conv	4	conj	_	Gloss=punish|MSeg=paskarra
+6	paskarra	pask-	VERB	_	Tense=Fut|VerbForm=Conv	4	conj	_	Gloss=punish|MSeg=pask-arr-a
 7	sin	_	SCONJ	_	_	6	mark	_	MSeg=sin
 
 # sent_id = 96
@@ -1804,7 +1804,7 @@
 8	dīol	dīol	NOUN	_	_	9	compound	_	Gloss=dead|MSeg=dīol
 9	kapildal	kap-	VERB	_	Case=Com|Number=Sing|VerbForm=Part	12	obl	_	Gloss=eat|MSeg=kapildal
 10	lo	_	PART	_	_	9	advcl	_	MSeg=lo
-11	pikitk	pikit	NOUN	_	Case=Acc|Number=Sing	12	obj	_	Gloss=light|MSeg=pikitk
+11	pikitk	pikit	NOUN	_	Case=Acc|Number=Sing	12	obj	_	Gloss=light|MSeg=pikit-k
 12	unna	un-	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	Gloss=love|MSeg=unna
 
 # sent_id = 101
@@ -1873,7 +1873,7 @@
 4	koren	kore	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	Gloss=feast, sacrament|MSeg=koren
 5	taratīlo	taratī	NOUN	_	Case=Loc|Number=Sing	7	obl	_	Gloss=exit, end (?)|MSeg=taratīlo
 6	kissela	kisse	NOUN	_	Case=Ine	7	obl:loc	_	Gloss=church|MSeg=kisse-la
-7	pesil	pes-	VERB	_	Tense=Pres|VerbForm=Part	3	acl	_	Gloss=say|MSeg=pesil
+7	pesil	pes-	VERB	_	Tense=Pres|VerbForm=Part	3	acl	_	Gloss=say|MSeg=pes-il
 8	do	_	ADP	_	_	3	case	_	MSeg=do
 
 # sent_id = 105
@@ -1882,7 +1882,7 @@
 1	koren	kore	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	Gloss=feast, sacrament|MSeg=koren
 2	taratīlo	taratī	NOUN	_	Case=Loc|Number=Sing	4	obl	_	Gloss=exit, end (?)|MSeg=taratīlo
 3	kissela	kisse	NOUN	_	Case=Ine	4	obl:loc	_	Gloss=church|MSeg=kisse-la
-4	pesil	pes-	VERB	_	Tense=Pres|VerbForm=Part	11	nsubj	_	Gloss=say|MSeg=pesil
+4	pesil	pes-	VERB	_	Tense=Pres|VerbForm=Part	11	nsubj	_	Gloss=say|MSeg=pes-il
 5	appa	_	SCONJ	_	_	11	mark	_	Gloss=for|MSeg=appa
 6	ȧkossa	akoss	ADJ	_	Case=Loc|Number=Plur	11	obl:cmpr	_	Gloss=wicked (?)|MSeg=ȧkossa
 7	miššan	_	DET	_	_	6	det	_	Gloss=all|MSeg=miššan
@@ -1897,7 +1897,7 @@
 # translation = For the man that speaketh in the church is the enemy of God.
 1	ītu	īt	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	Gloss=person|MSeg=ītu
 2	kissela	kisse	NOUN	_	Case=Ine|Number=Sing	3	obl:loc	_	Gloss=church|MSeg=kisse-la
-3	pesil	pes-	VERB	_	Tense=Pres|VerbForm=Part	1	acl	_	Gloss=say|MSeg=pesil
+3	pesil	pes-	VERB	_	Tense=Pres|VerbForm=Part	1	acl	_	Gloss=say|MSeg=pes-il
 4	appa	_	SCONJ	_	_	6	mark	_	Gloss=for|MSeg=appa
 5	tillil	till	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	CorrectForm=tillin (?)|Gloss=God|MSeg=tillil
 6	ukkatta	ukkatt	NOUN	_	Case=Abs|Number=Sing	0	root	_	Gloss=enemy|MSeg=ukkatta
@@ -1922,7 +1922,7 @@
 14	koren	kore	NOUN	_	Case=Gen|Number=Sing	16	nsubj	_	Gloss=feast, sacrament|MSeg=koren
 15	trapisildo	trapis	NOUN	_	Case=Sup|Definite=Def|Number=Sing	16	obl	_	Gloss=table|MSeg=trapisildo
 16	pīn	pi-	VERB	_	Subordinative=Yes|VerbForm=Conv	17	advcl	_	Gloss=be|MSeg=pīn
-17	pesilgul	pes-	VERB	_	Case=Nom|Number=Plur|Definite=Def|VerbForm=Part	12	acl	_	Gloss=say|MSeg=pesilgul
+17	pesilgul	pes-	VERB	_	Case=Nom|Number=Plur|Definite=Def|VerbForm=Part	12	acl	_	Gloss=say|MSeg=pes-il-gu-l
 
 # sent_id = 108
 # text = taru ṅodis-sin pesira sin ïudaiosrīgul de weranno lo aïka pillildo guttīsana
@@ -1931,14 +1931,14 @@
 2-3	ṅodis-sin	_	_	_	_	_	_	_	_
 2	ṅodil	ṅod	NOUN	_	Case=Nom|Definite=Def|Number=Sing	1	appos	_	Gloss=Lord|MSeg=ṅodil
 3	sin	_	SCONJ	_	_	2	mark	_	MSeg=sin
-4	pesira	pes-	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Gloss=say|MSeg=pesira
+4	pesira	pes-	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Gloss=say|MSeg=pes-ir-a
 5	sin	_	SCONJ	_	_	4	mark	_	MSeg=sin
 6	ïudaiosrīgul	iudaios	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur	12	nsubj	_	Gloss=Jews|MSeg=ïudaiosrīgul
 7	de	_	CCONJ	_	_	12	cc	_	Gloss=and|MSeg=de
 8	weranno	weran	NOUN	_	Case=Loc|Number=Sing	6	obl	_	Gloss=?|MSeg=weranno
 9	lo	_	PART	_	_	8	advmod	_	MSeg=lo
 10	aïka	ai	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	obj	_	Gloss=I|MSeg=aï-ka
-11	pillildo	pill-	VERB	_	Definite=Def|VerbForm=Part	12	obl	_	Gloss=appear (?), be plain|MSeg=pillildo
+11	pillildo	pill-	VERB	_	Definite=Def|VerbForm=Part	12	obl	_	Gloss=appear (?), be plain|MSeg=pill-il-do
 12	guttīsana	gutt-	VERB	_	Number=Plur|Person=3|Tense=Past	4	ccomp	_	Gloss=reject (???)|MSeg=guttīsana
 
 # sent_id = 109
@@ -1946,7 +1946,7 @@
 # translation = And you who speak in the church at all times, behold (), hearken ye to the warning (?).
 1	uru	ur	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	vocative	_	Gloss=you|MSeg=uru
 2	kissela	kisse	NOUN	_	Case=Ine|Number=Sing	3	obl:loc	_	Gloss=church|MSeg=kisse-la
-3	pesilgul	pes-	VERB	_	Case=Nom|Definite=Def|Number=Plur|VerbForm=Part	1	advcl	_	Gloss=say|MSeg=pesilgul
+3	pesilgul	pes-	VERB	_	Case=Nom|Definite=Def|Number=Plur|VerbForm=Part	1	advcl	_	Gloss=say|MSeg=pes-il-gu-l
 4	lon	_	CCONJ	_	_	1	cc	_	Gloss=and|MSeg=lon
 5	tawka	_	NOUN	_	Case=Loc|Number=Sing	3	obl	_	Gloss=time|MSeg=tawka
 6	miššan	_	DET	_	_	5	det	_	Gloss=every|MSeg=miššan
@@ -1974,7 +1974,7 @@
 12	ïerusalēmēa	ierusalēm	PROPN	_	Case=Loc|Number=Sing	15	obl:loc	_	Gloss=Jerusalem|MSeg=ïerusalēmēa
 13	tan	tar	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	14	nmod	_	Gloss=he|MSeg=tan
 14	taṅiska	taṅis	NOUN	_	Case=Acc|Number=Sing	15	obj	_	Gloss=name|MSeg=taṅiska
-15	paīnna	paī-	VERB	_	Number=Sing|Person=3|Tense=Fut	0	root	_	Gloss=write|MSeg=paīnna
+15	paīnna	paī-	VERB	_	Number=Sing|Person=3|Tense=Fut	0	root	_	Gloss=write|MSeg=paī-n-na
 
 # sent_id = 111
 # text = ïereosilo tiǧo tan ǧan-non īnno artosi weru orpē sarpē wer a lo īn abba tillil-orō ettakra sin
@@ -2029,7 +2029,7 @@
 22	urin	ur	NOUN	_	Case=Gen|Number=Sing	23	nmod	_	Gloss=head|MSeg=urin
 23	tuttildo	tutt-	NOUN	_	Case=Sup|Definite=Def|Number=Sing	25	obl	_	Gloss=scalp (???)|MSeg=tuttildo
 24	lo	_	PART	_	_	23	advmod	_	MSeg=lo
-25	paskarre	pask-	VERB	_	Number=Sing|Person=1|Tense=Fut	1	parataxis	_	Gloss=punish (?)|MSeg=paskarre
+25	paskarre	pask-	VERB	_	Number=Sing|Person=1|Tense=Fut	1	parataxis	_	Gloss=punish (?)|MSeg=pask-arr-e
 26	ǧelguka	ǧēl-	NOUN	_	Case=Acc|Number=Plur	25	obl	_	Gloss=age, time|MSeg=ǧelguka
 27	īlaltelo	īlante	NOUN	_	Case=Loc|Number=Sing	26	obl	_	CorrectForm=īlantelo|Gloss=fullness (?)|MSeg=īlaltelo
 
@@ -2091,7 +2091,7 @@
 4	aīlka	aī	NOUN	_	Case=Acc|Definite=Def|Number=Sing	7	obj	_	Gloss=heart|MSeg=aī-l-ka
 5	lo	_	PART	_	_	4	advmod	_	MSeg=lo
 6	ėmentela	emente	NOUN	_	Case=Ine|Number=Sing	7	obl:loc	_	Gloss=hell|MSeg=ėmentela
-7	paǧīpaǧigiddna	paǧīpaǧigir-	VERB	_	Number=Sing|Person=3|Tense=Fut	0	root	_	Gloss=cause to intensively try|MSeg=paǧīpaǧigiddna
+7	paǧīpaǧigiddna	paǧīpaǧigir-	VERB	_	Number=Sing|Person=3|Tense=Fut	0	root	_	Gloss=cause to intensively try|MSeg=paǧīpaǧigid-d-na
 
 # sent_id = 116
 # text = makan tillika ewana so ewa sin īnna sin tillu an̂i n īla dīṅara turi
@@ -2164,7 +2164,7 @@
 # text = ī[sin] parthenosil lo tulo ǧuntuṅarr[a]
 # translation = 
 1	ī[sin]	_	INTJ	_	_	5	discourse	_	MSeg=ī[sin]
-2	parthenosil	parthenos	NOUN	_	Case=Nom|Definite=Def|Number=Sing	5	nsubj	_	Gloss=virgin|MSeg=parthenosil
+2	parthenosil	parthenos	NOUN	_	Case=Nom|Definite=Def|Number=Sing	5	nsubj	_	Gloss=virgin|MSeg=parthenos-il
 3	lo	_	PART	_	_	2	advmod	_	MSeg=lo
 4	tulo	tu	NOUN	_	Case=Loc|Number=Sing	5	obl	_	Gloss=belly|MSeg=tulo
 5	ǧuntuṅarr[a]	ǧuntuṅ-	VERB	_	Tense=Fut|VerbForm=Conv	0	root	_	Gloss=зачать, забеременеть|MSeg=ǧuntuṅarr[a]
@@ -2196,7 +2196,7 @@
 3	tillil	till	NOUN	_	Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	Gloss=God|MSeg=tillil
 4	lō	_	PART	_	_	3	advmod	_	MSeg=lō
 5	eddal	er	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	7	obl	_	Gloss=we|MSeg=ed-dal
-6	pela	pel-	VERB	_	VerbForm=Conv	7	advcl	_	Gloss=come out (?)|MSeg=pela
+6	pela	pel-	VERB	_	VerbForm=Conv	7	advcl	_	Gloss=come out (?)|MSeg=pel-a
 7	dullaṅarra	dullaṅa-	VERB	_	Tense=Fut|VerbForm=Conv	1	ccomp	_	Gloss=become|MSeg=dullaṅa-rr-a
 8	ėsin	_	CCONJ	_	_	7	cc	_	MSeg=ėsin
 
@@ -2207,7 +2207,7 @@
 1	ïō̇sēfi	ïō̇sēf	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	MSeg=ïō̇sēfi
 2	lon	_	CCONJ	_	_	4	cc	_	Gloss=and|MSeg=lon
 3	ṅalullo	ṅalu	NOUN	_	Case=Loc|Definite=Def|Number=Sing	4	obl	_	Gloss=sleep|MSeg=ṅalullo
-4	pikken	pikk-	VERB	_	Subordinative=Yes|VerbForm=Conv	0	root	_	Gloss=wake up|MSeg=pikken
+4	pikken	pikk-	VERB	_	Subordinative=Yes|VerbForm=Conv	0	root	_	Gloss=wake up|MSeg=pikk-en
 
 # sent_id = 124
 # text = ṅodin aggelosnȧ takka murtat esin kellika awȧ
