@@ -250,26 +250,26 @@ in	in	_	этот	DET	in
 in	in	_	этот	PRON	in
 in	ir	Case=Gen|Number=Sing|Person=2|PronType=Prs	ты	PRON	in
 in'	in	_	этот	DET	in'
-indo	in	Case=Sup|PronType=Dem	это	PRON	indo
-inil	in-	VerbForm=Part	быть	VERB	inil
-inin	in-	Subordinative=Yes|VerbForm=Conv	быть	VERB	inin
-inin	in-	VerbForm=Conv	быть	VERB	inin
+in-do	in	Case=Sup|PronType=Dem	это	PRON	indo
+in-il	in-	VerbForm=Part	быть	VERB	inil
+in-in	in-	Subordinative=Yes|VerbForm=Conv	быть	VERB	inin
+in-in	in-	VerbForm=Conv	быть	VERB	inin
 inka	in	Case=Acc|PronType=Dem	это	PRON	inka
 in̂ittu	in̂itti	_	бренный, преходящий (?)	ADJ	in̂ittu
 io	_	_		ADP	io
 io	_	_		PART	io
 ir	ir	Case=Nom|Number=Sing|Person=2|PronType=Prs	ты	PRON	ir
 ir	ir	Number=Sing|Person=1|PronType=Prs	ты	PRON	ir
-iriȯ	ir	Case=Loc|Number=Sing|Person=2|PronType=Prs	ты	PRON	iriȯ
+ir-iȯ	ir	Case=Loc|Number=Sing|Person=2|PronType=Prs	ты	PRON	iriȯ
 irkane	irkane	_	начало; рождение, рождество	NOUN	irkane
 iru	ir	Case=Nom|Number=Sing|Person=2|PronType=Prs	ты	PRON	iru
 isgil	_	PronType=Int	куда	ADV	isgil
-iskelisna	iskel-	Number=Sing|Person=3|Tense=Past	просить	VERB	iskelisna
+iskel-is-na	iskel-	Number=Sing|Person=3|Tense=Past	просить	VERB	iskelisna
 iskoēt	īskoēt	Case=Nom|Number=Sing	?	NOUN	iskoēt
 islo	_	_	где	ADV	islo
 is-sa-na	in-	Number=Plur|Person=3|Tense=Past	быть	VERB	issana
-isse	is-	Number=Sing|Person=1|Tense=Past	рождать (?)	VERB	isse
-issna	is-	Number=Sing|Person=3|Tense=Past	рождать	VERB	issna
+is-s-e	is-	Number=Sing|Person=1|Tense=Past	рождать (?)	VERB	isse
+is-s-na	is-	Number=Sing|Person=3|Tense=Past	рождать	VERB	issna
 isu	is	PronType=Rel	что	PRON	isu
 it	it	Case=Nom|Number=Sing	person	NOUN	it
 ite	it-	Mood=Imp|Number=Sing|Person=2	брать, принимать	VERB	ite
@@ -468,37 +468,37 @@ matarkikon	matarkikon	Case=Acc|Number=Sing	warning (?)	NOUN	matarkikon
 mawkil	mawk	Case=Loc|Definite=Def|Number=Sing	?	NOUN	mawkil
 maïk-ar-is-na	maïk-	Aspect=Imp|Number=Sing|Person=3|Tense=Past	стыдиться	VERB	maïkarisna
 meddaṅ-o-l	meddaṅ	Tense=Pqp|VerbForm=Part	готовиться	VERB	meddaṅol
-meddil	med-	VerbForm=Part	be full	VERB	meddil
+medd-il	med-	VerbForm=Part	be full	VERB	meddil
 mederan	mederan	_	?	ADJ	mederan
-medǧuningul	medǧun	Case=Acc|Definite=Def|Number=Plur	раб, слуга	NOUN	medǧuningul
-medǧunintayguk	medǧunin-taa	Case=Nom|Number=Plur	служанка, рабыня	NOUN	medǧunintayguk
+medǧunin-gu-l	medǧun	Case=Acc|Definite=Def|Number=Plur	раб, слуга	NOUN	medǧuningul
+medǧunintay-gu-k	medǧunin-taa	Case=Nom|Number=Plur	служанка, рабыня	NOUN	medǧunintayguk
 medǧunintay-gu-l	medǧunin-taa	Case=Nom|Definite=Def|Number=Plur	рабыня, служанка	NOUN	medǧunintaygul
-medǧuntaaddal	medǧuntaa	Case=Com|Number=Sing	рабыня, служанка	NOUN	medǧuntaaddal
+medǧuntaa-d-dal	medǧuntaa	Case=Com|Number=Sing	рабыня, служанка	NOUN	medǧuntaaddal
 medǧun-tal'	medǧuntaa	Case=Com|Definite=Def|Number=Sing	рабыня, служанка	NOUN	medǧuntal'
 mekkīnni	mekki	Case=Gen|Number=Sing	scrap, small piece	NOUN	mekkīnni
-menen	men-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	not to be	AUX	menen
-menen	men-	Subordinative=Yes|VerbForm=Conv	not to be	VERB	menen
+men-en	men-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	not to be	AUX	menen
+men-en	men-	Subordinative=Yes|VerbForm=Conv	not to be	VERB	menen
 middītakīnē	midd-	Voice=Pass	condemn	VERB	middītakīnē
 midil	mid-	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part	бежать, бегать	VERB	midil
-miǧirkil	miǧirk	Case=Nom|Definite=Def|Number=Sing	desire	NOUN	miǧirkil
-miǧirklo	miǧirk	Case=Loc|Number=Sing	desire	NOUN	miǧirklo
-miǧirkīlo	miǧirk	Case=Loc|Number=Sing	desire (?)	NOUN	miǧirkīlo
+miǧirk-il	miǧirk	Case=Nom|Definite=Def|Number=Sing	desire	NOUN	miǧirkil
+miǧirk-lo	miǧirk	Case=Loc|Number=Sing	desire	NOUN	miǧirklo
+miǧirkī-lo	miǧirk	Case=Loc|Number=Sing	desire (?)	NOUN	miǧirkīlo
 miǧr	miǧr	_	covetous	ADJ	miǧr
 min	_	Case=Nom|PronType=Int	what	PRON	min
 mina	mina	_	Мина	NOUN	mina
 mina-n	mina	Case=Gen|Number=Sing	Мина	NOUN	minan
-minan	mina	Case=Gen|Number=Sing	св. Мина	NOUN	minan
-minan	mina	_	Мина	NOUN	minan
+mina-n	mina	Case=Gen|Number=Sing	св. Мина	NOUN	minan
+mina-n	mina	_	Мина	NOUN	minan
 mina-na	mina	Case=Gen|Number=Sing	Мина	NOUN	minana
-minaȧ	_	Case=Abs|Number=Sing	Мина	NOUN	minaȧ
-minaȧ	mina	Case=Abs|Number=Sing	Мина	NOUN	minaȧ
-mink	min	Case=Acc|Number=Sing|PronType=Dem	что	PRON	mink
-minka	min	Case=Acc|Number=Sing|PronType=Int	что	PRON	minka
-minka	min	Case=Acc|PronType=Int	что	PRON	minka
+mina-ȧ	_	Case=Abs|Number=Sing	Мина	NOUN	minaȧ
+mina-ȧ	mina	Case=Abs|Number=Sing	Мина	NOUN	minaȧ
+min-k	min	Case=Acc|Number=Sing|PronType=Dem	что	PRON	mink
+min-ka	min	Case=Acc|Number=Sing|PronType=Int	что	PRON	minka
+min-ka	min	Case=Acc|PronType=Int	что	PRON	minka
 mira	mira	_	неплодный, не рожающий	ADJ	mira
 mira-gu-ė	_	Case=Abs|Number=Plur		ADJ	miraguė
 miste	miste	_	?	X	miste
-miwtakra	miw-	Aspect=Imp|VerbForm=Conv	исчезать (?)	VERB	miwtakra
+miw-tak-r-a	miw-	Aspect=Imp|VerbForm=Conv	исчезать (?)	VERB	miwtakra
 miššan	_	PronType=Tot	all, every	DET	miššan
 miššan	_	PronType=Tot	весь, всякий	DET	miššan
 miššan	_	_	all	DET	miššan
@@ -509,18 +509,18 @@ miššana	miššan	Case=Abs	all, every	DET	miššana
 miššan-gu	miššan	Case=Nom|Number=Plur|PronType=Tot	весь, всякий	PRON	miššangu
 mna	_	Mood=Int	Lat. nonn	PART	mna
 mna	_	Mood=Int	Lat. nonne	PART	mna
-mona	mon-	Case=Abs|Number=Sing|VerbForm=Part	hate, reject	VERB	mona
-monesin	mon-	Number=Sing|Person=3|Tense=Past|Subordinative=Yes	hate, reject	VERB	monesin
-moren	mor-	Case=Gen|Number=Sing|VerbForm=Vnoun	dismiss (?) or necessity (?)	VERB	moren
-morimīnil	mor-	Polarity=Neg|VerbForm=Part	dismiss (?)	VERB	morimīnil
-mudwukon	mudu-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	охранять, сопутствовать; позволять	VERB	mudwukon
-muntlo	munt	Case=Loc|Number=Sing	?	NOUN	muntlo
+mon-a	mon-	Case=Abs|Number=Sing|VerbForm=Part	hate, reject	VERB	mona
+mon-es-in	mon-	Number=Sing|Person=3|Tense=Past|Subordinative=Yes	hate, reject	VERB	monesin
+mor-en	mor-	Case=Gen|Number=Sing|VerbForm=Vnoun	dismiss (?) or necessity (?)	VERB	moren
+mori-mīn-il	mor-	Polarity=Neg|VerbForm=Part	dismiss (?)	VERB	morimīnil
+mudwu-ko-n	mudu-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	охранять, сопутствовать; позволять	VERB	mudwukon
+munt-lo	munt	Case=Loc|Number=Sing	?	NOUN	muntlo
 murtat	murt-	VerbForm=Conv	warn	VERB	murtat
-murtiddo	murt(i)	Case=Sup|Definite=Def|Number=Sing	лошадь	NOUN	murtiddo
+murti-d-do	murt(i)	Case=Sup|Definite=Def|Number=Sing	лошадь	NOUN	murtiddo
 murtu	murt(i)	Case=Acc|Number=Sing	лошадь	NOUN	murtu
 mē	_	_		AUX	mē
 mēȧ	_	_		AUX	mēȧ
-mīǧragu	mīǧr	Case=Nom|Number=Plur	covetous (?)	ADJ	mīǧragu
+mīǧra-gu	mīǧr	Case=Nom|Number=Plur	covetous (?)	ADJ	mīǧragu
 n	_	_		ADP	n
 na	_	_		ADP	na
 no	_	_		ADP	no
@@ -529,10 +529,10 @@ no	lo	_		PART	no
 non	_	_		CCONJ	non
 non	_	_	and	CCONJ	non
 non	lon	_	а, и, но	CCONJ	non
-ogǧil	og(i)ǧ	Case=Acc|Definite=Def|Number=Sing	мужчина, муж	NOUN	ogǧil
-ogǧil	og(i)ǧ	Case=Nom|Definite=Def|Number=Sing	мужчина, муж	NOUN	ogǧil
-ogiǧka	og(i)ǧ	Case=Acc|Number=Sing	мужчина, муж	NOUN	ogiǧka
-okarrana	ok-	Number=Plur|Person=3|Tense=Fut	call, summon, name	VERB	okarrana
+ogǧ-il	og(i)ǧ	Case=Acc|Definite=Def|Number=Sing	мужчина, муж	NOUN	ogǧil
+ogǧ-il	og(i)ǧ	Case=Nom|Definite=Def|Number=Sing	мужчина, муж	NOUN	ogǧil
+ogiǧ-ka	og(i)ǧ	Case=Acc|Number=Sing	мужчина, муж	NOUN	ogiǧka
+ok-arr-ana	ok-	Number=Plur|Person=3|Tense=Fut	call, summon, name	VERB	okarrana
 ok-is-na	ȯk-	Number=Sing|Person=3|Tense=Past	называть, звать	VERB	okisna
 okkanē	ok-	Case=Acc|Number=Sing|VerbForm=Vnoun	call, summon, name	VERB	okkanē
 oll-īn	oll-	Subordinative=Yes|VerbForm=Conv	hang	VERB	ollīn
@@ -551,9 +551,9 @@ orpa	orpa	Case=Acc|Number=Sing	wine	NOUN	orpa
 orpē	orpa	_	wine (?)	NOUN	orpē
 orō	_	_	with, through (of persons)	ADP	orō
 oṅ	_	_	и, а	CCONJ	oṅ
-paddīna	padd-	Number=Sing|Person=2|Tense=Pres	?	VERB	paddīna
-padīra	pad-	Aspect=Imp|VerbForm=Conv	?	VERB	padīra
-paǧana	paǧ-	Mood=Imp|Number=Plur|Person=2	ascertain, enquire precisely (?)	VERB	paǧana
+paddī-na	padd-	Number=Sing|Person=2|Tense=Pres	?	VERB	paddīna
+padī-r-a	pad-	Aspect=Imp|VerbForm=Conv	?	VERB	padīra
+paǧ-ana	paǧ-	Mood=Imp|Number=Plur|Person=2	ascertain, enquire precisely (?)	VERB	paǧana
 paǧīpaǧigid-d-na	paǧīpaǧigir-	Number=Sing|Person=3|Tense=Fut	cause to intensively try	VERB	paǧīpaǧigiddna
 pal-a	pal-	VerbForm=Conv	come out	VERB	pala
 pal-a	pal-	VerbForm=Conv	выходить	VERB	pala
