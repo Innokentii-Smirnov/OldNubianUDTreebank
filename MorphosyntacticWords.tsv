@@ -46,7 +46,7 @@ as-ka	as	Case=Acc|Number=Sing	дочь	NOUN	aska
 aw	aw(i)	Case=Acc|Number=Sing	лодка, корабль	NOUN	aw
 aw-arr-e	aw-	Number=Sing|Person=1|Tense=Fut	делать	VERB	awarre
 aw-arr-inna	aw-	Number=Sing|Person=2|Tense=Fut	делать	VERB	awarrinna
-aw-ǧ-il-gu-ka	aw-	Case=Acc|Number=Plur|VerbForm=Part	делать	VERB	awǧilguka
+aw-ǧ-il-gu-ka	aw-	Case=Acc|Number=Plur|Number[obj]=Plur|VerbForm=Part	делать	VERB	awǧilguka
 awi-k	aw(i)	Case=Acc|Number=Sing	лодка, корабль	NOUN	awik
 awir	awir-	Case=Loc|Number=Sing	крыло	NOUN	awir
 awlos-e	awlos-	Mood=Imp|Number=Sing|Person=2	спасать	VERB	awlose
@@ -54,7 +54,7 @@ aw-o-l	aw-	Tense=Pqp|VerbForm=Part	do, make	VERB	awol
 aw-s-a	aw-	Case=Abs|Number=Sing|Tense=Past|VerbForm=Part	делать	VERB	awsa
 aw-tak-ara-ȧ	aw-	Aspect=Imp|VerbForm=Conv|Voice=Pass	do, make; passive become, happen	VERB	awtakaraȧ
 aw-tak-ko-n	aw-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes|Voice=Pass	do, make	VERB	awtakkon
-aw-tak-o-n	aw-	Number=Plur|Person=3|Subordinative=Yes|Tense=Pqp	делать; пасс. случаться, происходить	VERB	awtakon
+aw-tak-o-n	aw-	Number=Plur|Person=3|Subordinative=Yes|Tense=Pqp|Voice=Pass	делать; пасс. случаться, происходить	VERB	awtakon
 awu-ǧ-ana	awu-	Mood=Imp|Number=Plur|Number[obj]=Plur|Person=2	do, make	VERB	awuǧana
 awu-ǧu-ka	awu-	Case=Acc|Number=Sing|Number[obj]=Plur|VerbForm=Part	do, make	VERB	awuǧuka
 awu-l-gu-l	awu-	Definite=Def|Number=Plur|VerbForm=Part	do, make	VERB	awulgul
