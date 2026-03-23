@@ -114,7 +114,7 @@
 10	medǧunintaygul	medǧunin-taa	NOUN	_	Case=Nom|Definite=Def|Number=Plur	4	appos	_	Gloss=рабыня, служанка|MSeg=medǧunintay-gu-l
 11	tuygul	tuy	NOUN	_	Case=Nom|Definite=Def|Number=Plur	10	conj	_	Gloss=корова|MSeg=tuy-gu-l
 12-13	dutrapigulokiyskillo	_	_	_	_	_	_	_	_
-12	dutrapigulo	dutrap	NOUN	_	Case=Loc|Definite=Def|Number=Plur	10	conj	_	Gloss=курица|MSeg=dutrapi-gu-lo
+12	dutrapigulo	dutrap	NOUN	_	Case=Loc|Number=Plur	10	conj	_	Gloss=курица|MSeg=dutrapi-gu-lo
 13	kiyskillo	kiskillo	ADP	_	_	12	case	_	Gloss=до|MSeg=kiyskillo
 
 # sent_id = 8
