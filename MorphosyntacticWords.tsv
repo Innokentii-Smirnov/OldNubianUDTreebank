@@ -170,48 +170,48 @@ ettata	et-	Case=Abs|Number=Sing|VerbForm=Vnoun	take, receive	VERB	ettata
 etten	et-	Subordinative=Yes|VerbForm=Conv	take, receive	VERB	etten
 ewa	ewa	Case=Nom|Number=Sing	bless, praise	NOUN	ewa
 ewaggel	_	_	gospel	NOUN	ewaggel
-ewana	ewa-	Mood=Imp|Number=Plur|Person=2	bless, praise	VERB	ewana
+ew-ana	ewa-	Mood=Imp|Number=Plur|Person=2	bless, praise	VERB	ewana
 eï	_	Case=Nom|Number=Plur	man (?)	NOUN	eï
-gaaddo	gaar	Case=Sup|Number=Sing	сторона, берег	NOUN	gaaddo
-gaddo	gaar	Case=Sup|Number=Sing	сторона, берег	NOUN	gaddo
-gadin	gad-	Case=Gen|Number=Sing	flesh, body	NOUN	gadin
-gaǧis	gaǧ-	Tense=Past|VerbForm=Part	read (?)	VERB	gaǧis
-gallisna	gall-	Number=Sing|Person=3|Tense=Past	открывать	VERB	gallisna
-gallitakon	gall-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	открывать	VERB	gallitakon
-gallīminein	gall-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	open	VERB	gallīminein
-gallīminen	gall-	Subordinative=Yes|Polarity=Neg|VerbForm=Conv	open	VERB	gallīminen
+gaad-do	gaar	Case=Sup|Number=Sing	сторона, берег	NOUN	gaaddo
+gad-do	gaar	Case=Sup|Number=Sing	сторона, берег	NOUN	gaddo
+gad-in	gad-	Case=Gen|Number=Sing	flesh, body	NOUN	gadin
+gaǧ-is	gaǧ-	Tense=Past|VerbForm=Part	read (?)	VERB	gaǧis
+gall-is-na	gall-	Number=Sing|Person=3|Tense=Past	открывать	VERB	gallisna
+galli-tak-o-n	gall-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	открывать	VERB	gallitakon
+gallī-min-ein	gall-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	open	VERB	gallīminein
+gallī-min-en	gall-	Subordinative=Yes|Polarity=Neg|VerbForm=Conv	open	VERB	gallīminen
 gegnī	_	_	in good will (???)	ADJ	gegnī
 gemu	gem	Case=Ine|Number=Sing	year	NOUN	gemu
-genkitague	genkit	Case=Abs|Number=Plur	peace (M.)	NOUN	genkitague
-genēn	gen-	Subordinative=Yes|VerbForm=Conv	be good (???)	VERB	genēn
+genkita-gu-e	genkit	Case=Abs|Number=Plur	peace (M.)	NOUN	genkitague
+gen-ēn	gen-	Subordinative=Yes|VerbForm=Conv	be good (???)	VERB	genēn
 gil	_	_		ADP	gil
 gille	_	_		ADP	gille
-gipirta	gipirt-	VerbForm=Conv	repeat, return	VERB	gipirta
-gipirte	gipirt-	Mood=Imp|Number=Sing|Person=2	возвращаться	VERB	gipirte
-gipirtisna	gipirt-	Mood=Imp|Number=Sing|Person=2	возвращаться	VERB	gipirtisna
-gipirtisna	gipirt-	Number=Sing|Person=3|Tense=Past	возвращаться	VERB	gipirtisna
+gipirt-a	gipirt-	VerbForm=Conv	repeat, return	VERB	gipirta
+gipirt-e	gipirt-	Mood=Imp|Number=Sing|Person=2	возвращаться	VERB	gipirte
+gipirt-is-na	gipirt-	Mood=Imp|Number=Sing|Person=2	возвращаться	VERB	gipirtisna
+gipirt-is-na	gipirt-	Number=Sing|Person=3|Tense=Past	возвращаться	VERB	gipirtisna
 gir	_	_	?	X	gir
 gitta	gitt-	VerbForm=Conv	?	VERB	gitta
 goīa	_	_	than	ADP	goīa
 goīan	_	_	through	ADP	goīan
 gu	_	_		PART	gu
-gudala	gudal-	VerbForm=Conv	бояться, страшиться	VERB	gudala
+gudal-a	gudal-	VerbForm=Conv	бояться, страшиться	VERB	gudala
 gul	_	_		PART	gul
-guttīsana	gutt-	Number=Plur|Person=3|Tense=Past	reject (???)	VERB	guttīsana
+gutt-īs-ana	gutt-	Number=Plur|Person=3|Tense=Past	reject (???)	VERB	guttīsana
 gīttdikane	gitt-	Case=Nom|Number=Sing|VerbForm=Vnoun	reject (???)	VERB	gīttdikane
-ǧagṅon	ǧagṅ-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	наступать, попирать	VERB	ǧagṅon
+ǧagṅ-o-n	ǧagṅ-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	наступать, попирать	VERB	ǧagṅon
 ǧan	ǧan	Case=Nom|Number=Sing	share (?)	NOUN	ǧan
-ǧanka	ǧan	Case=Acc|Number=Sing	share (?)	NOUN	ǧanka
-ǧawisna	ǧaw-	Number=Sing|Person=3|Tense=Past	кричать (?)	VERB	ǧawisna
+ǧan-ka	ǧan	Case=Acc|Number=Sing	share (?)	NOUN	ǧanka
+ǧaw-is-na	ǧaw-	Number=Sing|Person=3|Tense=Past	кричать (?)	VERB	ǧawisna
 ǧel	ǧeel	Case=Loc|Number=Plur	age, time	NOUN	ǧel
-ǧelguka	ǧēl-	Case=Acc|Number=Plur	age, time	NOUN	ǧelguka
-ǧelguna	ǧel	Case=Gen|Number=Plur	время (век?)	NOUN	ǧelguna
+ǧel-gu-ka	ǧēl-	Case=Acc|Number=Plur	age, time	NOUN	ǧelguka
+ǧel-gu-na	ǧel	Case=Gen|Number=Plur	время (век?)	NOUN	ǧelguna
 ǧello	ǧeel	Case=Loc|Number=Sing	age, time	NOUN	ǧello
-ǧimmilguka	ǧimmil	Case=Acc|Number=Plur|PronType=Tot	all	PRON	ǧimmilguka
-ǧimmilgul	ǧimmil	Case=Nom|Definite=Def|Number=Plur|PronType=Tot	всякий, каждый	PRON	ǧimmilgul
+ǧimmil-gu-ka	ǧimmil	Case=Acc|Number=Plur|PronType=Tot	all	PRON	ǧimmilguka
+ǧimmil-gu-l	ǧimmil	Case=Nom|Definite=Def|Number=Plur|PronType=Tot	всякий, каждый	PRON	ǧimmilgul
 ǧodin	ǧu-	Aspect=Imp|Number=Sing|Person=2,3|Subordinative=Yes|Tense=Fut	идти; ехать	VERB	ǧodin
 ǧo-dra	ǧu-	Aspect=Imp|Tense=Fut|VerbForm=Conv	идти; ехать	VERB	ǧodra
-ǧoǧokil	ǧoǧok-	Tense=Pres|VerbForm=Part	постоянно приносить (?)	VERB	ǧoǧokil
+ǧoǧok-il	ǧoǧok-	Tense=Pres|VerbForm=Part	постоянно приносить (?)	VERB	ǧoǧokil
 ǧolam	ǧolam	_	pure/simply	ADJ	ǧolam
 ǧora	ǧo-	Aspect=Imp|VerbForm=Conv	идти; ехать	VERB	ǧora
 ǧora	ǧōr-	VerbForm=Conv	depart	VERB	ǧora
@@ -221,25 +221,25 @@ ǧuntuṅ-a	ǧuntuṅ-	VerbForm=Conv	зачать, забеременеть	VE
 ǧuntuṅa'	ǧuntuṅ-	VerbForm=Conv	зачать, забеременеть	VERB	ǧuntuṅa'
 ǧuntuṅarr[a]	ǧuntuṅ-	Tense=Fut|VerbForm=Conv	зачать, забеременеть	VERB	ǧuntuṅarr[a]
 ǧur	ǧur	Case=Nom|Number=Sing	cause	NOUN	ǧur
-ǧure	ǧu-	Number=Sing|Person=1|Tense=Fut	идти; ехать	VERB	ǧure
-ǧurigra	ǧurig-	Aspect=Imp|VerbForm=Conv	take as cause	VERB	ǧurigra
+ǧu-r-e	ǧu-	Number=Sing|Person=1|Tense=Fut	идти; ехать	VERB	ǧure
+ǧurig-r-a	ǧurig-	Aspect=Imp|VerbForm=Conv	take as cause	VERB	ǧurigra
 ǧuriȧ	_	_	из-за; потому что	ADP	ǧuriȧ
-ǧuse	ǧu-	Number=Sing|Person=1|Tense=Past	идти; ехать	VERB	ǧuse
-ǧīṅīdol	ǧīṅ-	Tense=Pqp|VerbForm=Part	mock (M.)	VERB	ǧīṅīdol
-ǧōra	ǧōr-	VerbForm=Conv	depart	VERB	ǧōra
-ǧōrosin	ǧōr-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	depart	VERB	ǧōrosin
+ǧu-s-e	ǧu-	Number=Sing|Person=1|Tense=Past	идти; ехать	VERB	ǧuse
+ǧīṅīd-o-l	ǧīṅ-	Tense=Pqp|VerbForm=Part	mock (M.)	VERB	ǧīṅīdol
+ǧōr-a	ǧōr-	VerbForm=Conv	depart	VERB	ǧōra
+ǧōro-s-in	ǧōr-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	depart	VERB	ǧōrosin
 ha	_	_		PART	ha
-harmildon	harm	Case=Del|Definite=Def|Number=Sing	heaven	NOUN	harmildon
-harmildon	harm	Case=Del|Number=Sing	heaven	NOUN	harmildon
+harm-il-don	harm	Case=Del|Definite=Def|Number=Sing	heaven	NOUN	harmildon
+harm-il-don	harm	Case=Del|Number=Sing	heaven	NOUN	harmildon
 i	_	Mood=Int		PART	i
 i'	_	Mood=Int		PART	i'
-iddal	ir	Case=Com|Number=Sing|Person=2|PronType=Prs	ты	PRON	iddal
-igongille	igon	Case=Dat|Number=Sing	образ, икона	NOUN	igongille
-igunguka	igon	Case=Acc|Number=Plur	icon	NOUN	igunguka
+id-dal	ir	Case=Com|Number=Sing|Person=2|PronType=Prs	ты	PRON	iddal
+igon-gille	igon	Case=Dat|Number=Sing	образ, икона	NOUN	igongille
+igun-gu-ka	igon	Case=Acc|Number=Plur	icon	NOUN	igunguka
 ik	ir	Case=Nom|Number=Sing|Person=2|PronType=Prs	ты	PRON	ik
 ika	_	Case=Acc		ADP	ika
 ikarigra	_	_	так, таким образом; итак	ADV	ikarigra
-ikka	ir	Case=Acc|Number=Sing|Person=2|PronType=Prs	ты	PRON	ikka
+ik-ka	ir	Case=Acc|Number=Sing|Person=2|PronType=Prs	ты	PRON	ikka
 ila'	i	Case=Ine|Number=Sing	рука	NOUN	ila'
 il-enko-n	il-	Mood=Cnd|Number=Sing|Person=3	говорить (?)	VERB	ilenkon
 iliw-gu-l	iliw	Case=Nom|Definite=Def|Number=Plur	женщины (или: пастыри)	NOUN	iliwgul
