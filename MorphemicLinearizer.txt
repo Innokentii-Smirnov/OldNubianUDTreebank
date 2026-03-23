@@ -1,7 +1,7 @@
 VERB	(<Aspect>-)(<Polarity>-)<Tense>-(<Mood>-)<Person><Number>(.<Subordinative>)
 VERB	(<Aspect>-)(<Polarity>-)<Mood>-<Person><Number>(.<Subordinative>)
 VERB	<Number[obj]><Tense>-<Person><Number>>
-VERB	(<Voice>-)(<Aspect>-)(<Tense>-)<VerbForm>((-<Number>)-<Case>)(><Number[obj]>)
+VERB	(<Voice>-)(<Aspect>-)(<Number[obj]>.O-)(<Tense>-)<VerbForm>((-<Number>)-<Case>)
 VERB	(<Aspect>.)(<Tense>.)<VerbForm>.<Subordinative>
 NOUN	(<Definite>-)(<Number>)-<Case>
 PRON	<PronType>.<Person><Number>

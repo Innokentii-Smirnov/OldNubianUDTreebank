@@ -138,7 +138,7 @@
 13	minana	mina	NOUN	_	Case=Gen|Number=Sing	15	nmod	_	Gloss=Мина|MSeg=mina-na
 14	mareotin	mareoti	NOUN	_	Case=Gen|Number=Sing	15	nmod	_	Gloss=Мареотис|MSeg=mareoti-n
 15	kissela	kisse	NOUN	_	Case=Ine|Number=Sing	16	obl	_	Gloss=церковь|MSeg=kisse-la
-16	awǧilguka	aw-	VERB	_	Case=Acc|Number=Plur|VerbForm=Part	10	acl	_	Gloss=делать|MSeg=aw-ǧ-il-gu-ka
+16	awǧilguka	aw-	VERB	_	Case=Acc|Number=Plur|Number[obj]=Plur|VerbForm=Part	10	acl	_	Gloss=делать|MSeg=aw-ǧ-il-gu-ka
 17	tariȧ	tar	PRON	_	Case=Ine|Number=Sing|PronType=Prs	18	iobj	_	Gloss=он, она, оно|MSeg=tar-iȧ
 18	pessna	pes-	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=говорить|MSeg=pes-s-na
 
