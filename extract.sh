@@ -1,0 +1,1 @@
+python ~/MorphemeSegmentationForUniversalDependencies/src/extract_morphosyntactic_words.py OldNubian.conllu MorphosyntacticWords.tsv

@@ -1,0 +1,1 @@
+python MorphemeSegmentationForUniversalDependencies/src/add_segmentations.py OldNubian.conllu MorphosyntacticWords.tsv

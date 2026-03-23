@@ -1,0 +1,3 @@
+[submodule "MorphemeSegmentationForUniversalDependencies"]
+	path = MorphemeSegmentationForUniversalDependencies
+	url = https://github.com/Innokentii-Smirnov/MorphemeSegmentationForUniversalDependencies.git
