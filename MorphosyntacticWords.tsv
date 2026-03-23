@@ -761,39 +761,39 @@ ulgr-a	ulg(i)r-	Aspect=Imp|VerbForm=Conv	слышать	VERB	ulgra
 ulgr-en	ulg(i)r-	Subordinative=Yes|VerbForm=Conv	слышать	VERB	ulgren
 ulgri-men-a	ulgir-	Polarity=Neg|VerbForm=Conv	hear	VERB	ulgrimena
 ulgri-men-il	ulg-	Case=Nom|Number=Sing|Number[obj]=Sing|Polarity=Neg|VerbForm=Part	hear	VERB	ulgrimenil
-unna	un-	Number=Sing|Person=3|Tense=Pres	love	VERB	unna
-unna	unna-	VerbForm=Conv	love	VERB	unna
-unnadimmana	unnu-	Mood=Sub|Number=Plur|Person=3|Tense=Fut	рожать	VERB	unnadimmana
-unnara	unnu-	Aspect=Imp|Case=Abs|Number=Sing|VerbForm=Part	рождать	VERB	unnara
-unn-ara-men-na	unn-, unnu-	Number=Sing|Person=3|Polarity=Neg|Tense=Past	рожать	VERB	unnaramenna
+un-na	un-	Number=Sing|Person=3|Tense=Pres	love	VERB	unna
+unn-a	unna-	VerbForm=Conv	love	VERB	unna
+unna-d-imm-ana	unnu-	Mood=Sub|Number=Plur|Person=3|Tense=Fut	рожать	VERB	unnadimmana
+unna-r-a	unnu-	Aspect=Imp|Case=Abs|Number=Sing|VerbForm=Part	рождать	VERB	unnara
+unna-ra-men-na	unn-, unnu-	Number=Sing|Person=3|Polarity=Neg|Tense=Past	рожать	VERB	unnaramenna
 unnarrasi	unn-	Aspect=Imp|Tense=Past|VerbForm=Part	рожать	VERB	unnarrasi
-unnasin	unna-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	love	VERB	unnasin
-unnatikkoan	unnat(i)r-	Mood=Cnd|Number=Plur|Person=3|Subordinative=Yes	заставлять рожать	VERB	unnatikkoan
+unna-s-in	unna-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	love	VERB	unnasin
+unnatik-ko-an	unnat(i)r-	Mood=Cnd|Number=Plur|Person=3|Subordinative=Yes	заставлять рожать	VERB	unnatikkoan
 unn-e	unn-, unnu-	Mood=Imp|Number=Sing|Person=2	рожать	VERB	unne
-unnin	unn-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pres	bear (child)	VERB	unnin
-unnisana	unn-	Number=Plur|Person=3|Tense=Past	рожать	VERB	unnisana
-unnol	unnu-	Tense=Pqp|VerbForm=Part	рождать	VERB	unnol
-unnre	unn-, unnu-	Number=Sing|Person=1|Tense=Pres	рожать	VERB	unnre
-unnusana	unnu-	Number=Sing|Person=3|Tense=Past	рожать	VERB	unnusana
+unn-in	unn-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pres	bear (child)	VERB	unnin
+unn-is-ana	unn-	Number=Plur|Person=3|Tense=Past	рожать	VERB	unnisana
+unn-o-l	unnu-	Tense=Pqp|VerbForm=Part	рождать	VERB	unnol
+unn-r-e	unn-, unnu-	Number=Sing|Person=1|Tense=Pres	рожать	VERB	unnre
+unnu-s-ana	unnu-	Number=Sing|Person=3|Tense=Past	рожать	VERB	unnusana
 unnu-si-n	unn-, unnu-	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	рожать	VERB	unnusin
 unnu-s-na	unn-, unnu-	Number=Sing|Person=3|Tense=Past	рожать	VERB	unnusna
-unnusna	unnu-	Number=Sing|Person=3|Tense=Past	рожать	VERB	unnusna
-untik'	unt(i)	Case=Acc|Number=Sing	любовь, милость	NOUN	untik'
-untika	unti	Case=Acc|Number=Sing	love	NOUN	untika
-urildo	ur	Case=Sup|Definite=Def|Number=Sing	голова	NOUN	urildo
-urin	ur	Case=Gen|Number=Sing	head	NOUN	urin
-urkrigul	uk(u)r	Case=Nom|Definite=Def|Number=Plur	день	NOUN	urkrigul
+unnu-s-na	unnu-	Number=Sing|Person=3|Tense=Past	рожать	VERB	unnusna
+unti-k'	unt(i)	Case=Acc|Number=Sing	любовь, милость	NOUN	untik'
+unti-ka	unti	Case=Acc|Number=Sing	love	NOUN	untika
+ur-il-do	ur	Case=Sup|Definite=Def|Number=Sing	голова	NOUN	urildo
+ur-in	ur	Case=Gen|Number=Sing	head	NOUN	urin
+urkri-gu-l	uk(u)r	Case=Nom|Definite=Def|Number=Plur	день	NOUN	urkrigul
 uru	ur	Case=Nom|Number=Sing|Person=2|PronType=Prs	you	PRON	uru
-uskra	usk(u)r-	VerbForm=Conv	класть	VERB	uskra
-uskursna	usk(u)r-	Number=Sing|Person=3|Tense=Past	класть	VERB	uskursna
-utratirsna	utrat(i)r-	Number=Sing|Person=3|Tense=Past	класть	VERB	utratirsna
+uskr-a	usk(u)r-	VerbForm=Conv	класть	VERB	uskra
+uskur-s-na	usk(u)r-	Number=Sing|Person=3|Tense=Past	класть	VERB	uskursna
+utratir-s-na	utrat(i)r-	Number=Sing|Person=3|Tense=Past	класть	VERB	utratirsna
 utudd-r-e	utud-	Number=Sing|Person=1|Tense=Fut	жертвовать, дарить	VERB	utuddre
 we	_	PronType=Ind	one	DET	we
 wed	wel	_	один; некий	DET	wed
 wek	wel	_	один; некий	DET	wek
 wek	wel	_	один; некий	NUM	wek
 wek-ka	wel	Case=Acc	один; некий	NUM	wekka
-wekka	wel	Case=Acc|Number=Sing|PronType=Dem	one	PRON	wekka
+wek-ka	wel	Case=Acc|Number=Sing|PronType=Dem	one	PRON	wekka
 wel	_	PronType=Ind		DET	wel
 wel	_	PronType=Ind	one	DET	wel
 wel	_	_	one	DET	wel
@@ -803,18 +803,18 @@ wel	wel	_	один; некий	DET	wel
 wel	wel	Case=Nom|Number=Sing|PronType=Ind	one	PRON	wel
 wel	wel	Case=Nom|Number=Sing|PronType=Ind	один; некий	PRON	wel
 wel	wel	Case=Nom|Number=Sing|PronType=Prs	one	PRON	wel
-welka	wel	Case=Acc|Number=Sing|PronType=Dem	one	PRON	welka
-welka	wel	Case=Acc|Number=Sing|PronType=Ind	one	PRON	welka
+wel-ka	wel	Case=Acc|Number=Sing|PronType=Dem	one	PRON	welka
+wel-ka	wel	Case=Acc|Number=Sing|PronType=Ind	one	PRON	welka
 wel-lo	wel	Case=Loc|PronType=Ind	один; некий	DET	wello
 wen	wel	_	один; некий	DET	wen
 wer	wer	_	one	NUM	wer
-weran	wer-	Subordinative=Yes|VerbForm=Conv		VERB	weran
-weranno	weran	Case=Loc|Number=Sing	?	NOUN	weranno
+wera-n	wer-	Subordinative=Yes|VerbForm=Conv		VERB	weran
+weran-no	weran	Case=Loc|Number=Sing	?	NOUN	weranno
 weru	wer	_	one	NUM	weru
 widilla	widillo	_	снова (?)	ADV	widilla
 widillo	_	_	снова (?)	ADV	widillo
 wilen	wil-	Subordinative=Yes|VerbForm=Conv	?	VERB	wilen
-wuȧ	wu-	VerbForm=Conv	кричать, вопить	VERB	wuȧ
+wu-ȧ	wu-	VerbForm=Conv	кричать, вопить	VERB	wuȧ
 wīa	_	_	woe	INTJ	wīa
 wīa	_	_	woe!	INTJ	wīa
 wīsk	wīsk	Case=Acc|Number=Sing	change, exchange	NOUN	wīsk
@@ -823,17 +823,17 @@ wīȧ	_	_	woe	NOUN	wīȧ
 yon	_	_		SCONJ	yon
 yon	lon	_	а, и, но	CCONJ	yon
 ï	_	Mood=Int		PART	ï
-ïereosil	iėreȯs	Case=Nom|Definite=Def|Number=Sing	priest	NOUN	ïereosil
-ïereosilo	iėreȯs	Case=Loc|Number=Sing	priest	NOUN	ïereosilo
-ïereosin	iėreȯs	Case=Gen|Number=Sing	priest	NOUN	ïereosin
+ïereosi-l	iėreȯs	Case=Nom|Definite=Def|Number=Sing	priest	NOUN	ïereosil
+ïereosi-lo	iėreȯs	Case=Loc|Number=Sing	priest	NOUN	ïereosilo
+ïereosi-n	iėreȯs	Case=Gen|Number=Sing	priest	NOUN	ïereosin
 ïereosu	iėreȯs	Case=Sup|Number=Sing	priest	NOUN	ïereosu
-ïereȯsinka	iereȯsin	Case=Acc|Number=Sing	priesthood	NOUN	ïereȯsinka
-ïereȯska	iėreȯs	Case=Acc|Number=Sing	priest	NOUN	ïereȯska
-ïerusalimīa	ïerusalim	Case=Ine|Number=Sing	Jerusalem	PROPN	ïerusalimīa
-ïerusalēmēa	ierusalēm	Case=Loc|Number=Sing	Jerusalem	PROPN	ïerusalēmēa
+ïereȯsin-ka	iereȯsin	Case=Acc|Number=Sing	priesthood	NOUN	ïereȯsinka
+ïereȯs-ka	iėreȯs	Case=Acc|Number=Sing	priest	NOUN	ïereȯska
+ïerusalim-īa	ïerusalim	Case=Ine|Number=Sing	Jerusalem	PROPN	ïerusalimīa
+ïerusalēm-ēa	ierusalēm	Case=Loc|Number=Sing	Jerusalem	PROPN	ïerusalēmēa
 ïisusi	_	_	Jesus	PROPN	ïisusi
-ïudaiosrīgul	iudaios	Animacy=Anim|Case=Nom|Number=Plur	Jews	NOUN	ïudaiosrīgul
-ïīudaiȯsrī	iudaios	Animacy=Anim|Case=Acc|Number=Plur	Jews	NOUN	ïīudaiȯsrī
+ïudaios-rī-gu-l	iudaios	Animacy=Anim|Case=Nom|Number=Plur	Jews	NOUN	ïudaiosrīgul
+ïīudaiȯs-rī	iudaios	Animacy=Anim|Case=Acc|Number=Plur	Jews	NOUN	ïīudaiȯsrī
 ïō̇sēfi	ïō̇sēf	Case=Nom|Number=Sing		PROPN	ïō̇sēfi
 ēkkulli	_	_	?	NOUN	ēkkulli
 ė	_	_		INTJ	ė
@@ -843,31 +843,31 @@ yon	lon	_	а, и, но	CCONJ	yon
 ėkel	ėkel	Case=Nom|Number=Sing	thing (?), act (?)	NOUN	ėkel
 ėl	_	_	now	ADV	ėl
 ėl-a	ėl-	VerbForm=Conv	находить	VERB	ėla
-ėlin	el	Case=Gen|Number=Sing	сейчас	NOUN	ėlin
-ėmentela	emente	Case=Ine|Number=Sing	hell	NOUN	ėmentela
-ėn	er	Case=Gen|Number=Plur|PronType=Prs	we	PRON	ėn
-ėnen	en-	Subordinative=Yes|VerbForm=Conv	быть	VERB	ėnen
-ėnen	īn-	Subordinative=Yes|VerbForm=Conv	be	VERB	ėnen
+ėl-in	el	Case=Gen|Number=Sing	сейчас	NOUN	ėlin
+ėmente-la	emente	Case=Ine|Number=Sing	hell	NOUN	ėmentela
+ė-n	er	Case=Gen|Number=Plur|PronType=Prs	we	PRON	ėn
+ėn-en	en-	Subordinative=Yes|VerbForm=Conv	быть	VERB	ėnen
+ėn-en	īn-	Subordinative=Yes|VerbForm=Conv	be	VERB	ėnen
 ėsin	_	_		CCONJ	ėsin
 ī[sin]	_	_		INTJ	ī[sin]
 īappa	_	_	for	SCONJ	īappa
-īgra	īgir-	VerbForm=Conv	say, speak (M.)	VERB	īgra
+īgr-a	īgir-	VerbForm=Conv	say, speak (M.)	VERB	īgra
 īgīr	īgir	Case=Nom|Number=Sing	saying (???)	NOUN	īgīr
-īkka	īr	Case=Acc|Number=Sing|Person=2|PronType=Prs	thou	PRON	īkka
-īla	ī	Case=Ine|Number=Sing	hand	NOUN	īla
-īlaltelo	īlante	Case=Loc|Number=Sing	fullness (?)	NOUN	īlaltelo
+īk-ka	īr	Case=Acc|Number=Sing|Person=2|PronType=Prs	thou	PRON	īkka
+ī-la	ī	Case=Ine|Number=Sing	hand	NOUN	īla
+īlalte-lo	īlante	Case=Loc|Number=Sing	fullness (?)	NOUN	īlaltelo
 īlle	īlle	Case=Abs|Number=Sing	wheat	NOUN	īlle
 īlle	īlle	Case=Acc|Number=Sing	wheat	NOUN	īlle
 īn	_	PronType=Dem	this	DET	īn
 īn	_	_	that	DET	īn
 īn	_	_	this	DET	īn
 īn	īn	Case=Nom|PronType=Dem	this	PRON	īn
-īningul	īn	Number=Plur|Definite=Def|PronType=Dem	this	PRON	īningul
-īnka	īn	Case=Acc|PronType=Sing	this	PRON	īnka
-īnna	īr	Case=Gen|Number=Sing|Person=3|PronType=Prs	thou	PRON	īnna
-īnno	īn	Case=Loc|PronType=Dem	this	PRON	īnno
-īnēn	īn-	Subordinative=Yes|VerbForm=Conv	be	AUX	īnēn
-īnēngula	īn	Case=Ine|Number=Plur|PronType=Dem	this	PRON	īnēngula
+īnin-gu-l	īn	Number=Plur|Definite=Def|PronType=Dem	this	PRON	īningul
+īn-ka	īn	Case=Acc|PronType=Sing	this	PRON	īnka
+īn-na	īr	Case=Gen|Number=Sing|Person=3|PronType=Prs	thou	PRON	īnna
+īn-no	īn	Case=Loc|PronType=Dem	this	PRON	īnno
+īn-ēn	īn-	Subordinative=Yes|VerbForm=Conv	be	AUX	īnēn
+īnēn-gu-la	īn	Case=Ine|Number=Plur|PronType=Dem	this	PRON	īnēngula
 īr	īr	Case=Nom|Number=Sing|Person=2|PronType=Prs	thou	PRON	īr
 īrkīs	īrkīs	_	?	X	īrkīs
 īru	īr	Case=Nom|Number=Sing|Person=2|PronType=Prs	thou	PRON	īru
@@ -877,47 +877,47 @@ yon	lon	_	а, и, но	CCONJ	yon
 īt	īt	_	person	NOUN	īt
 īt	īt-	VerbForm=Conv	take, receive	VERB	īt
 īt	īt-	VerbForm=Inf	take, receive	VERB	īt
-īta	īt	Case=Abs|Number=Sing	mad	NOUN	īta
-īta	īt	Case=Abs|Number=Sing	person	NOUN	īta
-īte	īt-	_	take, receive	VERB	īte
-īten	īt-	Subordinative=Yes|VerbForm=Conv	take, receive	VERB	īten
-ītminna	īt-	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	take, receive	VERB	ītminna
-īttenen	ītten-	Subordinative=Yes|VerbForm=Conv	be woman	VERB	īttenen
+īt-a	īt	Case=Abs|Number=Sing	mad	NOUN	īta
+īt-a	īt	Case=Abs|Number=Sing	person	NOUN	īta
+īt-e	īt-	_	take, receive	VERB	īte
+īt-en	īt-	Subordinative=Yes|VerbForm=Conv	take, receive	VERB	īten
+īt-min-na	īt-	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	take, receive	VERB	ītminna
+ītten-en	ītten-	Subordinative=Yes|VerbForm=Conv	be woman	VERB	īttenen
 ītu	īt	Case=Nom|Number=Sing	person	NOUN	ītu
 ītu	īt	Case=Sup|Number=Sing	person	NOUN	ītu
 ītī	īt	Case=Com|Definite=Def|Number=Sing	person	NOUN	ītī
 īïuda	īïuda	Case=Sup|Number=Sing	Judas	PROPN	īïuda
-īïudadal	īïuda	Case=Com|Number=Sing	Judas	PROPN	īïudadal
+īïuda-dal	īïuda	Case=Com|Number=Sing	Judas	PROPN	īïudadal
 īė	ī	Case=Abs|Number=Plur	man	NOUN	īė
-šaakka	šaa	Case=Acc|Number=Sing	дверь	NOUN	šaakka
-šak	ša	Case=Acc|Number=Sing	копье	NOUN	šak
+šaa-kka	šaa	Case=Acc|Number=Sing	дверь	NOUN	šaakka
+ša-k	ša	Case=Acc|Number=Sing	копье	NOUN	šak
 šik-gu-la	šik	Case=Ine|Number=Plur	округ, область, окрестность	NOUN	šikgula
 ȧ	_	_		ADP	ȧ
 ȧ	_	Mood=Sub		PART	ȧ
 ȧg-en	ag-	Subordinative=Yes|VerbForm=Conv	сидеть; долго быть, пребывать	VERB	ȧgen
-ȧgiȯsin	ȧgiȯs	Case=Gen|Number=Sing	святой	NOUN	ȧgiȯsin
-ȧgoppa	agopp(i)	Case=Abs|Number=Sing	корабельщик, кормчий	NOUN	ȧgoppa
-ȧgoppigille	agopp(i)	Case=Dat|Number=Sing	корабельщик, кормчий	NOUN	ȧgoppigille
-ȧgorisska	agor-	Case=Acc|Number=Sing|Tense=Past|VerbForm=Part	забывать	VERB	ȧgorisska
-ȧika	ay	Case=Acc|Number=Sing|Person=1|PronType=Prs	я	PRON	ȧika
-ȧkil	ag-	Tense=Pres|VerbForm=Part	сидеть	VERB	ȧkil
-ȧkossa	akoss	Case=Abs|Number=Sing	wicked (?)	ADJ	ȧkossa
+ȧgiȯsi-n	ȧgiȯs	Case=Gen|Number=Sing	святой	NOUN	ȧgiȯsin
+ȧgopp-a	agopp(i)	Case=Abs|Number=Sing	корабельщик, кормчий	NOUN	ȧgoppa
+ȧgoppi-gille	agopp(i)	Case=Dat|Number=Sing	корабельщик, кормчий	NOUN	ȧgoppigille
+ȧgor-iss-ka	agor-	Case=Acc|Number=Sing|Tense=Past|VerbForm=Part	забывать	VERB	ȧgorisska
+ȧi-ka	ay	Case=Acc|Number=Sing|Person=1|PronType=Prs	я	PRON	ȧika
+ȧk-il	ag-	Tense=Pres|VerbForm=Part	сидеть	VERB	ȧkil
+ȧkoss-a	akoss	Case=Abs|Number=Sing	wicked (?)	ADJ	ȧkossa
 ȧkossa	akoss	Case=Loc|Number=Plur	wicked (?)	ADJ	ȧkossa
 ȧle	_	_	verily	ADV	ȧle
 ȧle	_	_	воистину	ADV	ȧle
-ȧlelo	ale	Case=Loc|Number=Sing	истина, правда	NOUN	ȧlelo
+ȧle-lo	ale	Case=Loc|Number=Sing	истина, правда	NOUN	ȧlelo
 ȧlexandre-n	_	Case=Gen|Number=Sing	Александрия	NOUN	ȧlexandren
 ȧman-do'	aman	Case=Sup|Number=Sing	вода, Нил	NOUN	ȧmando'
 ȧmin	_	_	аминь	INTJ	ȧmin
-ȧpoggil	agopp(i)	Case=Dat|Number=Sing	корабельщик, кормчий	NOUN	ȧpoggil
-ȧpoggil	agopp(i)	Case=Nom|Definite=Def|Number=Sing	корабельщик, кормчий	NOUN	ȧpoggil
+ȧpoggi-l	agopp(i)	Case=Dat|Number=Sing	корабельщик, кормчий	NOUN	ȧpoggil
+ȧpoggi-l	agopp(i)	Case=Nom|Definite=Def|Number=Sing	корабельщик, кормчий	NOUN	ȧpoggil
 ȧpostologin	_	Case=Acc|Number=Sing	epistle	NOUN	ȧpostologin
-ȧsin	as	Case=Gen|Number=Sing	трюм	NOUN	ȧsin
-ȧwkka	aw(i)	Case=Acc|Number=Sing	лодка, корабль	NOUN	ȧwkka
-ȧwn'	aw(i)	Case=Gen|Number=Sing	лодка, корабль	NOUN	ȧwn'
+ȧs-in	as	Case=Gen|Number=Sing	трюм	NOUN	ȧsin
+ȧwk-ka	aw(i)	Case=Acc|Number=Sing	лодка, корабль	NOUN	ȧwkka
+ȧw-n'	aw(i)	Case=Gen|Number=Sing	лодка, корабль	NOUN	ȧwn'
 ȧy	ay	Case=Nom|Number=Sing|Person=1|PronType=Prs	я	PRON	ȧy
-ȧīl	aī	Case=Acc|Definite=Def|Number=Sing		NOUN	ȧīl
-ȧīra	aīr-	Aspect=ImpVerbForm=Conv	insult	VERB	ȧīra
+ȧī-l	aī	Case=Acc|Definite=Def|Number=Sing		NOUN	ȧīl
+ȧīr-a	aīr-	Aspect=ImpVerbForm=Conv	insult	VERB	ȧīra
 ȯgīǧenīn	ogīǧen-	Subordinative=Yes|VerbForm=Conv	be man	VERB	ȯgīǧenīn
 ȯke	ȯk-	Mood=Imp|Number=Sing|Person=2	называть, звать	VERB	ȯke
 ȯn	_	_	и, а	CCONJ	ȯn
