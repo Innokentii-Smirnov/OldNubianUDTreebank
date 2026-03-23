@@ -918,50 +918,50 @@ yon	lon	_	а, и, но	CCONJ	yon
 ȧy	ay	Case=Nom|Number=Sing|Person=1|PronType=Prs	я	PRON	ȧy
 ȧī-l	aī	Case=Acc|Definite=Def|Number=Sing		NOUN	ȧīl
 ȧīr-a	aīr-	Aspect=ImpVerbForm=Conv	insult	VERB	ȧīra
-ȯgīǧenīn	ogīǧen-	Subordinative=Yes|VerbForm=Conv	be man	VERB	ȯgīǧenīn
+ȯgīǧen-īn	ogīǧen-	Subordinative=Yes|VerbForm=Conv	be man	VERB	ȯgīǧenīn
 ȯke	ȯk-	Mood=Imp|Number=Sing|Person=2	называть, звать	VERB	ȯke
 ȯn	_	_	и, а	CCONJ	ȯn
 ȯro	_	_	with, through	ADP	ȯro
-ȯȯkirsna	ȯȯk-	Number=Sing|Number[obj]=Sing|Person=3|Tense=Past	звать	VERB	ȯȯkirsna
+ȯȯk-ir-s-na	ȯȯk-	Number=Sing|Number[obj]=Sing|Person=3|Tense=Past	звать	VERB	ȯȯkirsna
 ṅad	ṅa	Case=Nom|Definite=Def|Number=Sing	son	NOUN	ṅad
 ṅadilgul	ṅad-	Case=Nom|Definite=Def|Number=Plur|VerbForm=Part	fall (M.)	VERB	ṅadilgul
 ṅaer	ṅaer	Case=Acc|Number=Sing	?	NOUN	ṅaer
 ṅak	ṅa	Case=Acc|Number=Sing	сын	NOUN	ṅak
 ṅa-ka	ṅa	Case=Acc|Number=Sing	сын	NOUN	ṅaka
-ṅakka	ṅa	Case=Acc|Definite=Def|Number=Sing	son	NOUN	ṅakka
-ṅakka	ṅa	Case=Acc|Number=Sing	сын	NOUN	ṅakka
-ṅal	ṅa	Case=Acc|Definite=Def|Number=Sing	сын	NOUN	ṅal
-ṅal	ṅa	Case=Gen|Definite=Def|Number=Sing	сын	NOUN	ṅal
-ṅal	ṅa	Case=Loc|Definite=Def|Number=Sing	son	NOUN	ṅal
-ṅal	ṅa	Case=Nom|Definite=Def|Number=Sing	сын	NOUN	ṅal
-ṅalen	ṅal-	Subordinative=Yes|VerbForm=Conv	видеть	VERB	ṅalen
-ṅalgille	ṅa	Case=Dat|Definite=Def|Number=Sing	сын	NOUN	ṅalgille
-ṅaliǧimme	ṅal-	Mood=Sub|Number=Sing|Number[obj]=Plur|Person=1	see	VERB	ṅaliǧimme
+ṅa-k-ka	ṅa	Case=Acc|Definite=Def|Number=Sing	son	NOUN	ṅakka
+ṅa-k-ka	ṅa	Case=Acc|Number=Sing	сын	NOUN	ṅakka
+ṅa-l	ṅa	Case=Acc|Definite=Def|Number=Sing	сын	NOUN	ṅal
+ṅa-l	ṅa	Case=Gen|Definite=Def|Number=Sing	сын	NOUN	ṅal
+ṅa-l	ṅa	Case=Loc|Definite=Def|Number=Sing	son	NOUN	ṅal
+ṅa-l	ṅa	Case=Nom|Definite=Def|Number=Sing	сын	NOUN	ṅal
+ṅal-en	ṅal-	Subordinative=Yes|VerbForm=Conv	видеть	VERB	ṅalen
+ṅal-gille	ṅa	Case=Dat|Definite=Def|Number=Sing	сын	NOUN	ṅalgille
+ṅal-iǧ-imm-e	ṅal-	Mood=Sub|Number=Sing|Number[obj]=Plur|Person=1	see	VERB	ṅaliǧimme
 ṅalu	ṅal-	_	видеть	VERB	ṅalu
-ṅalullo	ṅalu	Case=Loc|Definite=Def|Number=Sing	sleep	NOUN	ṅalullo
-ṅan	ṅa	Case=Gen|Number=Sing	сын	NOUN	ṅan
+ṅalu-l-lo	ṅalu	Case=Loc|Definite=Def|Number=Sing	sleep	NOUN	ṅalullo
+ṅa-n	ṅa	Case=Gen|Number=Sing	сын	NOUN	ṅan
 ṅapaṅa	ṅapa	_	far from?	X	ṅapaṅa
-ṅapegun	ṅape	Case=Gen|Number=Plur	sin	NOUN	ṅapegun
-ṅapegun	ṅape	Case=Gen|Number=Plur	грех	NOUN	ṅapegun
-ṅapeka	ṅape	Case=Acc|Number=Sing	sin	NOUN	ṅapeka
-ṅapeka	ṅape	Case=Acc|Number=Sing	грех	NOUN	ṅapeka
-ṅapen	ṅape	Case=Gen|Number=Sing	sin	NOUN	ṅapen
+ṅape-gu-n	ṅape	Case=Gen|Number=Plur	sin	NOUN	ṅapegun
+ṅape-gu-n	ṅape	Case=Gen|Number=Plur	грех	NOUN	ṅapegun
+ṅape-ka	ṅape	Case=Acc|Number=Sing	sin	NOUN	ṅapeka
+ṅape-ka	ṅape	Case=Acc|Number=Sing	грех	NOUN	ṅapeka
+ṅape-n	ṅape	Case=Gen|Number=Sing	sin	NOUN	ṅapen
 ṅarro	_	_	outside	ADP	ṅarro
-ṅegimenkon	ṅeg-	Mood=Cnd|Number=Sing|Person=3|Polarity=Neg	бояться, пугаться	VERB	ṅegimenkon
-ṅegra	ṅeg-	Case=Abs|Number=Sing|Aspect=Imp|VerbForm=Part	be troubled, fear	VERB	ṅegra
+ṅeg-imen-ko-n	ṅeg-	Mood=Cnd|Number=Sing|Person=3|Polarity=Neg	бояться, пугаться	VERB	ṅegimenkon
+ṅeg-r-a	ṅeg-	Case=Abs|Number=Sing|Aspect=Imp|VerbForm=Part	be troubled, fear	VERB	ṅegra
 ṅes	ṅes	Case=Nom|Number=Sing	pause, weariness	NOUN	ṅes
 ṅey-n	ṅey	Case=Gen|Number=Sing	вещь, дело	NOUN	ṅeyn
 ṅi	_	_	когда	SCONJ	ṅi
-ṅilsna	ṅil-	Number=Sing|Person=3|Tense=Past	видеть	VERB	ṅilsna
-ṅimissom	ṅī-	Mood=Sub|Number=Sing|Person=1|Polarity=Neg|Tense=Past	drink	VERB	ṅimissom
+ṅil-s-na	ṅil-	Number=Sing|Person=3|Tense=Past	видеть	VERB	ṅilsna
+ṅi-mis-s-om	ṅī-	Mood=Sub|Number=Sing|Person=1|Polarity=Neg|Tense=Past	drink	VERB	ṅimissom
 ṅiss	ṅiss(i)	_	святой	ADJ	ṅiss
-ṅisselo	kisse	Case=Loc|Number=Sing	church	NOUN	ṅisselo
+ṅisse-lo	kisse	Case=Loc|Number=Sing	church	NOUN	ṅisselo
 ṅissi	ṅiss	_	holy	ADJ	ṅissi
 ṅissi	ṅiss(i)	_	святой	NOUN	ṅissi
-ṅissil	ṅiss(i)	_	святой	ADJ	ṅissil
-ṅissil	ṅiss(i)	Case=Nom|Definite=Def|Number=Sing	святой	NOUN	ṅissil
-ṅissna	ṅil-	Number=Sing|Person=3|Tense=Past	видеть	VERB	ṅissna
-ṅissna	ṅiss(i)	Case=Gen|Number=Sing	святой	NOUN	ṅissna
+ṅissi-l	ṅiss(i)	_	святой	ADJ	ṅissil
+ṅissi-l	ṅiss(i)	Case=Nom|Definite=Def|Number=Sing	святой	NOUN	ṅissil
+ṅis-s-na	ṅil-	Number=Sing|Person=3|Tense=Past	видеть	VERB	ṅissna
+ṅiss-na	ṅiss(i)	Case=Gen|Number=Sing	святой	NOUN	ṅissna
 ṅissu	ṅiss	_	holy	ADJ	ṅissu
 ṅissu	ṅiss	Case=Gen|Number=Sing	святой	NOUN	ṅissu
 ṅissu	ṅiss	_	святой	NOUN	ṅissu
@@ -969,25 +969,25 @@ yon	lon	_	а, и, но	CCONJ	yon
 ṅissu	ṅiss(i)	Case=Acc	святой	NOUN	ṅissu
 ṅissu	ṅiss(i)	Case=Nom|Number=Sing	святой	NOUN	ṅissu
 ṅissu	ṅiss(i)	_	святой	NOUN	ṅissu
-ṅodil	ṅod	Case=Nom|Definite=Def|Number=Sing	Lord	NOUN	ṅodil
-ṅodil	ṅod	Case=Nom|Definite=Def|Number=Sing	господин, господь	NOUN	ṅodil
-ṅodin	ṅod	Case=Gen|Number=Sing	Lord	NOUN	ṅodin
+ṅod-il	ṅod	Case=Nom|Definite=Def|Number=Sing	Lord	NOUN	ṅodil
+ṅod-il	ṅod	Case=Nom|Definite=Def|Number=Sing	господин, господь	NOUN	ṅodil
+ṅod-in	ṅod	Case=Gen|Number=Sing	Lord	NOUN	ṅodin
 ṅodu	ṅod	Case=Loc|Number=Sing	Lord	NOUN	ṅodu
 ṅodu	ṅod	Case=Loc|Number=Sing	господин, господь	NOUN	ṅodu
 ṅog-la	ṅoog	Case=Ine|Number=Sing	дом	NOUN	ṅogla
-ṅoglo	ṅoog	Case=Loc|Number=Sing	дом	NOUN	ṅoglo
-ṅoka	ṅok-	VerbForm=Conv	проходить	VERB	ṅoka
-ṅokil	ṅook	Case=Nom|Definite=Def|Number=Sing	glory, honour	NOUN	ṅokil
-ṅokil	ṅook	Case=Nom|Definite=Def|Number=Sing	слава, честь	NOUN	ṅokil
+ṅog-lo	ṅoog	Case=Loc|Number=Sing	дом	NOUN	ṅoglo
+ṅok-a	ṅok-	VerbForm=Conv	проходить	VERB	ṅoka
+ṅok-il	ṅook	Case=Nom|Definite=Def|Number=Sing	glory, honour	NOUN	ṅokil
+ṅok-il	ṅook	Case=Nom|Definite=Def|Number=Sing	слава, честь	NOUN	ṅokil
 ṅokkor	ṅokkor	Case=Acc|Definite=Def|Number=Sing	чудо	NOUN	ṅokkor
 ṅokkor-a	ṅokkor	Case=Abs|Number=Sing	чудо	NOUN	ṅokkora
-ṅoktirsana	ṅokt(i)r-	Number=Plur|Person=3|Tense=Past	почитать, славить	VERB	ṅoktirsana
-ṅonǧa	ṅonǧ-	VerbForm=Conv	стоять	VERB	ṅonǧa
-ṅonǧara	ṅonǧ-	Aspect=Imp|VerbForm=Conv	стоять	VERB	ṅonǧara
+ṅoktir-s-ana	ṅokt(i)r-	Number=Plur|Person=3|Tense=Past	почитать, славить	VERB	ṅoktirsana
+ṅonǧ-a	ṅonǧ-	VerbForm=Conv	стоять	VERB	ṅonǧa
+ṅonǧ-ar-a	ṅonǧ-	Aspect=Imp|VerbForm=Conv	стоять	VERB	ṅonǧara
 ṅonǧ-illa	ṅonǧ-	VerbForm=Part	стоять	VERB	ṅonǧilla
-ṅooggille	ṅoog	Case=Dat|Number=Sing	дом	NOUN	ṅooggille
-ṅooktram	ṅooktr-	Mood=Imp|Number=Plur|Person=1	glorify	VERB	ṅooktram
-ṅukitka	ṅukt	Case=Acc|Number=Sing	?	NOUN	ṅukitka
+ṅoog-gille	ṅoog	Case=Dat|Number=Sing	дом	NOUN	ṅooggille
+ṅooktr-am	ṅooktr-	Mood=Imp|Number=Plur|Person=1	glorify	VERB	ṅooktram
+ṅukit-ka	ṅukt	Case=Acc|Number=Sing	?	NOUN	ṅukitka
 ṅukt	ṅukt(i)	Case=Acc|Number=Sing	богатство	NOUN	ṅukt
 ṅulu	ṅulu	_	белый	NOUN	ṅulu
 ṡewatt-ka	sewatti	Case=Acc|Number=Sing	наследник	NOUN	ṡewattka
