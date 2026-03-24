@@ -1327,7 +1327,7 @@
 4	tril	tir-	VERB	_	Case=Nom|Number=Sing|VerbForm=Part	6	nsubj	_	Gloss=give (to you or them)|MSeg=tr-il
 5	kīka	kī	NOUN	_	Case=Acc|Number=Sing	6	obj	_	Gloss=vow|MSeg=kī-ka
 6	pesen	pes-	VERB	_	VerbForm=Conv|Subordinative=Yes	15	advcl	_	Gloss=say|MSeg=pes-en
-7	proskol	prosko	NOUN	_	Case=Nom|Definite=Def|Number=Sing	4	appos	_	Gloss=offering|MSeg=prosko-l
+7	proskol	prosko	NOUN	_	Case=Acc|Definite=Def|Number=Sing	4	appos	_	Gloss=offering|MSeg=prosko-l
 8	kissello	kisse	NOUN	_	Case=Loc|Definite=Def|Number=Sing	9	obl	_	Gloss=church|MSeg=kisse-l-lo
 9	kenǧran	ken-	VERB	_	Aspect=Imp|Number=Plur|Number[obj]=Plur|Person=3|Subordinative=Yes|Tense=Pres	7	acl:relcl	_	Gloss=carry, place|MSeg=kenǧran
 10	gu	_	PART	_	_	7	number	_	MSeg=gu
@@ -1395,7 +1395,7 @@
 # translation = Have ye not heard that which is written, "... gift ... God, him that giveth cheerfully God loveth"?
 1	mna	_	PART	_	Mood=Int	2	advmod	_	Gloss=Lat. nonn|MSeg=mna
 2	ulgrimena	ulgir-	VERB	_	Polarity=Neg|VerbForm=Conv	0	root	_	Gloss=hear|MSeg=ulgri-men-a
-3	ke	_	PART	_	Person=2|Number=Plur	2	advmod	_	MSeg=ke
+3	ke	_	PART	_	_	2	advmod	_	MSeg=ke
 4	partakokka	par-	VERB	_	Case=Acc|Definite=Def|Number=Sing|VerbForm=Vnoun	2	obj	_	Gloss=write|MSeg=par-tako-k-ka
 5	tillika	till	NOUN	_	Case=Acc|Number=Sing	6	obj	_	Gloss=God|MSeg=tilli-ka
 6	[*****]titta	_	VERB	_	_	4	ccomp	_	Gloss=?|MSeg=[*****]titta
@@ -1410,7 +1410,7 @@
 # text = īta miššana sin tillil taṅsildo awulgul aï wilen tillil ȯro welka elmendinna lo
 # translation = All men who working for the name of God benefit themselves (?), they shall not find benefit (?) through God.
 1	īta	īt	NOUN	_	Case=Abs|Number=Sing	12	nsubj	_	Gloss=person|MSeg=īt-a
-2	miššana	miššan	DET	_	Case=Abs	1	det	_	Gloss=all, every|MSeg=miššana
+2	miššana	miššan	DET	_	Case=Abs|PronType=Tot	1	det	_	Gloss=all, every|MSeg=miššana
 3	sin	_	SCONJ	_	_	12	mark	_	MSeg=sin
 4	tillil	till	NOUN	_	Case=Nom|Definite=Def	5	nmod	_	Gloss=God|MSeg=tilli-l
 5	taṅsildo	taṅis	NOUN	_	Case=Sup|Definite=Def	6	obl	_	Gloss=name|MSeg=taṅs-il-do
@@ -1685,7 +1685,7 @@
 3	īïuda	īïuda	PROPN	_	Case=Sup|Number=Sing	9	obl	_	Gloss=Judas|MSeg=īïuda
 4	sola	sol-	VERB	_	VerbForm=Conv	5	advcl	_	Gloss=deceive, betray (?)|MSeg=sola
 5	dumma	dumm-	VERB	_	VerbForm=Conv	6	advcl	_	Gloss=take|MSeg=dumm-a
-6	tiǧǧo	tir-	VERB	_	Number[obj]=Plur|Tense=Pqp|VerbForm=PART	3	acl	_	Gloss=give (to you or them)|MSeg=tiǧ-ǧ-o
+6	tiǧǧo	tir-	VERB	_	Number[obj]=Plur|Tense=Pqp|VerbForm=Part	3	acl	_	Gloss=give (to you or them)|MSeg=tiǧ-ǧ-o
 7	do	_	ADP	_	_	3	case	_	MSeg=do
 8	min	_	PRON	_	Case=Nom|PronType=Int	9	nsubj	_	Gloss=what|MSeg=min
 9	awtakaraȧ	aw-	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Pass	1	ccomp	_	Gloss=do, make; passive become, happen|MSeg=aw-tak-ara-ȧ
@@ -1738,7 +1738,7 @@
 4	leǧun	_	ADP	_	_	3	case	_	Gloss=on account of (???)|MSeg=leǧun
 5	elle	elle	NOUN	_	Case=Nom|Number=Sing	7	obl	_	Gloss=time|MSeg=elle
 6	īïudadal	īïuda	PROPN	_	Case=Com|Number=Sing	7	obl	_	Gloss=Judas|MSeg=īïuda-dal
-7	middītakīnē	midd-	VERB	_	Voice=Pass	0	root	_	Gloss=condemn|MSeg=middītakīnē
+7	middītakīnē	midd-	VERB	_	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Voice=Pass	0	root	_	Gloss=condemn|MSeg=middītakīnē
 8	immīne	īn-	AUX	_	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	7	cop	_	Gloss=be|MSeg=immīne
 9	so	_	PART	_	Mood=Imp	8	advmod	_	MSeg=so
 
@@ -1761,7 +1761,7 @@
 # text = ṅapen tokīden wīsk īt īnēn ṅukitka ekīreran-neǧun
 # translation = Shall they receive in exchange (?) remission of sin, because they were able (?) to ... ?
 1	ṅapen	ṅape	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	Gloss=sin|MSeg=ṅape-n
-2	tokīden	tok-	NOUN	_	Case=Gen|Number=Sing|VerbForm=Vnoun	3	nmod	_	Gloss=cease (?)|MSeg=tok-īde-n
+2	tokīden	tok-	VERB	_	Case=Gen|Number=Sing|VerbForm=Vnoun	3	nmod	_	Gloss=cease (?)|MSeg=tok-īde-n
 3	wīsk	wīsk	NOUN	_	Case=Acc|Number=Sing	4	obj	_	Gloss=change, exchange|MSeg=wīsk
 4	īt	īt-	VERB	_	VerbForm=Conv	5	advcl	_	Gloss=take, receive|MSeg=īt
 5	īnēn	īn-	AUX	_	Subordinative=Yes|VerbForm=Conv	0	root	_	Gloss=be|MSeg=īn-ēn
@@ -1836,7 +1836,7 @@
 7	takka	tar	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=he|MSeg=ta-kka
 8	awol	aw-	VERB	_	Tense=Pqp|VerbForm=Part	6	acl	_	Gloss=do, make|MSeg=aw-o-l
 9	ka	_	ADP	_	Case=Acc	6	case	_	MSeg=ka
-10	ȧīra	aīr-	VERB	_	Aspect=ImpVerbForm=Conv	0	root	_	Gloss=insult|MSeg=ȧīr-a
+10	ȧīra	aīr-	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Gloss=insult|MSeg=ȧīr-a
 11	lo	_	PART	_	_	10	advmod	_	MSeg=lo
 
 # sent_id = 103
@@ -2116,11 +2116,11 @@
 # translation = And the priest each (?) Lord's day shall cause them to hear this: for (?) it hath been done, that we may (?) attain (?) resurrection and grace (?) with our Lord Jesus Christ; whose be the glory and the power unto ages of ages! Amen.
 1	ïereosil	iėreȯs	NOUN	_	Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	Gloss=priest|MSeg=ïereosi-l
 2	lon	_	CCONJ	_	_	8	cc	_	Gloss=and|MSeg=lon
-3	īnka	īn	PRON	_	Case=Acc|PronType=Sing	8	obj	_	Gloss=this|MSeg=īn-ka
+3	īnka	īn	PRON	_	Case=Acc|Number=Sing|PronType=Dem	8	obj	_	Gloss=this|MSeg=īn-ka
 4	lo	_	PART	_	_	3	advmod	_	MSeg=lo
 5	kyriaken	kyriȧke	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	Gloss=Sunday|MSeg=kyriake-n
 6	ukin	uk	NOUN	_	Case=Gen|Number=Sing	7	nmod	_	Gloss=day|MSeg=uk-in
-7	duttulo	dutt	PRON	_	Case=Loc|Number=Sing	8	obl	_	Gloss=each (M.)|MSeg=duttu-lo
+7	duttulo	dutt	PRON	_	Case=Loc|Number=Sing|PronType=Tot	8	obl	_	Gloss=each (M.)|MSeg=duttu-lo
 8	uggatiǧǧana	ulgatir-	VERB	_	Number=Plur|Number[obj]=Plur|Person=3|Tense=Pres	0	root	_	Gloss=cause to hear|MSeg=uggatiǧ-ǧ-ana
 9	awtakkon	aw-	VERB	_	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes|Voice=Pass	28	advcl	_	Gloss=do, make|MSeg=aw-tak-ko-n
 10	ena	_	X	_	_	9	_	_	Gloss=?|MSeg=ena
@@ -2195,7 +2195,7 @@
 2	īsn	_	INTJ	_	_	7	discourse	_	Gloss=behold|MSeg=īsn
 3	tillil	till	NOUN	_	Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	Gloss=God|MSeg=tilli-l
 4	lō	_	PART	_	_	3	advmod	_	MSeg=lō
-5	eddal	er	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	7	obl	_	Gloss=we|MSeg=ed-dal
+5	eddal	er	PRON	_	Case=Com|Number=Plur|Person=1|PronType=Prs	7	obl	_	Gloss=we|MSeg=ed-dal
 6	pela	pel-	VERB	_	VerbForm=Conv	7	advcl	_	Gloss=come out (?)|MSeg=pel-a
 7	dullaṅarra	dullaṅa-	VERB	_	Tense=Fut|VerbForm=Conv	1	ccomp	_	Gloss=become|MSeg=dullaṅa-rr-a
 8	ėsin	_	CCONJ	_	_	7	cc	_	MSeg=ėsin
