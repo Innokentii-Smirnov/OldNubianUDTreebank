@@ -8,12 +8,15 @@ Case
 	Loc
 	Com
 	Abs
+	Del	DELAT
 Number
 	Sing	SG
 	Plur	PL
 Number[obj]
 Definite
 	Def
+Animacy
+	Anim
 Person
 	1
 	2
@@ -37,6 +40,8 @@ VerbForm
 	Part	PTCP
 	Conv	CVB
 	Sup
+	Vnoun	NMLZ
+	Inf
 PronType
 	Prs		PRO
 	Tot		QUAN
@@ -44,6 +49,7 @@ PronType
 	Int
 	Ind		INDF
 	Rel
+	Art
 Polarity
 	Neg
 Poss
