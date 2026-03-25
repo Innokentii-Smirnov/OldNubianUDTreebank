@@ -127,7 +127,7 @@ dutrapi-gu-la	dutrap	Case=Ine|Definite=Def|Number=Plur	курица	NOUN	dutrapi
 dutrapi-gu-lo	dutrap	Case=Loc|Definite=Def|Number=Plur	курица	NOUN	dutrapigulo
 dutrapi-gu-lo	dutrap	Case=Loc|Number=Plur	курица	NOUN	dutrapigulo
 dutrap-ka	dutrap	Case=Acc|Number=Sing	курица	NOUN	dutrapka
-duttu-lo	dutt	Case=Loc|Number=Sing	each (M.)	PRON	duttulo
+duttu-lo	dutt	Case=Loc|Number=Sing|PronType=Tot	each (M.)	PRON	duttulo
 du-ȧr-a	du-	Aspect=Imp|VerbForm=Conv	быть, пребывать	VERB	duȧra
 du-ȧr-is-ana	du-	Aspect=Imp|Number=Plur|Person=3|Tense=Past	быть, пребывать	VERB	duȧrisana
 dīar-ka	dīar	Case=Acc|Number=Sing	death	NOUN	dīarka
@@ -135,7 +135,7 @@ dīol	dīol	_	dead	NOUN	dīol
 dīė-gu-ka	dīė	Number=Plur|Case=Acc	many	NOUN	dīėguka
 dīṅar-a	dīṅar-	VerbForm=Conv	fight, vanquish (?)	VERB	dīṅara
 dōn	_	Case=Del	from, of place	ADP	dōn
-ed-dal	er	Case=Ins|Number=Plur|Person=1|PronType=Prs	we	PRON	eddal
+ed-dal	er	Case=Com|Number=Plur|Person=1|PronType=Prs	we	PRON	eddal
 ed-dal	ir	Case=Com|Number=Sing|Person=2|PronType=Prs	ты	PRON	eddal
 ek-ka	er	Case=Acc|Number=Plur|Person=1|PronType=Prs	мы	PRON	ekka
 ekki-n	ekki	Case=Gen|Number=Sing	presentation	NOUN	ekkin
@@ -307,7 +307,6 @@ kapsǧraa	kap-	Aspect=Imp|Number[obj]=Plur|VerbForm=Conv	eat	VERB	kapsǧraa
 kaskase-l-do	kaskase	Case=Sup|Definite=Def|Number=Sing	кропильница	NOUN	kaskaseldo
 kasso	_	_	?	X	kasso
 ke	_	_		CCONJ	ke
-ke	_	Person=2|Number=Plur		PART	ke
 ke	_	_		PART	ke
 ke	ki-	Mood=Imp|Number=Sing|Person=2	come	VERB	ke
 ked-a	ked-	VerbForm=Conv	подниматься	VERB	keda
@@ -477,7 +476,7 @@ medǧun-tal'	medǧuntaa	Case=Com|Definite=Def|Number=Sing	рабыня, слу
 mekkīnni	mekki	Case=Gen|Number=Sing	scrap, small piece	NOUN	mekkīnni
 men-en	men-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	not to be	AUX	menen
 men-en	men-	Subordinative=Yes|VerbForm=Conv	not to be	VERB	menen
-middītakīnē	midd-	Voice=Pass	condemn	VERB	middītakīnē
+middītakīnē	midd-	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Voice=Pass	condemn	VERB	middītakīnē
 midil	mid-	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part	бежать, бегать	VERB	midil
 miǧirk-il	miǧirk	Case=Nom|Definite=Def|Number=Sing	desire	NOUN	miǧirkil
 miǧirk-lo	miǧirk	Case=Loc|Number=Sing	desire	NOUN	miǧirklo
@@ -504,7 +503,7 @@ miššan	_	_	all	DET	miššan
 miššan	_	_	every	DET	miššan
 miššan	miššan	PronType=Tot	весь, всякий	DET	miššan
 miššan	miššan	_	весь, всякий	DET	miššan
-miššana	miššan	Case=Abs	all, every	DET	miššana
+miššana	miššan	Case=Abs|PronType=Tot	all, every	DET	miššana
 miššan-gu	miššan	Case=Nom|Number=Plur|PronType=Tot	весь, всякий	PRON	miššangu
 mna	_	Mood=Int	Lat. nonn	PART	mna
 mna	_	Mood=Int	Lat. nonne	PART	mna
@@ -612,7 +611,7 @@ praǧǧ-aragr-a	praǧǧ-	Aspect=Imp|VerbForm=Conv	?	VERB	praǧǧaragra
 prosko-ka	prosko	Case=Acc|Number=Sing	offering (?)	NOUN	proskoka
 prosko-k-ka	prosko	Case=Acc|Definite=Def|Number=Sing	offering	NOUN	proskokka
 prosko-k-kon	prosko	Case=Acc|Definite=Def|Number=Sing	oblation	NOUN	proskokkon
-prosko-l	prosko	Case=Nom|Definite=Def|Number=Sing	offering	NOUN	proskol
+prosko-l	prosko	Case=Acc|Definite=Def|Number=Sing	offering	NOUN	proskol
 psallil-gu-l-dal	psall-	Case=Com|Definite=Def|Number=Plur|VerbForm=Part	chant	VERB	psallilguldal
 psalē-men-en	psall-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	chant	VERB	psalēmenen
 pī-n	pi-	Subordinative=Yes|VerbForm=Conv	be	VERB	pīn
@@ -687,7 +686,7 @@ tidī-kane-lo	tid-	Case=Loc|Number=Sing|VerbForm=Vnoun	repay (?)	VERB	tidīkanel
 tiǧ-ǧ-ana	tir-	Number=Plur|Person=3|Tense=Pres	давать	VERB	tiǧǧana
 tiǧ-ǧi-ka	tir-	Case=Acc|Number=Sing|Number[obj]=Plur|VerbForm=Part	give	VERB	tiǧǧika
 tiǧ-ǧi-n-īa	tir-	Case=Ine|Number=Sing|Number[obj]=Plur|VerbForm=Vnoun	give (to you or them)	VERB	tiǧǧinīa
-tiǧ-ǧ-o	tir-	Number[obj]=Plur|Tense=Pqp|VerbForm=PART	give (to you or them)	VERB	tiǧǧo
+tiǧ-ǧ-o	tir-	Number[obj]=Plur|Tense=Pqp|VerbForm=Part	give (to you or them)	VERB	tiǧǧo
 tiǧo	_	_	in presence of, with	ADP	tiǧo
 tiǧo	_	_	in presence of, with (a person)	ADP	tiǧo
 tikk-in	tik-	Subordinative=Yes|VerbForm=Conv	sit	VERB	tikkin
@@ -715,7 +714,7 @@ tokder-ka	tokder	Case=Acc|Number=Sing	remission, repentance	NOUN	tokderka
 tokderra-gille	tokderra	Case=Dat|Number=Sing	искупление	NOUN	tokderragille
 tokinnawė-lo	tokinnawė	Case=Loc|Number=Sing	мир, милость	NOUN	tokinnawėlo
 tokk-a	tokk-	VerbForm=Conv	варить	VERB	tokka
-tok-īde-n	tok-	Case=Gen|Number=Sing|VerbForm=Vnoun	cease (?)	NOUN	tokīden
+tok-īde-n	tok-	Case=Gen|Number=Sing|VerbForm=Vnoun	cease (?)	VERB	tokīden
 tor-a	torra-	VerbForm=Conv	приходить	VERB	tora
 tor-o-n	tor-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	enter	VERB	toron
 torra-s-i	torra-	Number=Sing|Person=1|Subordinative=Yes|Tense=Past	приходить	VERB	torrasi
@@ -862,7 +861,7 @@ yon	lon	_	а, и, но	CCONJ	yon
 īn	_	_	this	DET	īn
 īn	īn	Case=Nom|PronType=Dem	this	PRON	īn
 īnin-gu-l	īn	Number=Plur|Definite=Def|PronType=Dem	this	PRON	īningul
-īn-ka	īn	Case=Acc|PronType=Sing	this	PRON	īnka
+īn-ka	īn	Case=Acc|Number=Sing|PronType=Dem	this	PRON	īnka
 īn-na	īr	Case=Gen|Number=Sing|Person=3|PronType=Prs	thou	PRON	īnna
 īn-no	īn	Case=Loc|PronType=Dem	this	PRON	īnno
 īn-ēn	īn-	Subordinative=Yes|VerbForm=Conv	be	AUX	īnēn
@@ -916,7 +915,7 @@ yon	lon	_	а, и, но	CCONJ	yon
 ȧw-n'	aw(i)	Case=Gen|Number=Sing	лодка, корабль	NOUN	ȧwn'
 ȧy	ay	Case=Nom|Number=Sing|Person=1|PronType=Prs	я	PRON	ȧy
 ȧī-l	aī	Case=Acc|Definite=Def|Number=Sing		NOUN	ȧīl
-ȧīr-a	aīr-	Aspect=ImpVerbForm=Conv	insult	VERB	ȧīra
+ȧīr-a	aīr-	Aspect=Imp|VerbForm=Conv	insult	VERB	ȧīra
 ȯgīǧen-īn	ogīǧen-	Subordinative=Yes|VerbForm=Conv	be man	VERB	ȯgīǧenīn
 ȯke	ȯk-	Mood=Imp|Number=Sing|Person=2	называть, звать	VERB	ȯke
 ȯn	_	_	и, а	CCONJ	ȯn
