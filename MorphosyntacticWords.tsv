@@ -459,10 +459,10 @@ maria-n	maria	Case=Gen|Number=Sing	Мария	NOUN	marian
 marimath	_	_		X	marimath
 martarkikon	martarkikon	Case=Nom|Number=Sing	witness	NOUN	martarkikon
 martyrosu	martyrosi	Case=Gen|Number=Sing	мученик	NOUN	martyrosu
-marėot-io	mareoti	Case=Loc|Number=Sing	Мареотис	NOUN	marėotio
+marėoti-lo	mareoti	Case=Loc|Number=Sing	Мареотис	NOUN	marėotio
 masa	masa	Case=Abs|Number=Sing	good (M.)	ADJ	masa
 matarkikon	matarkikon	Case=Acc|Number=Sing	warning (?)	NOUN	matarkikon
-mawkil	mawk	Case=Loc|Definite=Def|Number=Sing	?	NOUN	mawkil
+mawk-il	mawk	Case=Loc|Definite=Def|Number=Sing	?	NOUN	mawkil
 maïk-ar-is-na	maïk-	Aspect=Imp|Number=Sing|Person=3|Tense=Past	стыдиться	VERB	maïkarisna
 meddaṅ-o-l	meddaṅ	Tense=Pqp|VerbForm=Part	готовиться	VERB	meddaṅol
 medd-il	med-	VerbForm=Part	be full	VERB	meddil
@@ -472,11 +472,11 @@ medǧunintay-gu-k	medǧunin-taa	Case=Nom|Number=Plur	служанка, раб�
 medǧunintay-gu-l	medǧunin-taa	Case=Nom|Definite=Def|Number=Plur	рабыня, служанка	NOUN	medǧunintaygul
 medǧuntaa-d-dal	medǧuntaa	Case=Com|Number=Sing	рабыня, служанка	NOUN	medǧuntaaddal
 medǧun-tal'	medǧuntaa	Case=Com|Definite=Def|Number=Sing	рабыня, служанка	NOUN	medǧuntal'
-mekkīnni	mekki	Case=Gen|Number=Sing	scrap, small piece	NOUN	mekkīnni
+mekkī-nni	mekki	Case=Gen|Number=Sing	scrap, small piece	NOUN	mekkīnni
 men-en	men-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	not to be	AUX	menen
 men-en	men-	Subordinative=Yes|VerbForm=Conv	not to be	VERB	menen
-middītakīnē	midd-	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Voice=Pass	condemn	VERB	middītakīnē
-midil	mid-	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part	бежать, бегать	VERB	midil
+midd-ītak-īnē	midd-	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Voice=Pass	condemn	VERB	middītakīnē
+mid-il	mid-	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part	бежать, бегать	VERB	midil
 miǧirk-il	miǧirk	Case=Nom|Definite=Def|Number=Sing	desire	NOUN	miǧirkil
 miǧirk-lo	miǧirk	Case=Loc|Number=Sing	desire	NOUN	miǧirklo
 miǧirkī-lo	miǧirk	Case=Loc|Number=Sing	desire (?)	NOUN	miǧirkīlo
@@ -489,20 +489,20 @@ mina-n	mina	_	Мина	NOUN	minan
 mina-na	mina	Case=Gen|Number=Sing	Мина	NOUN	minana
 mina-ȧ	_	Case=Abs|Number=Sing	Мина	NOUN	minaȧ
 mina-ȧ	mina	Case=Abs|Number=Sing	Мина	NOUN	minaȧ
-min-k	min	Case=Acc|Number=Sing|PronType=Dem	что	PRON	mink
+min-ka	min	Case=Acc|Number=Sing|PronType=Dem	что	PRON	mink
 min-ka	min	Case=Acc|Number=Sing|PronType=Int	что	PRON	minka
 min-ka	min	Case=Acc|PronType=Int	что	PRON	minka
 mira	mira	_	неплодный, не рожающий	ADJ	mira
 mira-gu-ė	_	Case=Abs|Number=Plur		ADJ	miraguė
 miste	miste	_	?	X	miste
-miw-tak-r-a	miw-	Aspect=Imp|VerbForm=Conv	исчезать (?)	VERB	miwtakra
+miw-tak-r-a	miw-	Aspect=Imp|VerbForm=Conv|Voice=Pass	исчезать (?)	VERB	miwtakra
 miššan	_	PronType=Tot	all, every	DET	miššan
 miššan	_	PronType=Tot	весь, всякий	DET	miššan
 miššan	_	_	all	DET	miššan
 miššan	_	_	every	DET	miššan
 miššan	miššan	PronType=Tot	весь, всякий	DET	miššan
 miššan	miššan	_	весь, всякий	DET	miššan
-miššana	miššan	Case=Abs|PronType=Tot	all, every	DET	miššana
+miššan-a	miššan	Case=Abs|PronType=Tot	all, every	DET	miššana
 miššan-gu	miššan	Case=Nom|Number=Plur|PronType=Tot	весь, всякий	PRON	miššangu
 mna	_	Mood=Int	Lat. nonn	PART	mna
 mna	_	Mood=Int	Lat. nonne	PART	mna
@@ -512,7 +512,7 @@ mor-en	mor-	Case=Gen|Number=Sing|VerbForm=Vnoun	dismiss (?) or necessity (?)	VER
 mori-mīn-il	mor-	Polarity=Neg|VerbForm=Part	dismiss (?)	VERB	morimīnil
 mudwu-ko-n	mudu-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	охранять, сопутствовать; позволять	VERB	mudwukon
 munt-lo	munt	Case=Loc|Number=Sing	?	NOUN	muntlo
-murtat	murt-	VerbForm=Conv	warn	VERB	murtat
+murt-at	murt-	VerbForm=Conv	warn	VERB	murtat
 murti-d-do	murt(i)	Case=Sup|Definite=Def|Number=Sing	лошадь	NOUN	murtiddo
 murtu	murt(i)	Case=Acc|Number=Sing	лошадь	NOUN	murtu
 mē	_	_		AUX	mē
@@ -531,7 +531,7 @@ ogǧ-il	og(i)ǧ	Case=Nom|Definite=Def|Number=Sing	мужчина, муж	NOUN	
 ogiǧ-ka	og(i)ǧ	Case=Acc|Number=Sing	мужчина, муж	NOUN	ogiǧka
 ok-arr-ana	ok-	Number=Plur|Person=3|Tense=Fut	call, summon, name	VERB	okarrana
 ok-is-na	ȯk-	Number=Sing|Person=3|Tense=Past	называть, звать	VERB	okisna
-okkanē	ok-	Case=Acc|Number=Sing|VerbForm=Vnoun	call, summon, name	VERB	okkanē
+ok-kanē	ok-	Case=Acc|Number=Sing|VerbForm=Vnoun	call, summon, name	VERB	okkanē
 oll-īn	oll-	Subordinative=Yes|VerbForm=Conv	hang	VERB	ollīn
 on	_	_		CCONJ	on
 on	_	_	and	CCONJ	on
@@ -548,10 +548,10 @@ orpa	orpa	Case=Acc|Number=Sing	wine	NOUN	orpa
 orpē	orpa	_	wine (?)	NOUN	orpē
 orō	_	_	with, through (of persons)	ADP	orō
 oṅ	_	_	и, а	CCONJ	oṅ
-paddī-na	padd-	Number=Sing|Person=2|Tense=Pres	?	VERB	paddīna
-padī-r-a	pad-	Aspect=Imp|VerbForm=Conv	?	VERB	padīra
+padd-īna	padd-	Number=Sing|Person=2|Tense=Pres	?	VERB	paddīna
+pad-īr-a	pad-	Aspect=Imp|VerbForm=Conv	?	VERB	padīra
 paǧ-ana	paǧ-	Mood=Imp|Number=Plur|Person=2	ascertain, enquire precisely (?)	VERB	paǧana
-paǧīpaǧigid-d-na	paǧīpaǧigir-	Number=Sing|Person=3|Tense=Fut	cause to intensively try	VERB	paǧīpaǧigiddna
+paǧīpaǧigir-d-na	paǧīpaǧigir-	Number=Sing|Person=3|Tense=Fut	cause to intensively try	VERB	paǧīpaǧigiddna
 pal-a	pal-	VerbForm=Conv	come out	VERB	pala
 pal-a	pal-	VerbForm=Conv	выходить	VERB	pala
 papi	_	Case=Loc|Number=Sing	father	NOUN	papi
@@ -561,7 +561,7 @@ papi-l	pap	Case=Nom|Definite=Def|Number=Sing	отец	NOUN	papil
 papo	pap	Case=Abs|Number=Sing	отец	NOUN	papo
 parre-n	parre	Case=Gen|Number=Sing	durra	NOUN	parren
 par-tak-is-na	par-	Number=Sing|Person=3|Tense=Past|Voice=Pass	write	VERB	partakisna
-par-tako-k-ka	par-	Case=Acc|Definite=Def|Number=Sing|VerbForm=Vnoun	write	VERB	partakokka
+par-tako-l-ka	par-	Case=Acc|Definite=Def|Number=Sing|VerbForm=Vnoun	write	VERB	partakokka
 parthenos-il	parthenos	Case=Nom|Definite=Def|Number=Sing	virgin	NOUN	parthenosil
 parthenosu	parthenosi	Case=Gen|Number=Sing	дева	NOUN	parthenosu
 pask-arr-a	pask-	Tense=Fut|VerbForm=Conv	punish	VERB	paskarra
@@ -571,12 +571,12 @@ pauka	_	_	until	ADP	pauka
 pawka	_	_	до, пока не	ADP	pawka
 pawuka	_	_	до, пока не	ADP	pawuka
 paynu	pay-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pres	писать	VERB	paynu
-paī-n-na	paī-	Number=Sing|Person=3|Tense=Fut	write	VERB	paīnna
+paī-d-na	paī-	Number=Sing|Person=3|Tense=Fut	write	VERB	paīnna
 pašši	pašš	_	?	X	pašši
 pel-a	pel-	VerbForm=Conv	come out (?)	VERB	pela
 pelir-e	pelir-	Mood=Imp|Number=Sing|Person=2	помещать, сажать, класть	VERB	pelire
 pelir-o-n	pelir-	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	помещать, сажать, класть	VERB	peliron
-penutuddr-e	penutir-	Number=Sing|Person=1|Tense=Fut	относить, отвозить	VERB	penutuddre
+penutur-d-r-e	penutir-	Aspect=Imp|Number=Sing|Person=1|Tense=Fut	относить, отвозить	VERB	penutuddre
 pes-a	pes-	VerbForm=Conv	говорить	VERB	pesa
 pes-ar-a	pes-	Aspect=Imp|VerbForm=Conv	говорить	VERB	pesara
 pes-en	pes-	Subordinative=Yes|VerbForm=Conv	say	VERB	pesen
@@ -587,32 +587,32 @@ pes-il	pes-	Tense=Pres|VerbForm=Part	say	VERB	pesil
 pes-il-gu-l	pes-	Case=Nom|Definite=Def|Number=Plur|VerbForm=Part	say	VERB	pesilgul
 pes-il-gu-l	pes-	Case=Nom|Number=Plur|Definite=Def|VerbForm=Part	say	VERB	pesilgul
 pes-ir-a	pes-	Aspect=Imp|VerbForm=Conv	say	VERB	pesira
-pes-ra-n	pes-	Aspect=Imp|Number=Plur|Person=3|Tense=Pres|Subordinative=Yes	говорить	VERB	pesran
+pes-r-an	pes-	Aspect=Imp|Number=Plur|Person=3|Tense=Pres|Subordinative=Yes	говорить	VERB	pesran
 pes-s-na	pes-	Number=Sing|Person=3|Tense=Past	говорить	VERB	pessna
 philoxeniti-gil	philoxeniti	Case=Dat|Number=Sing	Филоксенита	NOUN	philoxenitigil
 philoxeniti-gille	philoxeniti	Case=Dat|Number=Sing	Филоксенита	NOUN	philoxenitigille
 philoxeniti-n	philoxeniti	Case=Gen|Number=Sing	Филоксенита	NOUN	philoxenitin
 philoxeniti-ȯ	philoxeniti	Case=Loc|Number=Sing	Филоксенита	NOUN	philoxenitiȯ
-pikit-k	pikit	Case=Acc|Number=Sing	light	NOUN	pikitk
+pikit-ka	pikit	Case=Acc|Number=Sing	light	NOUN	pikitk
 pikit-ka	pikit	Case=Acc|Number=Sing	light	NOUN	pikitka
 pikk-en	pikk-	Subordinative=Yes|VerbForm=Conv	wake up	VERB	pikken
 pi-l	pi-	Tense=Pres|VerbForm=Part	be	VERB	pil
 pilaal-lo	pilaal	Case=Loc|Number=Sing	сияние (?); явь (?)	NOUN	pilaallo
-pill-il-do	pill-	Definite=Def|VerbForm=Part	appear (?), be plain	VERB	pillildo
+pill-il-do	pill-	Case=Sup|Definite=Def|VerbForm=Part	appear (?), be plain	VERB	pillildo
 pirgne	pirgne	Case=Loc|Number=Sing	herbs	NOUN	pirgne
-piss-e-so	piss-	Mood=Imp|Number=Sing|Person=2	радоваться	VERB	pisseso
+piss-e	piss-	Mood=Imp|Number=Sing|Person=2	радоваться	VERB	pisse
 pistak-ko-n	pistar-	Mood=Cnd|Number=Sing|Person=3|Subordinative=Yes	крестить	VERB	pistakkon
 pistar-is-na	pistar-	Number=Sing|Person=3|Tense=Past	крестить	VERB	pistarisna
 pistew-ȧ	pistew-	VerbForm=Conv	верить	VERB	pistewȧ
-pistitti-k	pistitt(i)	Case=Acc|Number=Sing	крещение	NOUN	pistittik
-piy-n	pi-	VerbForm=Part	быть, находиться	VERB	piyn
-praǧǧ-aragr-a	praǧǧ-	Aspect=Imp|VerbForm=Conv	?	VERB	praǧǧaragra
+pistitti-ka	pistitt(i)	Case=Acc|Number=Sing	крещение	NOUN	pistittik
+piy-n	pi-	Subordinative=Yes|VerbForm=Conv	быть, находиться	VERB	piyn
+praǧǧarag-r-a	praǧǧ-	Aspect=Imp|VerbForm=Conv	?	VERB	praǧǧaragra
 prosko-ka	prosko	Case=Acc|Number=Sing	offering (?)	NOUN	proskoka
-prosko-k-ka	prosko	Case=Acc|Definite=Def|Number=Sing	offering	NOUN	proskokka
-prosko-k-kon	prosko	Case=Acc|Definite=Def|Number=Sing	oblation	NOUN	proskokkon
+prosko-l-ka	prosko	Case=Acc|Definite=Def|Number=Sing	offering	NOUN	proskokka
+prosko-l-kon	prosko	Case=Acc|Definite=Def|Number=Sing	oblation	NOUN	proskokkon
 prosko-l	prosko	Case=Acc|Definite=Def|Number=Sing	offering	NOUN	proskol
-psallil-gu-l-dal	psall-	Case=Com|Definite=Def|Number=Plur|VerbForm=Part	chant	VERB	psallilguldal
-psalē-men-en	psall-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	chant	VERB	psalēmenen
+psall-il-gu-l-dal	psall-	Case=Com|Definite=Def|Number=Plur|VerbForm=Part	chant	VERB	psallilguldal
+psal-ēmen-en	psall-	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	chant	VERB	psalēmenen
 pī-n	pi-	Subordinative=Yes|VerbForm=Conv	be	VERB	pīn
 san-na	_	Number=Sing|Person=3|Tense=Pres	bless (?)	VERB	sanna
 sarpē	sarpē	Case=Abs|Number=Sing	sip, draught / finger as a measure of liquid	NOUN	sarpē
@@ -632,35 +632,35 @@ skitī-don	īskit	Case=Del|Number=Sing	earth	NOUN	skitīdon
 so	_	Mood=Imp		PART	so
 so	_	_		PART	so
 sola	sol-	VerbForm=Conv	deceive, betray (?)	VERB	sola
-sorto-k'	sorto	Case=Acc|Number=Sing	священник	NOUN	sortok'
+sorto-ka	sorto	Case=Acc|Number=Sing	священник	NOUN	sortok'
 sorto-l	sorto	Case=Nom|Definite=Def|Number=Sing	священник	NOUN	sortol
-staurosi-l-do	stauros	Case=Sup|Definite=Def|Number=Sing	cross	NOUN	staurosildo
+stauros-il-do	stauros	Case=Sup|Definite=Def|Number=Sing	cross	NOUN	staurosildo
 sukk-a	sukk-	VerbForm=Conv	выходить	VERB	sukka
 suȧy	suȧy	Case=Gen|Number=Sing	месяц, начало месяца	NOUN	suȧy
 sō	_	Mood=Imp		PART	sō
-tad-gil	tar	Case=Dat|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tadgil
-tad-gille	tar	Case=Dat|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tadgille
-ta-k	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tak
-ta-k'	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tak'
-ta-ka	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	taka
-ta-kka	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	he	PRON	takka
-ta-kka	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	takka
-ta-n	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs		PRON	tan
-ta-n	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tan
-ta-n	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan
-ta-n	tar	Case=Gen|Number=Sing|PronType=Prs	он, она, оно	PRON	tan
-ta-n'	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan'
-ta-n'na	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan'na
-ta-nna	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tanna
-ta-nna	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tanna
+tar-gil	tar	Case=Dat|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tadgil
+tar-gille	tar	Case=Dat|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tadgille
+tar-ka	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tak
+tar-ka	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tak'
+tar-ka	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	taka
+tar-ka	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	he	PRON	takka
+tar-ka	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	takka
+tar-n	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs		PRON	tan
+tar-n	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tan
+tar-n	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan
+tar-n	tar	Case=Gen|Number=Sing|PronType=Prs	он, она, оно	PRON	tan
+tar-na	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan'
+tar-na	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tan'na
+tar-na	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	he	PRON	tanna
+tar-na	tar	Case=Gen|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tanna
 tapp-att-a	dappi-	Case=Abs|Number=Sing|VerbForm=Vnoun	be lost	VERB	tappatta
 tar	tar	Case=Acc|Number=Sing|Person=3|PronType=Prs		PRON	tar
 tar	tar	Case=Nom|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tar
 tar	tar	Case=Nom|Number=Sing|PronType=Prs	он, она, оно	PRON	tar
 taratī	taratī	Case=Nom|Number=Sing	exit, end (?)	NOUN	taratī
 taratī-lo	taratī	Case=Loc|Number=Sing	exit, end (?)	NOUN	taratīlo
-tar-iȧ	tar	Case=Ine|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tariȧ
-tar-iȧ	tar	Case=Ine|Number=Sing|PronType=Prs	он, она, оно	PRON	tariȧ
+tar-lȧ	tar	Case=Ine|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	tariȧ
+tar-lȧ	tar	Case=Ine|Number=Sing|PronType=Prs	он, она, оно	PRON	tariȧ
 taru	tar	Case=Nom|Number=Sing|Person=3|PronType=Prs	he	PRON	taru
 taru	tar	Case=Nom|Number=Sing|Person=3|PronType=Prs	он, она, оно	PRON	taru
 taru-am	taru-	Mood=Imp|Number=Plur|Person=1	love, worship, bless (?)	VERB	taruam
@@ -673,18 +673,18 @@ taṅs-il-do	taṅis	Case=Sup|Definite=Def	name	NOUN	taṅsildo
 taṅs-il-do	taṅis	Case=Sup|Number=Sing	name	NOUN	taṅsildo
 taṅs-lo	taṅs	Case=Loc|Number=Sing	имя	NOUN	taṅslo
 tdir	tir-	Case=Nom|Number=Sing|VerbForm=Part	give (to you or them)	VERB	tdir
-ted-do	ter	Case=Sup|Number=Plur|Person=3|PronType=Prs		PRON	teddo
+ter-do	ter	Case=Sup|Number=Plur|Person=3|PronType=Prs		PRON	teddo
 tedu-gu-ka	ted	Case=Acc|Number=Plur	law	NOUN	teduguka
-tek-ka	ter	Case=Acc|Number=Plur|Person=3|PronType=Prs	они	PRON	tekka
-te-n	ter	Case=Gen|Number=Plur|Person=3|PronType=Prs	they	PRON	ten
-te-n	ter	Case=Gen|Number=Plur|Person=3|PronType=Prs	они	PRON	ten
+ter-ka	ter	Case=Acc|Number=Plur|Person=3|PronType=Prs	они	PRON	tekka
+ter-n	ter	Case=Gen|Number=Plur|Person=3|PronType=Prs	they	PRON	ten
+ter-n	ter	Case=Gen|Number=Plur|Person=3|PronType=Prs	они	PRON	ten
 teru	ter	Case=Nom|Number=Plur|Person=3|PronType=Prs	they	PRON	teru
 tǧo	_	_	from, at	ADP	tǧo
 thelkath	_	_		X	thelkath
 tidī-kane-lo	tid-	Case=Loc|Number=Sing|VerbForm=Vnoun	repay (?)	VERB	tidīkanelo
 tiǧ-ǧ-ana	tir-	Number=Plur|Person=3|Tense=Pres	давать	VERB	tiǧǧana
-tiǧ-ǧi-ka	tir-	Case=Acc|Number=Sing|Number[obj]=Plur|VerbForm=Part	give	VERB	tiǧǧika
-tiǧ-ǧi-n-īa	tir-	Case=Ine|Number=Sing|Number[obj]=Plur|VerbForm=Vnoun	give (to you or them)	VERB	tiǧǧinīa
+tiǧ-ǧ-ika	tir-	Case=Acc|Number=Sing|Number[obj]=Plur|VerbForm=Part	give	VERB	tiǧǧika
+tiǧ-ǧ-in-īa	tir-	Case=Ine|Number=Sing|Number[obj]=Plur|VerbForm=Vnoun	give (to you or them)	VERB	tiǧǧinīa
 tiǧ-ǧ-o	tir-	Number[obj]=Plur|Tense=Pqp|VerbForm=Part	give (to you or them)	VERB	tiǧǧo
 tiǧo	_	_	in presence of, with	ADP	tiǧo
 tiǧo	_	_	in presence of, with (a person)	ADP	tiǧo
