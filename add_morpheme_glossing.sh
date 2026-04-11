@@ -1,0 +1,1 @@
+python ~/MorphemeGlossingForUniversalDependencies/src/add_morpheme_glossing.py OldNubian.conllu MorphemicLinearizer.txt MorphemicConverter.txt OldNubian.conllu
