@@ -108,7 +108,7 @@
 5	ketalle	_	PART	_	_	7	advmod	_	Gloss=тоже, также|MGloss=тоже, также|MSeg=ketalle
 6	yon	lon	CCONJ	_	_	7	cc	_	Gloss=а, и, но|MGloss=а, и, но|MSeg=yon
 7-8	miraguėlo	_	_	_	_	_	_	_	_
-7	miraguė	_	ADJ	_	Case=Abs|Number=Plur	0	root	_	Gloss=|MGloss=PL-ABS|MSeg=mira-gu-ė
+7	miraguė	_	ADJ	_	Case=Abs|Number=Plur	0	root	_	Gloss=неплодный, не рожающий|MGloss=неплодный, не рожающий-PL-ABS|MSeg=mira-gu-ė
 8	lo	_	PART	_	_	7	advmod	_	MSeg=lo
 9	issana	in-	VERB	_	Number=Plur|Person=3|Tense=Past	7	cop	_	Gloss=быть|MGloss=быть-PST-3PL|MSeg=is-sa-na
 10	medǧunintaygul	medǧunin-taa	NOUN	_	Case=Nom|Definite=Def|Number=Plur	4	appos	_	Gloss=рабыня, служанка|MGloss=рабыня, служанка-PL-DEF|MSeg=medǧunintay-gu-l
@@ -1705,7 +1705,7 @@
 19	aīlla	aī	NOUN	_	Case=Ine|Definite=Def|Number=Sing	21	obl	_	Gloss=heart|MGloss=heart-DEF-INE|MSeg=aī-l-la
 20	kuǧǧra	kuǧǧ-	VERB	_	Aspect=Imp|VerbForm=Conv	21	advcl	_	Gloss=enter, creep in (?)|MGloss=enter, creep in (?)-IPFV-CVB|MSeg=kuǧǧ-r-a
 21	toron	tor-	VERB	_	Number=Sing|Person=3|Subordinative=Yes|Tense=Pqp	15	conj	_	Gloss=enter|MGloss=enter-PLUPRF-3SG.SUB|MSeg=tor-o-n
-22	amadīǧarasin	ama-	VERB	_	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	21	conj	_	Gloss=|MGloss=PST-3SG.SUB|MSeg=amadīǧara-s-in
+22	amadīǧarasin	ama-	VERB	_	Number=Sing|Person=3|Subordinative=Yes|Tense=Past	21	conj	_	Gloss=persuade (?)|MGloss=persuade (?)-PST-3SG.SUB|MSeg=amadīǧara-s-in
 23	sola	sol-	VERB	_	VerbForm=Conv	24	advcl	_	Gloss=deceive, betray (?)|MGloss=deceive, betray (?)-CVB|MSeg=sola
 24	dumma	dumm-	VERB	_	VerbForm=Conv	25	advcl	_	Gloss=take|MGloss=take-CVB|MSeg=dumm-a
 25	tiǧǧinīa	tir-	VERB	_	Case=Ine|Number=Sing|Number[obj]=Plur|VerbForm=Vnoun	22	obl	_	Gloss=give (to you or them)|MGloss=give (to you or them)-PL.O-NMLZ-SG-INE|MSeg=tiǧ-ǧ-in-īa
@@ -2011,7 +2011,7 @@
 1	wīa	_	INTJ	_	_	0	root	_	Gloss=woe|MGloss=woe|MSeg=wīa
 2	lo	_	PART	_	_	1	advmod	_	MSeg=lo
 3	ïereosu	iėreȯs	NOUN	_	Case=Sup|Number=Sing	1	obl	_	Gloss=priest|MGloss=priest|MSeg=ïereosu
-4	kyriaken	kyriake	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	Gloss=|MGloss=GEN|MSeg=kyriake-n
+4	kyriaken	kyriake	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	Gloss=Sunday|MGloss=Sunday-GEN|MSeg=kyriake-n
 5	ukurro	ukur	NOUN	_	Case=Loc|Number=Sing	11	obl	_	Gloss=day, time|MGloss=day, time-LOC|MSeg=ukur-ro
 6	amsu	ams	NOUN	_	Case=Loc|Definite=Def|Number=Plur	11	obl	_	Gloss=?|MGloss=?-PL-DEF|MSeg=amsu
 7	mederan	mederan	ADJ	_	_	6	amod	_	Gloss=?|MGloss=?|MSeg=mederan
