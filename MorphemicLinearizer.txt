@@ -7,9 +7,8 @@ NOUN	(<Animacy>-)(<Number>)(-<Definite>)(-<Case>)
 PROPN	(<Animacy>-)(<Number>)(-<Definite>)(-<Case>)
 ADJ	(<Number>)(-<Definite>)(-<Case>)
 PRON	(<Number>)(-<Definite>)(-<Case>)
+DET	(<Number>)(-<Case>)
 PART	<Mood>
 ADP	<Case>
 ADV	<PronType>
-DET	<PronType>(.<Case>(.<Number>))
-DET	<PronType>.<Poss>.<Person><Number>
 NUM	<Case>

@@ -122,7 +122,7 @@
 # translation = И однажды, слыша, как христианские женщины (или: пастыри) рассказывают о чудесах, которые совершаются в церкви св. Мины в Мареотисе, она сказала сама себе:
 1	ukrugulo	uk(u)r	NOUN	_	Case=Loc|Number=Plur	18	obl	_	Gloss=день|MGloss=день-PL-LOC|MSeg=ukru-gu-lo
 2-3	welloyon	_	_	_	_	_	_	_	_
-2	wello	wel	DET	_	Case=Loc|PronType=Ind	1	det	_	Gloss=один; некий|MGloss=один; некий-INDF.LOC|MSeg=wel-lo
+2	wello	wel	DET	_	Case=Loc|PronType=Ind	1	det	_	Gloss=один; некий|MGloss=один; некий-LOC|MSeg=wel-lo
 3	yon	lon	CCONJ	_	_	18	cc	_	Gloss=а, и, но|MGloss=а, и, но|MSeg=yon
 4-5	manittil	_	_	_	_	_	_	_	_
 4	man	man	DET	_	_	5	det	_	Gloss=тот, та, то|MGloss=тот, та, то|MSeg=man
@@ -530,7 +530,7 @@
 # translation = И однажды корабельщик увидел в трюме лодки среди прочего провианта то яйцо - то самое, которое он положил и забыл, - и сказал своему сыну:
 1	ukrigullo	uk(u)r	NOUN	_	Case=Loc|Number=Plur	19	obl	_	Gloss=день|MGloss=день-PL-LOC|MSeg=ukri-gu-l-lo
 2-3	wello-yon	_	_	_	_	_	_	_	_
-2	wello	wel	DET	_	Case=Loc|PronType=Ind	1	det	_	Gloss=один; некий|MGloss=один; некий-INDF.LOC|MSeg=wel-lo
+2	wello	wel	DET	_	Case=Loc|PronType=Ind	1	det	_	Gloss=один; некий|MGloss=один; некий-LOC|MSeg=wel-lo
 3	yon	_	SCONJ	_	_	19	cc	_	MSeg=yon
 4	ȧpoggil	agopp(i)	NOUN	_	Case=Nom|Definite=Def|Number=Sing	19	nsubj	_	Gloss=корабельщик, кормчий|MGloss=корабельщик, кормчий-DEF|MSeg=ȧpoggi-l
 5-6	man-kumpuka	_	_	_	_	_	_	_	_
@@ -712,7 +712,7 @@
 5	lon	_	CCONJ	_	_	2	cc	_	Gloss=а, и, но|MGloss=а, и, но|MSeg=lon
 6-8	kipta-miššan-lon	_	_	_	_	_	_	_	_
 6	kipta	kipt(i)	NOUN	_	Case=Abs|Number=Sing	10	nsubj	_	Gloss=народ, люди|MGloss=народ, люди-ABS|MSeg=kipt-a
-7	miššan	miššan	DET	_	PronType=Tot	6	det	_	Gloss=весь, всякий|MGloss=весь, всякий-QUAN|MSeg=miššan
+7	miššan	miššan	DET	_	PronType=Tot	6	det	_	Gloss=весь, всякий|MGloss=весь, всякий|MSeg=miššan
 8	lon	_	CCONJ	_	_	10	cc	_	Gloss=а, и, но|MGloss=а, и, но|MSeg=lon
 9	kaskaseldo	kaskase	NOUN	_	Case=Sup|Definite=Def|Number=Sing	10	obl	_	Gloss=кропильница|MGloss=кропильница-DEF-SUP|MSeg=kaskase-l-do
 10	timmisana	timm-	VERB	_	Number=Plur|Person=3|Tense=Past	0	root	_	Gloss=собираться|MGloss=собираться-PST-3PL|MSeg=timm-is-ana
@@ -811,7 +811,7 @@
 # translation = "Волей Господа моего я пришел."
 1-6	ṅod-u-anni-lo-sin-ma-lo	_	_	_	_	_	_	_	_
 1	ṅodu	ṅod	NOUN	_	Case=Loc|Number=Sing	7	obl	_	Gloss=господин, господь|MGloss=господин, господь|MSeg=ṅodu
-2	anni	_	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	det	_	Gloss=мой|MGloss=мой-PRO.POSS.1SG|MSeg=anni
+2	anni	_	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	det	_	Gloss=мой|MGloss=мой|MSeg=anni
 3	lo	_	ADP	_	_	1	case	_	MGloss=LOC|MSeg=lo
 4	sin	_	ADP	_	_	1	case	_	Gloss=ибо, ведь|MGloss=ибо, ведь|MSeg=sin
 5	ma	_	PART	_	_	7	advmod	_	MSeg=ma
@@ -1186,7 +1186,7 @@
 4-7	ṅokkor-dawikka	_	_	_	_	_	_	_	_
 4	ṅokkor	ṅokkor	NOUN	_	Case=Acc|Definite=Def|Number=Sing	9	obj	_	Gloss=чудо|MGloss=чудо-DEF|MSeg=ṅokkor
 5	dawi	dawi	ADJ	_	_	4	amod	_	Gloss=большой, великий|MGloss=большой, великий|MSeg=dawi
-6	l	_	DET	_	PronType=Art	4	det	_	MGloss=ART|MSeg=l
+6	l	_	DET	_	PronType=Art	4	det	_	MSeg=l
 7	ka	_	ADP	_	_	4	case	_	MGloss=ACC|MSeg=ka
 8-9	ṅal-u-ulgren	_	_	_	_	_	_	_	_
 8	ṅalu	ṅal-	VERB	_	_	9	compound	_	Gloss=видеть|MGloss=видеть|MSeg=ṅalu
@@ -1209,7 +1209,7 @@
 22	ȯn	_	CCONJ	_	_	23	cc	_	Gloss=и, а|MGloss=и, а|MSeg=ȯn
 23-25	tawka-miššanno	_	_	_	_	_	_	_	_
 23	tawka	tawk(i)	NOUN	_	_	21	conj	_	Gloss=время|MGloss=время|MSeg=tawka
-24	miššan	_	DET	_	PronType=Tot	23	det	_	Gloss=весь, всякий|MGloss=весь, всякий-QUAN|MSeg=miššan
+24	miššan	_	DET	_	PronType=Tot	23	det	_	Gloss=весь, всякий|MGloss=весь, всякий|MSeg=miššan
 25	lo	_	ADP	_	_	23	case	_	MSeg=lo
 26	ǧelguna	ǧel	NOUN	_	Case=Gen|Number=Plur	27	nmod	_	Gloss=время (век?)|MGloss=время (век?)-PL-GEN|MSeg=ǧel-gu-na
 27-28	ellengulo-kieskillo	_	_	_	_	_	_	_	_
@@ -1223,7 +1223,7 @@
 1	ontakraguė	on-	VERB	_	Aspect=Imp|Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	13	vocative	_	Gloss=love|MGloss=love-PASS-IPFV-PTCP-PL-ABS|MSeg=on-tak-ra-gu-ė
 2	ke	_	PART	_	_	1	advmod	_	MSeg=ke
 3-4	wel-tril	_	_	_	_	_	_	_	_
-3	wel	_	DET	_	PronType=Ind	4	det	_	Gloss=one|MGloss=one-INDF|MSeg=wel
+3	wel	_	DET	_	PronType=Ind	4	det	_	Gloss=one|MGloss=one|MSeg=wel
 4	tril	tir-	VERB	_	Case=Nom|Number=Sing|VerbForm=Part	6	nsubj	_	Gloss=give (to you or them)|MGloss=give (to you or them)-PTCP|MSeg=tr-il
 5	kika	ki	NOUN	_	Case=Acc|Number=Sing	6	obj	_	Gloss=vow|MGloss=vow-ACC|MSeg=ki-ka
 6	pesen	pes-	VERB	_	Subordinative=Yes|VerbForm=Part	13	advcl	_	Gloss=say|MGloss=say-PTCP.SUB|MSeg=pes-en
@@ -1327,7 +1327,7 @@
 1	ale	_	ADV	_	_	15	advmod	_	Gloss=verily|MGloss=verily|MSeg=ale
 2	sin	_	SCONJ	_	_	15	mark	_	MSeg=sin
 3-4	we-tril	_	_	_	_	_	_	_	_
-3	we	_	DET	_	PronType=Ind	4	det	_	Gloss=one|MGloss=one-INDF|MSeg=we
+3	we	_	DET	_	PronType=Ind	4	det	_	Gloss=one|MGloss=one|MSeg=we
 4	tril	tir-	VERB	_	Case=Nom|Number=Sing|VerbForm=Part	6	nsubj	_	Gloss=give (to you or them)|MGloss=give (to you or them)-PTCP|MSeg=tr-il
 5	kīka	kī	NOUN	_	Case=Acc|Number=Sing	6	obj	_	Gloss=vow|MGloss=vow-ACC|MSeg=kī-ka
 6	pesen	pes-	VERB	_	VerbForm=Conv|Subordinative=Yes	15	advcl	_	Gloss=say|MGloss=say-CVB.SUB|MSeg=pes-en
@@ -1348,7 +1348,7 @@
 21	on	_	CCONJ	_	_	20	flat	_	MSeg=on
 22	sewartu	sewart	NOUN	_	Case=Nom|Definite=Def|Number=Sing	16	conj	_	Gloss=ghost|MGloss=ghost-DEF|MSeg=sewartu
 23	ṅissi	ṅiss	ADJ	_	_	22	amod	_	Gloss=holy|MGloss=holy|MSeg=ṅissi
-24	l	_	DET	_	PronType=Art	22	det	_	Gloss=|MGloss=ART|MSeg=l
+24	l	_	DET	_	PronType=Art	22	det	_	Gloss=|MSeg=l
 25	de	_	CCONJ	_	_	22	cc	_	MSeg=de
 26	kello	_	CCONJ	_	_	25	flat	_	MSeg=kello
 27	kisselo	kisse	NOUN	_	Case=Loc|Number=Sing	28	obl	_	Gloss=church|MGloss=church-LOC|MSeg=kisse-lo
@@ -1414,7 +1414,7 @@
 # text = īta miššana sin tillil taṅsildo awulgul aï wilen tillil ȯro welka elmendinna lo
 # translation = All men who working for the name of God benefit themselves (?), they shall not find benefit (?) through God.
 1	īta	īt	NOUN	_	Case=Abs|Number=Sing	12	nsubj	_	Gloss=person|MGloss=person-ABS|MSeg=īt-a
-2	miššana	miššan	DET	_	Case=Abs|PronType=Tot	1	det	_	Gloss=all, every|MGloss=all, every-QUAN.ABS|MSeg=miššan-a
+2	miššana	miššan	DET	_	Case=Abs|PronType=Tot	1	det	_	Gloss=all, every|MGloss=all, every-ABS|MSeg=miššan-a
 3	sin	_	SCONJ	_	_	12	mark	_	MSeg=sin
 4	tillil	till	NOUN	_	Case=Nom|Definite=Def	5	nmod	_	Gloss=God|MGloss=God-DEF|MSeg=tilli-l
 5	taṅsildo	taṅis	NOUN	_	Case=Sup|Definite=Def	6	obl	_	Gloss=name|MGloss=name-DEF-SUP|MSeg=taṅs-il-do
@@ -1530,7 +1530,7 @@
 1	ȧle	_	ADV	_	_	15	advmod	_	Gloss=verily|MGloss=verily|MSeg=ȧle
 2	sin	_	SCONJ	_	_	15	mark	_	MSeg=sin
 3	laïkossu	laikos	NOUN	_	Case=Nom|Number=Sing	15	nsubj	_	Gloss=layman|MGloss=layman|MSeg=laïkossu
-4	wel	_	DET	_	PronType=Ind	3	det	_	Gloss=|MGloss=INDF|MSeg=wel
+4	wel	_	DET	_	PronType=Ind	3	det	_	Gloss=|MSeg=wel
 5	kissen	kisse	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	Gloss=Church|MGloss=Church-GEN|MSeg=kisse-n
 6	kapaka	kapa	NOUN	_	Case=Acc|Number=Sing	9	obj	_	Gloss=food|MGloss=food-ACC|MSeg=kapa-ka
 7	weran	wer-	VERB	_	Subordinative=Yes|VerbForm=Conv	8	advcl	_	MGloss=CVB.SUB|MSeg=wera-n
@@ -1736,7 +1736,7 @@
 # sent_id = 96
 # text = īn taratī mekkīnni leǧun elle īïudadal middītakīnē immīne so
 # translation = Be not condemned for eternity with Judas on account of the short moment after this (?).
-1	īn	_	DET	_	PronType=Dem	2	det	_	Gloss=this|MGloss=this-DEM|MSeg=īn
+1	īn	_	DET	_	PronType=Dem	2	det	_	Gloss=this|MGloss=this|MSeg=īn
 2	taratī	taratī	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	Gloss=exit, end (?)|MGloss=exit, end (?)|MSeg=taratī
 3	mekkīnni	mekki	NOUN	_	Case=Gen|Number=Sing	7	obl	_	Gloss=scrap, small piece|MGloss=scrap, small piece-GEN|MSeg=mekkī-nni
 4	leǧun	_	ADP	_	_	3	case	_	Gloss=on account of (???)|MGloss=on account of (???)|MSeg=leǧun
@@ -1780,7 +1780,7 @@
 1	ȧle	_	ADV	_	_	14	advmod	_	Gloss=verily|MGloss=verily|MSeg=ȧle
 2	sin	_	SCONJ	_	_	14	mark	_	MSeg=sin
 3-4	wel-tril	_	_	_	_	_	_	_	_
-3	wel	_	DET	_	PronType=Ind	4	det	_	Gloss=one|MGloss=one-INDF|MSeg=wel
+3	wel	_	DET	_	PronType=Ind	4	det	_	Gloss=one|MGloss=one|MSeg=wel
 4	tril	tir-	VERB	_	Case=Nom|Number=Sing|VerbForm=Part	14	nsubj	_	Gloss=give (to you or them)|MGloss=give (to you or them)-PTCP|MSeg=tr-il
 5	kissel	kisse	NOUN	_	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	Gloss=church|MGloss=church-DEF|MSeg=kisse-l
 6	gallīminein	gall-	VERB	_	Polarity=Neg|Subordinative=Yes|VerbForm=Conv	7	advcl	_	Gloss=open|MGloss=open-NEG-CVB.SUB|MSeg=gall-īmin-ein
@@ -1800,7 +1800,7 @@
 1	ale	_	ADV	_	_	12	advmod	_	Gloss=verily|MGloss=verily|MSeg=ale
 2	sin	_	SCONJ	_	_	12	mark	_	MSeg=sin
 3-4	wel-tdir	_	_	_	_	_	_	_	CorrectForm=wel-tril
-3	wel	_	DET	_	PronType=Ind	4	det	_	Gloss=one|MGloss=one-INDF|MSeg=wel
+3	wel	_	DET	_	PronType=Ind	4	det	_	Gloss=one|MGloss=one|MSeg=wel
 4	tdir	tir-	VERB	_	Case=Nom|Number=Sing|VerbForm=Part	12	nsubj	_	CorrectForm=tril|Gloss=give (to you or them)|MGloss=give (to you or them)-PTCP|MSeg=tdir
 5	kapa	kap-	VERB	_	VerbForm=Conv	7	advcl	_	Gloss=eat|MGloss=eat-CVB|MSeg=kap-a
 6	koreka	kore	NOUN	_	Case=Acc|Number=Sing	7	obj	_	Gloss=feast, sacrament|MGloss=feast, sacrament-ACC|MSeg=kore-ka
@@ -1922,7 +1922,7 @@
 10	kolatra	kolatr-	VERB	_	VerbForm=Conv	0	root	_	Gloss=be like (???)|MGloss=be like (???)-CVB|MSeg=kolatr-a
 11	sin	_	SCONJ	_	_	10	mark	_	MSeg=sin
 12	teru	ter	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	appos	_	Gloss=they|MGloss=they|MSeg=teru
-13	īn	_	DET	_	PronType=Dem	14	det	_	Gloss=this|MGloss=this-DEM|MSeg=īn
+13	īn	_	DET	_	PronType=Dem	14	det	_	Gloss=this|MGloss=this|MSeg=īn
 14	koren	kore	NOUN	_	Case=Gen|Number=Sing	16	nsubj	_	Gloss=feast, sacrament|MGloss=feast, sacrament-GEN|MSeg=kore-n
 15	trapisildo	trapis	NOUN	_	Case=Sup|Definite=Def|Number=Sing	16	obl	_	Gloss=table|MGloss=table-DEF-SUP|MSeg=trapis-il-do
 16	pīn	pi-	VERB	_	Subordinative=Yes|VerbForm=Conv	17	advcl	_	Gloss=be|MGloss=be-CVB.SUB|MSeg=pī-n
@@ -2041,9 +2041,9 @@
 # text = īė miššan gu l lon īttenen de gemu 12 dalloka kanna ȯgīǧenīn on gemu 13 la dallo kanna tikkin-non miste īrkīs igunguka
 # translation = And all persons, either having become a woman being 12 years old shall give (?) or having become a man being 13 years old shall give (?); and ...
 1	īė	ī	NOUN	_	Case=Abs|Number=Plur	11	nsubj	_	Gloss=man|MGloss=man-PL-ABS|MSeg=īė
-2	miššan	_	DET	_	PronType=Tot	1	det	_	Gloss=all, every|MGloss=all, every-QUAN|MSeg=miššan
+2	miššan	_	DET	_	PronType=Tot	1	det	_	Gloss=all, every|MGloss=all, every|MSeg=miššan
 3	gu	_	PART	_	_	1	number	_	MSeg=gu
-4	l	_	DET	_	PronType=Art	1	det	_	MGloss=ART|MSeg=l
+4	l	_	DET	_	PronType=Art	1	det	_	MSeg=l
 5	lon	_	CCONJ	_	_	11	cc	_	Gloss=and|MGloss=and|MSeg=lon
 6	īttenen	ītten-	VERB	_	Subordinative=Yes|VerbForm=Conv	11	advcl	_	Gloss=be woman|MGloss=be woman-CVB.SUB|MSeg=ītten-en
 7	de	_	CCONJ	_	_	6	cc	_	Gloss=and|MGloss=and|MSeg=de
